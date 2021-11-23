@@ -1,0 +1,55 @@
+#+hugo_base_dir: ../
+#+hugo_section: ./
+#+hugo_weight: nil
+#+hugo_auto_set_lastmod: t
+#+hugo_front_matter_format: yaml
+#+hugo_front_matter_key_replace: description>summary author>nil
+#+category: Blog
+
+* 2021
+:PROPERTIES:
+:EXPORT_HUGO_SECTION: post/2021
+:END:
+** DONE Tuesday, November 23, 2021
+CLOSED: [2021-11-23 Tue 08:08]
+:PROPERTIES:
+:EXPORT_FILE_NAME: tuesday-november-23-2021
+:EXPORT_DESCRIPTION:
+:EXPORT_DATE:
+:END:
+
+[[https://photos.smugmug.com/Blog-Photos/i-JMTzxHX/0/717d0f49/M/Deep%20Work-M.png]]
+
+Blogging with Drummer feels like using someone else's bathroom. I really have to go, and it's a nice bathroom, but it's not mine and I can't really relax, ya know?
+
+*** ox-hugo feels a lot like Drummer
+I was cleaning up some old files and ran into a folder full of Org mode files that had at one time generated my Hugo-based blog.
+
+In the folder is a file named "posts.org" which is an Org mode file, thus is basically an outline that renders out as a blog. Same as [[http://docserver.scripting.com/drummer/about.opml][Drummer]]!
+
+
+
+* About
+:PROPERTIES:
+:EXPORT_HUGO_SECTION: /
+:EXPORT_HUGO_BUNDLE: about
+:EXPORT_FILE_NAME: index
+:END:
+
+{{% figure class="center" src="jack-headshot-400.jpg" title="Your host, Jack Baty" alt="portrait" %}}
+
+
+Start here: [[https://www.baty.net/][baty.net]]
+
+or here: [[https://copingmechanism.com][copingmechanism.com]]
+
+or here: [[https://rudimentarylathe.org][rudimentarylathe.org]]
+
+Email: [[mailto:jack@baty.net][jack@baty.net]]
+
+* Footnotes
+* COMMENT Local Variables :ARCHIVE:
+# Local Variables:
+# org-hugo-footer: "\n\n[//]: # \"Exported with love from a post written in Org mode\"\n[//]: # \"- https://github.com/kaushalmodi/ox-hugo\""
+# eval: (org-hugo-auto-export-mode)
+# End:

@@ -1,0 +1,6 @@
+[submodule "themes/my-jane"]
+	path = themes/my-jane
+	url = git@github.com:jackbaty/hugo-theme-jane.git
+[submodule "themes/daily-jane"]
+	path = themes/daily-jane
+	url = git@github.com:jackbaty/daily-jane.git
