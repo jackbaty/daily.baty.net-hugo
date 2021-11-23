@@ -1,6 +1,6 @@
 ---
 title: "About"
-lastmod: 2021-11-23T09:08:51-05:00
+lastmod: 2021-11-23T17:44:59-05:00
 draft: false
 weight: 0
 ---
@@ -11,7 +11,7 @@ Start here: [baty.net](https://www.baty.net/)
 
 or here: [copingmechanism.com](https://copingmechanism.com)
 
-or here: [rudimentarylathe.org](https://rudimentarylathe.org)
+or here: [rudimentarylathe.wiki](https://rudimentarylathe.wiki)
 
 Email: [jack@baty.net](mailto:jack@baty.net)
 
