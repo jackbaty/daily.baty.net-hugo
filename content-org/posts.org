@@ -13,7 +13,7 @@
 ** DONE Tuesday, November 23, 2021
 CLOSED: [2021-11-23 Tue 08:08]
 :PROPERTIES:
-:EXPORT_FILE_NAME: tuesday-november-23-2021
+:EXPORT_FILE_NAME: 2021-11-23
 :EXPORT_DESCRIPTION:
 :EXPORT_DATE:
 :END:
@@ -23,9 +23,18 @@ CLOSED: [2021-11-23 Tue 08:08]
 Blogging with Drummer feels like using someone else's bathroom. I really have to go, and it's a nice bathroom, but it's not mine and I can't really relax, ya know?
 
 *** ox-hugo feels a lot like Drummer
+:PROPERTIES:
+:ID:       1969394a-2bda-4e67-ac92-7df4f3df1dc1
+:END:
 I was cleaning up some old files and ran into a folder full of Org mode files that had at one time generated my Hugo-based blog.
 
 In the folder is a file named "posts.org" which is an Org mode file, thus is basically an outline that renders out as a blog. Same as [[http://docserver.scripting.com/drummer/about.opml][Drummer]]!
+
+
+#+caption: Look, it's an outliner!
+#+attr_org: :width 800px
+[[attachment:_20211123_115444posts-org.png]]
+
 
 
 
