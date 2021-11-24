@@ -10,6 +10,28 @@
 :PROPERTIES:
 :EXPORT_HUGO_SECTION: post/2021
 :END:
+** DONE Wednesday, November 24, 2021
+CLOSED: [2021-11-24 Wed 05:50]
+:PROPERTIES:
+:EXPORT_FILE_NAME: 2021-11-24
+:EXPORT_HUGO_SLUG: 2021-11-24
+:EXPORT_DESCRIPTION:
+:EXPORT_DATE:
+:END:
+
+☀️ Clear +37°F
+
+Good morning. It's 5:55 am and this morning's walk was pleasant and uneventful. Very dark.
+
+#+caption: Grainy Gail
+[[file:/img/2021/2021-Roll-041-02.jpg]]
+
+06:41 Since I'm writing this in an emacs buffer, it feels more natural to add my notes from the top down rather than reverse-chronologic. Should I timestamp each note like I did this one? (*A:* No, I don't like it.)
+
+Sorry if today's notes become awash in Emacs minutiae. I'm working this out. There's no question that I /much/ prefer writing in Emacs than a text area in TiddlyWiki.
+
+
+
 ** DONE Tuesday, November 23, 2021
 CLOSED: [2021-11-23 Tue 08:08]
 :PROPERTIES:
@@ -18,6 +40,7 @@ CLOSED: [2021-11-23 Tue 08:08]
 :EXPORT_DATE:
 :EXPORT_HUGO_SLUG: 2021-11-23
 :END:
+
 
 
 There are several ways to approach images in ox-hugo. I'm trying three of them in this post :). First, I drag and drop an image into the buffer and it's automatically, via org-attach, moved into ./attach/XX/UUIDfilename.jpg. A link is inserted and when rendering markdown, it uses Hugo's "figure" short code. This is the easiest option to do, but has the most moving parts. I don't like that I don't have control over the precise path. Second, I just link to the URL of an image in SmugMug. Super easy, but I do have to upload the image then grab the "share" link. Not bad. The third option is to generate a local file link like =[[img/foo.jpg]]=.  This feels the most self-contained and tidy, but means exporting a specifically-sized image, naming it something, copying that name, and moving it into the static/img/etc. folder. I'll probably try all three ways for a bit to see which feels best.
