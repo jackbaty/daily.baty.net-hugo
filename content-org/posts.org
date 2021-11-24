@@ -34,11 +34,13 @@ Good grief, Soulver is such a great app. I've used it for years and almost forge
 
 I need to decide on permalinks. Currently, they are /YYYY-MM-DD (=:slug= in Hugo). The files are actually rendered into yearly folders e.g. =YYYY/YYYY-MM-DD.md=. The duplicate year bugs me a little. Perhaps I should go with something easier to read for the slug, like =YYYY/MM-DD-Weekday.md=. Today's would be "/2021/11-24-Wednesday". After thinking about it, I am going without the fake year subfolder but am adding the weekday because I like knowing that without having to look it up. Settled!
 
+The free version of Cloudflare Pages is limited to 500 "builds" per month. That means I can re-render this blog 10 times a day and still have plenty left. I bet I push the wiki at least that many times, so I do need to be a little careful. Worst case I just move the whole enterprise to a static site on my server and rsync to my heart's content.
 
+[[https://photos.smugmug.com/Blog-Photos/i-fDRxhZL/0/58c17289/L/Sacre-Bleu-L.png]]
 
+I'm having a hard time getting comfortable using iCloud drive for syncing everything. I've already moved ~/org out since paths get wonky even when using symlinks to fake them. The iCloud process has hung twice recently. A sync solution can be slow, or weird, but what it can't be is unreliable.
 
-
-
+I have been unable to play from Roon to the KEF LSX speakers for nearly a week. I've tried everything I can think of. I'm no using AirPlay from the Apple Music app. Not ideal, but at least it works.
 ** DONE Tuesday, November 23, 2021
 CLOSED: [2021-11-23 Tue 08:08]
 :PROPERTIES:
@@ -47,8 +49,6 @@ CLOSED: [2021-11-23 Tue 08:08]
 :EXPORT_DATE:
 :EXPORT_HUGO_SLUG: 2021-11-23
 :END:
-
-
 
 There are several ways to approach images in ox-hugo. I'm trying three of them in this post :). First, I drag and drop an image into the buffer and it's automatically, via org-attach, moved into ./attach/XX/UUIDfilename.jpg. A link is inserted and when rendering markdown, it uses Hugo's "figure" short code. This is the easiest option to do, but has the most moving parts. I don't like that I don't have control over the precise path. Second, I just link to the URL of an image in SmugMug. Super easy, but I do have to upload the image then grab the "share" link. Not bad. The third option is to generate a local file link like =[[img/foo.jpg]]=.  This feels the most self-contained and tidy, but means exporting a specifically-sized image, naming it something, copying that name, and moving it into the static/img/etc. folder. I'll probably try all three ways for a bit to see which feels best.
 
