@@ -1,17 +1,23 @@
 ---
 title: "About"
-lastmod: 2021-11-23T17:44:59-05:00
+lastmod: 2021-11-25T09:40:16-05:00
 draft: false
 weight: 0
 ---
 
-{{% figure class="center" src="jack-headshot-400.jpg" title="Your host, Jack Baty" alt="portrait" %}}
+{{% figure class="imgRightMargin" src="jack-headshot-400.jpg" caption="Your host, Jack Baty" alt="portrait" %}}
 
-Start here: [baty.net](https://www.baty.net/)
+I created this site as a place to write down the things I'm thinking about throughout the day. It's meant as a replacement for the "Daily Notes" entries on [my wiki](https://rudimentarylathe.wiki).
 
-or here: [copingmechanism.com](https://copingmechanism.com)
+There isn't a topic, or trend, or brand, or goal here.
 
-or here: [rudimentarylathe.wiki](https://rudimentarylathe.wiki)
+**Do not expect consistency**.
+
+You can also find me here: [baty.net](https://www.baty.net/)
+
+and here: [copingmechanism.com](https://copingmechanism.com)
+
+and here: [rudimentarylathe.wiki](https://rudimentarylathe.wiki)
 
 Email: [jack@baty.net](mailto:jack@baty.net)
 

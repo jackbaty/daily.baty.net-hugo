@@ -127,7 +127,6 @@ In the folder is a file named "posts.org" which is an Org mode file, thus is bas
 
 
 
-
 * About
 :PROPERTIES:
 :EXPORT_HUGO_SECTION: /
@@ -135,14 +134,19 @@ In the folder is a file named "posts.org" which is an Org mode file, thus is bas
 :EXPORT_FILE_NAME: index
 :END:
 
-{{% figure class="center" src="jack-headshot-400.jpg" title="Your host, Jack Baty" alt="portrait" %}}
+{{% figure class="imgRightMargin" src="jack-headshot-400.jpg" caption="Your host, Jack Baty" alt="portrait" %}}
 
+I created this site as a place to write down the things I'm thinking about throughout the day. It's meant as a replacement for the "Daily Notes" entries on [[https://rudimentarylathe.wiki][my wiki]].
 
-Start here: [[https://www.baty.net/][baty.net]]
+There isn't a topic, or trend, or brand, or goal here.
 
-or here: [[https://copingmechanism.com][copingmechanism.com]]
+*Do not expect consistency*.
 
-or here: [[https://rudimentarylathe.wiki][rudimentarylathe.wiki]]
+You can also find me here: [[https://www.baty.net/][baty.net]]
+
+and here: [[https://copingmechanism.com][copingmechanism.com]]
+
+and here: [[https://rudimentarylathe.wiki][rudimentarylathe.wiki]]
 
 Email: [[mailto:jack@baty.net][jack@baty.net]]
 
