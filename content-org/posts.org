@@ -14,7 +14,7 @@
 CLOSED: [2021-11-25 Thu 06:48]
 :PROPERTIES:
 :EXPORT_FILE_NAME: 2021-11-25-Thursday
-:EXPORT_HUGO_SLUG: 2021-11-25-Thursday
+:EXPORT_HUGO_SLUG: 2021-11-25
 :EXPORT_DESCRIPTION:
 :EXPORT_DATE:
 :END:
@@ -54,11 +54,16 @@ I love that this place is 100% mine. I can host it where and how I like. I can m
 
 I've started posting directly to Twitter and/or Mastodon rather than posting to Micro.blog first and having it cross-post for me. I like deciding what goes where and whether it needs minor changes to wording, etc. I also don't feel the need for an actual microblog any more.
 
+I've removed the dayname from each post's "slug" because I want to be able to hack the URL by putting in a date and don't want to need to know what day that date was on. So we're back to =/2021-11-25/=. Sorry if I broke any links.
+
+I've also added date/author info to the bottom of individual posts. I like seeing the date and time a post was last modified. The theme came with author and License stuff built-in, so I kept that, too.
+
+
 ** DONE Wednesday, November 24, 2021
 CLOSED: [2021-11-24 Wed 05:50]
 :PROPERTIES:
 :EXPORT_FILE_NAME: 2021-11-24-Wednesday
-:EXPORT_HUGO_SLUG: 2021-11-24-Wednesday
+:EXPORT_HUGO_SLUG: 2021-11-24
 :EXPORT_DESCRIPTION:
 :EXPORT_DATE:
 :END:
@@ -90,8 +95,6 @@ I'm having a hard time getting comfortable using iCloud drive for syncing everyt
 I have been unable to play from Roon to the KEF LSX speakers for nearly a week. I've tried everything I can think of. I'm no using AirPlay from the Apple Music app. Not ideal, but at least it works.
 
 I finally finished the roll in the M6. I took it out of the camera only to discover it's Portra 400. Color, dammit. I don't have any fresh chemicals. The only reason I have any mixed is that I've been too lazy to dispose of them. Screw it, I thought, and fired up the JOBO anyway. They're drying now. I don't know how they'll look, but there's /something/ on there. Update: There was something [[https://copingmechanism.com/2021/from-roll-043-leica-m6-portra-400/][From Roll 043 (Leica M6/Portra 400)]]
-
-
 ** DONE Tuesday, November 23, 2021
 CLOSED: [2021-11-23 Tue 08:08]
 :PROPERTIES:

@@ -1,8 +1,8 @@
 ---
 title: "Wednesday, November 24, 2021"
 date: 2021-11-24T05:50:00-05:00
-lastmod: 2021-11-24T19:54:50-05:00
-slug: "2021-11-24-Wednesday"
+lastmod: 2021-11-25T10:43:27-05:00
+slug: 2021-11-24
 draft: false
 weight: 0
 ---
