@@ -41,9 +41,14 @@ defaultContentLanguage = "en"           # Default language to use
   weight = 10
   identifier = "home"
   url = "/"
+[[menu.main]]             # config your menu              # 配置目录
+  name = "About"
+  weight = 20
+  identifier = "about"
+  url = "/about/"
 [[menu.main]]
   name = "Archives"
-  weight = 20
+  weight = 30
   identifier = "archives"
   url = "/post/"
 [[menu.main]]
@@ -71,7 +76,7 @@ defaultContentLanguage = "en"           # Default language to use
   dateFormatToUseArchives = "2006-01-02"
   dateFormatToUseTaxonomy = "2006-01-02"
 
-  showAuthorInfo = false # show author info below the article
+  showAuthorInfo = true # show author info below the article
 
 
   # paginate of archives, tags and categories             # 归档、标签、分类每页显示的文章数目，建议修改为一个较大的值
