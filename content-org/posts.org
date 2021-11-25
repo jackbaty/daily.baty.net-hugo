@@ -10,7 +10,8 @@
 :PROPERTIES:
 :EXPORT_HUGO_SECTION: post/2021
 :END:
-** TODO Thursday, November 25, 2021
+** DONE Thursday, November 25, 2021
+CLOSED: [2021-11-25 Thu 06:48]
 :PROPERTIES:
 :EXPORT_FILE_NAME: 2021-11-25-Thursday
 :EXPORT_HUGO_SLUG: 2021-11-25-Thursday
@@ -36,6 +37,10 @@ To add a Drummer-inspired image floating down the right side of a paragraph (lik
 
 The =#+attr_html:= must be directly above the image link, along with any other attributes like =#+caption:=
 
+I must admit that having this blog and my personal (org) journal in 2 side-by-side Emacs buffers is pretty sweet.
+
+#+caption: Blog on left, journal on right...all Emacs and Org mode!
+[[/img/2021/20211125-emacs-journal-n-blog.png]]
 
 ** DONE Wednesday, November 24, 2021
 CLOSED: [2021-11-24 Wed 05:50]
