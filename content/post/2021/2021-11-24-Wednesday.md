@@ -1,7 +1,7 @@
 ---
 title: "Wednesday, November 24, 2021"
 date: 2021-11-24T05:50:00-05:00
-lastmod: 2021-11-24T12:46:13-05:00
+lastmod: 2021-11-24T19:54:50-05:00
 slug: "2021-11-24-Wednesday"
 draft: false
 weight: 0
@@ -12,6 +12,8 @@ weight: 0
 Good morning. It's 5:55 am and this morning's walk was pleasant and uneventful. Very dark.
 
 {{< figure src="/img/2021/2021-Roll-041-02.jpg" caption="Figure 1: Grainy Gail" >}}
+
+{{< figure src="/img/small/org-mode.png" class="imgRightMargin" >}}
 
 06:41 Since I'm writing this in an Emacs buffer, it feels more natural to add my notes from the top down rather than reverse-chronologically. Should I timestamp each note like I did this one? (**A:** No, I don't like it.)
 
@@ -28,6 +30,8 @@ The free version of Cloudflare Pages is limited to 500 "builds" per month. That 
 I'm having a hard time getting comfortable using iCloud drive for syncing everything. I've already moved ~/org out since paths get wonky even when using symlinks to fake them. The iCloud process has hung twice recently. A sync solution can be slow, or weird, but what it can't be is unreliable.
 
 I have been unable to play from Roon to the KEF LSX speakers for nearly a week. I've tried everything I can think of. I'm no using AirPlay from the Apple Music app. Not ideal, but at least it works.
+
+I finally finished the roll in the M6. I took it out of the camera only to discover it's Portra 400. Color, dammit. I don't have any fresh chemicals. The only reason I have any mixed is that I've been too lazy to dispose of them. Screw it, I thought, and fired up the JOBO anyway. They're drying now. I don't know how they'll look, but there's _something_ on there. Update: There was something [From Roll 043 (Leica M6/Portra 400)](https://copingmechanism.com/2021/from-roll-043-leica-m6-portra-400/)
 
 [//]: # "Exported with love from a post written in Org mode"
 [//]: # "- https://github.com/kaushalmodi/ox-hugo"
