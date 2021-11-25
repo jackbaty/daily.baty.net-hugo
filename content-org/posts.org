@@ -23,6 +23,12 @@ CLOSED: [2021-11-25 Thu 06:48]
 
 Good morning. It's 5:48 am and I just had nearly eight ours of uninterupted sleep. My brain is buzzing. Oh, and happy Thanksgiving, 'muricans.
 
+
+#+caption: A perfect way to spend Thanksgiving
+#+attr_html: :class imgRightMargin
+[[/img/2021/20211125-Q1000370.jpg]]
+
+
 #+attr_html: :class imgRightMargin
 [[/img/small/hugo-logo.png]]
 
