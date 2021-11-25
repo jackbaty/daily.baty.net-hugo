@@ -21,12 +21,12 @@ CLOSED: [2021-11-25 Thu 06:48]
 
 ☁️ Overcast +48°F
 
-Good morning. It's 5:48 am and I just had nearly eight ours of uninterupted sleep. My brain is buzzing.
+Good morning. It's 5:48 am and I just had nearly eight ours of uninterupted sleep. My brain is buzzing. Oh, and happy Thanksgiving, 'muricans.
 
 #+attr_html: :class imgRightMargin
 [[/img/small/hugo-logo.png]]
 
-The worst part about blogging with something like Hugo via text files is that when I read something on the website and want to edit it, I have to go way over into another app, find the file, edit, and republish. Where in something like TiddlyWiki I can simply click the edit button. Even Drummer is just a browser tab away from the real thing.
+The worst part about blogging with something like Hugo via text files is that when I read something on the website and want to edit it, I have to go way over into another app, find the file, edit, and republish. Where in something like TiddlyWiki or Ghost I can simply click the edit button. Even Drummer is just a browser tab away from the actual thing.
 
 To add a Drummer-inspired image floating down the right side of a paragraph (like the Hugo logo above), do this...
 
@@ -41,6 +41,12 @@ I must admit that having this blog and my personal (org) journal in 2 side-by-si
 
 #+caption: Blog on left, journal on right...all Emacs and Org mode!
 [[/img/2021/20211125-emacs-journal-n-blog.png]]
+
+Oh, and [[https://orgmode.org][Org mode]] kicks Markdown's ass all the way down the street and back.
+
+I love that this place is 100% mine. I can host it where and how I like. I can modify it if and when I like. I decide what goes where and how it gets there. There's something to be said for all this, even though it's a little more work up front. A fair trade-off. The only part I don't have complete control over right now is hosting. I'm using Cloudflare Pages via Github so I suppose they could muck things up, but I'm not worried about it because everything is local-first and I can simply push it out to a tiny VPS anywhere and I'm back in action.
+
+I've started posting directly to Twitter and/or Mastodon rather than posting to Micro.blog first and having it cross-post for me. I like deciding what goes where and whether it needs minor changes to wording, etc. I also don't feel the need for an actual microblog any more.
 
 ** DONE Wednesday, November 24, 2021
 CLOSED: [2021-11-24 Wed 05:50]
