@@ -1,3 +1,14 @@
 .post-header .post-title {line-height: 1.25em;}
 .post-content p {line-height: 1.5;}
 figure.imgRightMargin { float:right; margin: 10px 10px 10px 10px; }
+
+
+.post .post-header .post-title {
+    font-family: "Oswald";
+    font-size: 32px;
+    font-weight: bold;
+    letter-spacing: -1px;}
+
+.post-content {font-family: "Ubuntu";
+    font-size: 18px;
+    text-rendering: optimizeLegibility;}
