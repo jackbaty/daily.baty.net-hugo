@@ -12,3 +12,10 @@ figure.imgRightMargin { float:right; margin: 10px 10px 10px 10px; }
 .post-content {font-family: "Ubuntu";
     font-size: 18px;
     text-rendering: optimizeLegibility;}
+
+.post-copyright {
+    font-family: source sans pro,helvetica neue,Arial,sans-serif;
+    font-weight: 400;
+    font-size: .85em;
+    line-height: 1.25em;
+}
