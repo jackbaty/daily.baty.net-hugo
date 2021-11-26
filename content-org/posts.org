@@ -10,12 +10,42 @@
 :PROPERTIES:
 :EXPORT_HUGO_SECTION: post/2021
 :END:
+** TODO Friday, November 26, 2021
+:PROPERTIES:
+:EXPORT_FILE_NAME: 2021-11-26-Friday
+:EXPORT_HUGO_SLUG: 2021-11-26
+:EXPORT_DESCRIPTION:
+:EXPORT_DATE:
+:END:
+
+🌨  Light snow +27°F
+
+#+caption: Good morning.
+[[/img/2021/20211116-L1000435.jpg]]
+
+I like to be seen, but I don't like to be watched. It seems like half the houses in my neighborhood have Ring doorbells and it makes me uncomfortable while walking the dog.
+
+#+attr_org: :width 700px
+[[/img/2021/20211126-Rob-Delaney.png]]
+
+
+So far, having the Q2 in a box is not disturbing at all. In fact, it's a relief.
+
+Keyboards don't need to be wireless, but mice sure do.
+
+I wish Safari's pinned tabs persisted across tab groups.
+
+The built in Weather app on iOS is good enough. I can probably delete the 35 other weather-related apps I've installed.
+
+The Friday after Thanksgiving used to be one of the best days of the year. After being on sabbatical for so long, it's just another day. And an annoying one, since everyone and their brother is out shopping so I'll need to avoid going anywhere at all today.
+
+
 ** DONE Thursday, November 25, 2021
 CLOSED: [2021-11-25 Thu 06:48]
 :PROPERTIES:
 :EXPORT_FILE_NAME: 2021-11-25-Thursday
 :EXPORT_HUGO_SLUG: 2021-11-25
-:EXPORT_DESCRIPTION:
+:EXPORT_DESCRIPTION: Thanksgiving and mostly about blogging.
 :EXPORT_DATE:
 :END:
 
@@ -58,6 +88,7 @@ I've removed the dayname from each post's "slug" because I want to be able to ha
 
 I've also added date/author info to the bottom of individual posts. I like seeing the date and time a post was last modified. The theme came with author and License stuff built-in, so I kept that, too.
 
+I boxed up the Q2 today. I'm just testing the waters to see if I miss it. If I don't, I'm going to trade up to an M10-P (again).
 
 ** DONE Wednesday, November 24, 2021
 CLOSED: [2021-11-24 Wed 05:50]
