@@ -38,7 +38,13 @@ I wish Safari's pinned tabs persisted across tab groups.
 
 The built in Weather app on iOS is good enough. I can probably delete the 35 other weather-related apps I've installed.
 
-The Friday after Thanksgiving used to be one of the best days of the year. After being on sabbatical for so long, it's just another day. And an annoying one, since everyone and their brother is out shopping so I'll need to avoid going anywhere at all today.
+The Friday after Thanksgiving used to be one of the best days of the year, but after being on sabbatical for so long, it feels like just another day. And an annoying one, since everyone and their brother is out shopping so I'll need to avoid going anywhere at all today.
+
+I'm still thinking about consolodating my 2 Macs into one new MBP. Last night, Fish shell kept throwing errors on the Air, even though it uses the same config as the Mini. The fact that I need to worry about syncing the configs is another reason for this line of reasoning. I'm so tired of managing the environment in two places. Another solution is to use stock Apple apps like Notes and friends and just let things take care of themselves but we all know that won't happen. Another aspect of this is that when I've nothing specific to do, a 32-inch monitor is rife with distractions. I can usually see a half-dozen app windows at once. Any of which could distract me at any moment. The thing is too big to maximize windows.
+
+I ordered a new computer today: [[https://rudimentarylathe.wiki/#MacBook%20Pro%20M1%20Max%20(2020)][MacBook Pro 14" M1 Max]]. I think this will be a great thing to have done.
+
+
 
 
 ** DONE Thursday, November 25, 2021
