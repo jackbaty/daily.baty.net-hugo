@@ -10,12 +10,34 @@
 :PROPERTIES:
 :EXPORT_HUGO_SECTION: post/2021
 :END:
+** DONE Saturday, November 27, 2021
+CLOSED: [2021-11-27 Sat 05:48]
+:PROPERTIES:
+:EXPORT_FILE_NAME: 2021-11-27-Saturday
+:EXPORT_HUGO_SLUG: 2021-11-27
+:EXPORT_DESCRIPTION:
+:EXPORT_DATE:
+:END:
+
+☁️ Overcast +26°F
+
+Good morning. It's 5:54 am and I have different coffee this morning and I don't love it.
+
+[[/img/2021/20211126-more-baths-less-talking.png]]
+
+I'm supposed to journal as a way to write about what I'm thinking and feeling, but I too often instead write about /writing about/ what I'm thinking and feeling.
+
+I hesitate to publicly compliment people because so much of social media is people blowing smoke up the asses of others for attention. That's not what I'm doing when I compliment someone. This is why I often send a (private) email instead.
+
+Progressive Rock and Nu Metal are the best genres of music.
+
+
 ** DONE Friday, November 26, 2021
 CLOSED: [2021-11-26 Fri 07:45]
 :PROPERTIES:
 :EXPORT_FILE_NAME: 2021-11-26-Friday
 :EXPORT_HUGO_SLUG: 2021-11-26
-:EXPORT_DESCRIPTION:
+:EXPORT_DESCRIPTION: New Computer on order
 :EXPORT_DATE:
 :END:
 
@@ -50,7 +72,6 @@ I ordered a new computer today: [[https://rudimentarylathe.wiki/#MacBook%20Pro%2
 And now I want this: [[https://www.vava.com/products/vava-4k-ultra-short-throw-laser-tv-2?gclid=EAIaIQobChMIsLnzhfSz9AIVSsiUCR2pVgwnEAAYASAAEgJs0_D_BwE][4K Ultra Short Throw Laser TV Projector- VAVA]]
 
 I took the straps off all my cameras today and it feels wonderfully liberating. I hate straps, and I never go anywhere I need to dangle the camera from my neck the whole time, so this is great.
-
 
 ** DONE Thursday, November 25, 2021
 CLOSED: [2021-11-25 Thu 06:48]
