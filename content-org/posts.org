@@ -10,6 +10,23 @@
 :PROPERTIES:
 :EXPORT_HUGO_SECTION: post/2021
 :END:
+** TODO Sunday, November 28, 2021
+:PROPERTIES:
+:EXPORT_FILE_NAME: 2021-11-28-Sunday
+:EXPORT_HUGO_SLUG: 2021-11-28
+:EXPORT_DESCRIPTION:
+:EXPORT_DATE:
+:END:
+
+🌫  Mist +33°F
+
+Good morning. It's 5:20 am and this morning's walk was through 2" of new snow. Alice likes to roll in it.
+
+I almost left the MP sitting on a table at the restaurant last night. What an idiot. I don't deserve nice things.
+
+Still waffling about splitting these daily notes out of the wiki. This is mostly because I got into a lazy mood yesterday in which I stopped wanting to work to maintain anything. This blog doesn't require effort to maintain all the time, but there's a lot going on in support of it. If any part of that breaks down, I'm going to lose interest quickly. Another aspect is that when I was doing this in the wiki, /everything/ was in the wiki. That's kind of nice. One big HTML file with it all right there. This blog has everything in one big org outline, which is nice, but in order to get a usable, parsable website out of it, it needs to be rendered. The wiki /is already/ a fully functional website. I like that part of it.
+
+
 ** DONE Saturday, November 27, 2021
 CLOSED: [2021-11-27 Sat 05:48]
 :PROPERTIES:
