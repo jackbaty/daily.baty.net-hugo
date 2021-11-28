@@ -27,6 +27,22 @@ I almost left the MP sitting on a table at the restaurant last night. What an id
 
 Still waffling about splitting these daily notes out of the wiki. This is mostly because I got into a lazy mood yesterday in which I stopped wanting to work to maintain anything. This blog doesn't require effort to maintain all the time, but there's a lot going on in support of it. If any part of that breaks down, I'm going to lose interest quickly. Another aspect is that when I was doing this in the wiki, /everything/ was in the wiki. That's kind of nice. One big HTML file with it all right there. This blog has everything in one big org outline, which is nice, but in order to get a usable, parsable website out of it, it needs to be rendered. The wiki /is already/ a fully functional website. I like that part of it.
 
+[[/img/2021/20211128-deep-work.png]]
+
+[[https://andadinosaur.com/launch-vinegar][Vinegar YouTube cleaner for Safari]]
+#+begin_quote
+And now the YouTube player situation has gotten bad enough that we need another extension to fix it. That’s where Vinegar comes in. Vinegar also replaces the YouTube player (written in who-knows-what) with a minimal HTML =<video>= tag.
+#+end_quote
+
+I missed that @kookma released a version of [[https://github.com/kookma/TWE-Mehregan][Mehregan for TiddlyWiki]]
+
+#+begin_quote
+Mehregan is a Tiddlywiki based app for personal knowledge management with Zettelkasten concept.
+#+end_quote
+
+I fart around with different cameras so much because I shoot the same subjects all the time. It would be better to use the same camera but with different subjects.
+
+
 
 ** DONE Saturday, November 27, 2021
 CLOSED: [2021-11-27 Sat 05:48]
