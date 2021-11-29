@@ -25,7 +25,10 @@ I remain very much undecided about keeping this daily blog in Org mode or moving
 
 Made a small donation to [[https://archive.org/][Internet Archive]]. You might consider doing the same. It's a precious resource.
 
+Blog post: [[https://copingmechanism.com/2021/from-workbench-to-writing-desk/][From workbench to writing desk – Coping Mechanism]]
 
+#+caption: Note to self
+[[/img/2021/20211129-note-to-self.jpg]]
 
 
 ** DONE Sunday, November 28, 2021
