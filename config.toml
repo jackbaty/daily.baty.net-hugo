@@ -56,7 +56,7 @@ defaultContentLanguage = "en"           # Default language to use
   weight = 50
   url = "https://rudimentarylathe.wiki"
 [[menu.main]]
-  name = "Photo blog"
+  name = "Blog"
   weight = 60
   url = "https://copingmechanism.com/"
 

@@ -24,7 +24,6 @@ CLOSED: [2021-11-29 Mon 05:16]
 I remain very much undecided about keeping this daily blog in Org mode or moving it back into TiddlyWiki. If anyone is reading this and has an opinion, I'd love to hear from you.
 
 
-
 ** DONE Sunday, November 28, 2021
 CLOSED: [2021-11-28 Sun 06:50]
 :PROPERTIES:
@@ -58,7 +57,6 @@ Mehregan is a Tiddlywiki based app for personal knowledge management with Zettel
 I fart around with different cameras so much because I shoot the same subjects all the time. It would be better to use the same camera but with different subjects.
 
 
-
 ** DONE Saturday, November 27, 2021
 CLOSED: [2021-11-27 Sat 05:48]
 :PROPERTIES:
@@ -83,7 +81,6 @@ Progressive Rock, NWOBHM, and pre-Nu Metal are the best genres of music.
 Maintaining the blog and the wiki is kind of unnecessary, but I do like the clean, tidy, mobile-friendly rendering of this theme. And I like writing in Org and Emacs. One decision yet to be made is whether to stop the Daily Notes completely on the wiki, and just point out any significant new content from here. Or who knows, I could end up back all-in TiddlyWiki. Wouldn't be the first time. I'm having fun right now, though.
 
 I'm pretty much over trying to manage email in either mutt or mu4e. I just sent a long note to someone using Mu4e and the formatting was terrible, mostly around line breaks (there weren't any). Looked good in Emacs though! I don't care enough to fight it. Mail.app it is.
-
 
 ** DONE Friday, November 26, 2021
 CLOSED: [2021-11-26 Fri 07:45]
