@@ -10,6 +10,21 @@
 :PROPERTIES:
 :EXPORT_HUGO_SECTION: post/2021
 :END:
+** DONE Monday, November 29, 2021
+CLOSED: [2021-11-29 Mon 05:16]
+:PROPERTIES:
+:EXPORT_FILE_NAME: 2021-11-29-Monday
+:EXPORT_HUGO_SLUG: 2021-11-29
+:EXPORT_DESCRIPTION:
+:EXPORT_DATE:
+:END:
+
+☁️ Overcast +32°F
+
+I remain very much undecided about keeping this daily blog in Org mode or moving it back into TiddlyWiki. If anyone is reading this and has an opinion, I'd love to hear from you.
+
+
+
 ** DONE Sunday, November 28, 2021
 CLOSED: [2021-11-28 Sun 06:50]
 :PROPERTIES:
