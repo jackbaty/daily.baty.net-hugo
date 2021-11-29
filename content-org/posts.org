@@ -21,7 +21,11 @@ CLOSED: [2021-11-29 Mon 05:16]
 
 ☁️ Overcast +32°F
 
-I remain very much undecided about keeping this daily blog in Org mode or moving it back into TiddlyWiki. If anyone is reading this and has an opinion, I'd love to hear from you.
+I remain very much undecided about keeping this daily blog in Org mode or moving it back into TiddlyWiki. If anyone is reading this and has an opinion, I'd love to hear from you. The thing about the wiki is it's always right there in my browser and it's already done. No need to configure/tweak/change much ever. There's something to that. On the other hand, this blog is managed in a single org mode outline and is published to a nice-looking blog with RSS and everything. It's "normal", which seems like it would be better suited to casual readers. So...yeah.
+
+Made a small donation to [[https://archive.org/][Internet Archive]]. You might consider doing the same. It's a precious resource.
+
+
 
 
 ** DONE Sunday, November 28, 2021
