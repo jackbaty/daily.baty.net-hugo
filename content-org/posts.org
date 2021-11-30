@@ -10,6 +10,20 @@
 :PROPERTIES:
 :EXPORT_HUGO_SECTION: post/2021
 :END:
+** DONE Tuesday, November 30, 2021
+CLOSED: [2021-11-30 Tue 14:42]
+:PROPERTIES:
+:EXPORT_FILE_NAME: 2021-11-30-Tuesday
+:EXPORT_HUGO_SLUG: 2021-11-30
+:EXPORT_DESCRIPTION:
+:EXPORT_DATE:
+:END:
+
+I was hoping to spend some time away from the computer today, but instead got sucked into watching videos about and around the M10-R and Summilux 35mm. Then I watched more about photography in general. Then I realized that 80% of YouTube channels are crap content factories, publishing for the sake of publishing and have long ago run out of interesting things to say. So, basically, I've wasted most of the day. I did get a haircut, so at least I'm devastatingly handsome.
+
+Camera and lens have shipped and FedEx says arriving tomorrow but they've been wrong about the last 9 out of 10 deliveries so I'm not getting my hopes up.
+
+
 ** DONE Monday, November 29, 2021
 CLOSED: [2021-11-29 Mon 05:16]
 :PROPERTIES:
