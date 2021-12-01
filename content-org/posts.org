@@ -10,6 +10,27 @@
 :PROPERTIES:
 :EXPORT_HUGO_SECTION: post/2021
 :END:
+** DONE Wednesday, December 1, 2021
+CLOSED: [2021-12-01 Wed 05:03]
+:PROPERTIES:
+:EXPORT_FILE_NAME: 2021-12-01-Wednesday
+:EXPORT_HUGO_SLUG: 2021-12-01
+:EXPORT_DESCRIPTION:
+:EXPORT_DATE:
+:END:
+
+Good morning. It's 5:15 am and it occurs to me that my net worth keeps going down and my weight keeps going up.
+
+It would be better to check in and see what the world is up to maybe once a week and spend the remaining time being up to something myself. But what I actually do is check in with the world continuously throughout every day, leaving no time for doing anything myself.
+
+#+attr_html: :class imgRightMargin
+[[/img/small/fedex.png]]
+
+Guess I'll be reloading the FedEx pages for my new camera and lens all day. FedEx says "Delivered by today" but the packages are still in Indianapolis this morning and FedEx has been wrong 90% of the time lately. Still, 🤞
+
+
+
+
 ** DONE Tuesday, November 30, 2021
 CLOSED: [2021-11-30 Tue 14:42]
 :PROPERTIES:
@@ -27,6 +48,9 @@ I was hoping to spend some time away from the computer today, but instead got su
 Camera and lens have shipped and FedEx says arriving tomorrow but they've been wrong about the last 9 out of 10 deliveries so I'm not getting my hopes up. 🤞📷
 
 More and more of my days are spent fighting the feeling of tech exhaustion. I'm tired of all of it.
+
+I wish I would never have purchased the Leica APO Summicrons for the SL2-S. I'm trying to sell them to fund the new camera but they are just so astonishingly good that I'm having a hard time.
+
 
 
 ** DONE Monday, November 29, 2021
