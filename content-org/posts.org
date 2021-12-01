@@ -32,8 +32,18 @@ Guess I'll be reloading the FedEx pages for my new camera and lens all day. FedE
 
 Do you ever tire of organizing things on the computer? Folders, documents, photos, and on and on. I'm sure tired of it. My [[https://johnnydecimal.com][Johnny.Decimal]]-based folder system is mostly in disarray and the "_Filing Cabinet Inbox" folder is full of stuff I've yet to file. I don't feel like dealing with it. It's just busywork. I just want to pour everything into a couple of top-level folders and let HoudahSpot sort-em out as needed.
 
+Making fun of people or things publicly is a chickenshit move and seems to be the raison d'etre of most people on social media lately.
 
+I've been using [[https://alfred.camera/][Alfred Camera | Simple Security at Your Fingertips]] with an old iPhone 6 as a front door camera. The free version was good enough (one camera, one viewer, limited features) but suddenly the app became riddled with obnoxious ads. I can pay $16.99 for no ads or subscribe for $3.99/month to get no ads plus the extra features. Maybe I should research a privacy-conscious, local-first DIY solution.
 
+[[https://medium.com/@fondalee/twitter-is-the-worst-reader-2ac343c41874][Twitter Is The Worst Reader by Fonda Lee]]
+#+begin_quote
+Never in the history of Twitter have I ever seen an apology be accepted or actually reduce the abuse
+#+end_quote
+
+The trouble with letting just anyone join is that they do.
+
+I have a tiny urge to dismantle my Roon NUC, go back to just using streaming with Apple Music, and putting the NUC to use as, say, a Photoprism server. I just don't feel the need to "own" digital music the way I used do.
 
 ** DONE Tuesday, November 30, 2021
 CLOSED: [2021-11-30 Tue 14:42]
