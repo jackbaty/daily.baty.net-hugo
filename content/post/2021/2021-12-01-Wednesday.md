@@ -1,7 +1,7 @@
 ---
 title: "Wednesday, December 1, 2021"
 date: 2021-12-01T05:03:00-05:00
-lastmod: 2021-12-01T12:50:08-05:00
+lastmod: 2021-12-01T15:35:48-05:00
 slug: 2021-12-01
 draft: false
 weight: 0
@@ -30,6 +30,10 @@ I've been using [Alfred Camera | Simple Security at Your Fingertips](https://alf
 The trouble with letting just anyone join is that they do.
 
 I have a tiny urge to dismantle my Roon NUC, go back to just using streaming with Apple Music, and putting the NUC to use as, say, a Photoprism server. I just don't feel the need to "own" digital music the way I used do.
+
+It's here!
+
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/jbaty/51717194107/in/dateposted-public/" title="20211201-M1000043"><img src="https://live.staticflickr.com/65535/51717194107_d722546374_h.jpg" width="1600" height="1280" alt="20211201-M1000043"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 [//]: # "Exported with love from a post written in Org mode"
 [//]: # "- https://github.com/kaushalmodi/ox-hugo"
