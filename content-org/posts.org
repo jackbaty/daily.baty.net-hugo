@@ -10,6 +10,26 @@
 :PROPERTIES:
 :EXPORT_HUGO_SECTION: post/2021
 :END:
+** DONE Thursday, December 2, 2021
+CLOSED: [2021-12-02 Thu 08:07]
+:PROPERTIES:
+:EXPORT_FILE_NAME: 2021-12-02-Thursday
+:EXPORT_HUGO_SLUG: 2021-12-02
+:EXPORT_DESCRIPTION:
+:EXPORT_DATE:
+:END:
+
+☀️ Clear +49°F
+
+No doubt I'll be spending the day with the new camera. Both the camera and lens sure are pretty.
+
+I love how most of the things I buy are meant to help me "simplify".
+
+Any reviewer who includes "No auto-focus" as a "Con" has no business reviewing a Leica M.
+
+Doing my best to ignore this: [[https://www.craft.do/s/lEjdSXBpq9jSgg][2.0 - Craft update]]
+
+
 ** DONE Wednesday, December 1, 2021
 CLOSED: [2021-12-01 Wed 05:03]
 :PROPERTIES:
@@ -70,7 +90,6 @@ Camera and lens have shipped and FedEx says arriving tomorrow but they've been w
 More and more of my days are spent fighting the feeling of tech exhaustion. I'm tired of all of it.
 
 I wish I would never have purchased the Leica APO Summicrons for the SL2-S. I'm trying to sell them to fund the new camera but they are just so astonishingly good that I'm having a hard time.
-
 
 
 ** DONE Monday, November 29, 2021
@@ -134,7 +153,6 @@ Mehregan is a Tiddlywiki based app for personal knowledge management with Zettel
 #+end_quote
 
 I fart around with different cameras so much because I shoot the same subjects all the time. It would be better to use the same camera but with different subjects.
-
 
 ** DONE Saturday, November 27, 2021
 CLOSED: [2021-11-27 Sat 05:48]
