@@ -10,6 +10,20 @@
 :PROPERTIES:
 :EXPORT_HUGO_SECTION: post/2021
 :END:
+** DONE Friday, December 3, 2021
+CLOSED: [2021-12-03 Fri 04:45]
+:PROPERTIES:
+:EXPORT_FILE_NAME: 2021-12-03-Friday
+:EXPORT_HUGO_SLUG: 2021-12-03
+:EXPORT_DESCRIPTION:
+:EXPORT_DATE:
+:END:
+
+
+☁️ Overcast +39°F
+
+I'm losing interest in all of it.
+
 ** DONE Thursday, December 2, 2021
 CLOSED: [2021-12-02 Thu 08:07]
 :PROPERTIES:
@@ -119,7 +133,6 @@ Camera and lens have shipped and FedEx says arriving tomorrow but they've been w
 More and more of my days are spent fighting the feeling of tech exhaustion. I'm tired of all of it.
 
 I wish I would never have purchased the Leica APO Summicrons for the SL2-S. I'm trying to sell them to fund the new camera but they are just so astonishingly good that I'm having a hard time.
-
 
 ** DONE Monday, November 29, 2021
 CLOSED: [2021-11-29 Mon 05:16]
