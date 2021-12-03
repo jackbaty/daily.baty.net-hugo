@@ -31,8 +31,7 @@ Number one Productivity Tip of the day: Never install the beta.
 
 My problem is that I define "simple" differently each day.
 
-How many of these do we need?
-
+How many of these do we need?...
 [[https://www.schneier.com/blog/archives/2021/12/smart-contract-bug-results-in-31-million-loss.html][Smart Contract Bug Results in $31 Million Loss - Schneier on Security]]
 #+begin_quote
 A hacker stole $31 million from the blockchain company MonoX Finance , by exploiting a bug in software the service uses to draft smart contracts.
@@ -41,6 +40,17 @@ To me, this is reason enough never to use smart contracts for anything important
 #+end_quote
 
 Am I really bloated or is it just my body getting used to becoming fatter every day?
+
+
+#+caption: Fix
+[[/img/2021/20211202-M10R0043.jpg]]
+
+
+This is fun: [[https://www.smashingmagazine.com/2021/11/showcase-lovely-little-websites/][A Showcase Of Lovely Little Websites — Smashing Magazine]]
+
+Thinking about redesigning my office:
+
+[[/img/2021/20211203-office-redesign.jpg]]
 
 
 ** DONE Thursday, December 2, 2021
