@@ -24,7 +24,10 @@ CLOSED: [2021-12-03 Fri 04:45]
 
 I'm losing interest in all of it. I need more calm technology today.
 
+#+caption: Calm technology
 [[/img/2021/20211203-M10R0046.jpg]]
+
+Number one Productivity Tip of the day: Don't install the beta.
 
 ** DONE Thursday, December 2, 2021
 CLOSED: [2021-12-02 Thu 08:07]
