@@ -27,7 +27,21 @@ I'm losing interest in all of it. I need more calm technology today.
 #+caption: Calm technology
 [[/img/2021/20211203-M10R0046.jpg]]
 
-Number one Productivity Tip of the day: Don't install the beta.
+Number one Productivity Tip of the day: Never install the beta.
+
+My problem is that I define "simple" differently each day.
+
+How many of these do we need?
+
+[[https://www.schneier.com/blog/archives/2021/12/smart-contract-bug-results-in-31-million-loss.html][Smart Contract Bug Results in $31 Million Loss - Schneier on Security]]
+#+begin_quote
+A hacker stole $31 million from the blockchain company MonoX Finance , by exploiting a bug in software the service uses to draft smart contracts.
+
+To me, this is reason enough never to use smart contracts for anything important. Human-based adjudication systems are not useless pre-Internet human baggage, they’re vital.
+#+end_quote
+
+Am I really bloated or is it just my body getting used to becoming fatter every day?
+
 
 ** DONE Thursday, December 2, 2021
 CLOSED: [2021-12-02 Thu 08:07]
