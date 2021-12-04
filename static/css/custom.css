@@ -19,3 +19,7 @@ figure.imgRightMargin { float:right; margin: 10px 10px 10px 10px; }
     font-size: .85em;
     line-height: 1.25em;
 }
+
+mark {
+    background: rgba(255, 255, 0, 0.3);
+}
