@@ -5,6 +5,8 @@
 #+hugo_front_matter_format: yaml
 #+hugo_front_matter_key_replace: description>summary author>nil
 #+category: Blog
+#+starup: folded
+#+options: broken-links:t
 
 * 2021
 :PROPERTIES:
@@ -29,8 +31,13 @@ You'll have noticed I'm experimenting with adding some (hopefully) <mark>subtle 
 
 Subscribed to [[https://georgesaunders.substack.com/][Story Club]], <mark>George Saunder's newsletter</mark>. (Thanks to Tully for the recommendation). I'm starting with the free subscription, but if it turns out anything like everything else Saunder's has written, I'll be paying.
 
-Speaking of newsletters, now that I've been using a "blog" for my daily notes, it occurred to me that this format could also work as a daily-ish email newsletter. Have to think about that.
+Speaking of newsletters, now that I've been using a "blog" for my daily notes, it occurred to me that this format could also work as a daily-ish email newsletter. Have to think about that. Would anyone be interested in an email version of this blog, copy and pasted daily into [[https://thelathe.substack.com/][my Substack newsletter]]? Now that this blog has RSS, it seems less necessary but who knows?
 
+At some point I'm going to need to add search here, somehow.
+
+I enjoy writing, but have no desire to be "A Writer".
+
+I moved my Synology to the basement and wired it into my Mac's hub. [[https://rudimentarylathe.wiki/#Connecting%20Mac%20directly%20to%20Synology%20via%20Ethernet][Here are some details]]
 
 *** What of Setapp?
 
