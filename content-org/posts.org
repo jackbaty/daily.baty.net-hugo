@@ -12,6 +12,19 @@
 :PROPERTIES:
 :EXPORT_HUGO_SECTION: post/2021
 :END:
+** DONE Sunday, December 5, 2021
+CLOSED: [2021-12-05 Sun 11:02]
+:PROPERTIES:
+:EXPORT_FILE_NAME: 2021-12-05-Sunday
+:EXPORT_HUGO_SLUG: 2021-12-05
+:EXPORT_DESCRIPTION:
+:EXPORT_DATE:
+:END:
+
+After four hours of flailing about, I've decided to give up on running [[https://photoprism.app][Photoprism]] on the Synology. While I did get it to work at one point, it was so slow to index anything as to be unusable. And conversion of DNG files seemed to get stuck and I needed to reboot the whole machine. It just felt too abstracted and fragile, so I'm looking at Synology Photos again.
+
+
+
 ** DONE Saturday, December 4, 2021
 CLOSED: [2021-12-04 Sat 08:18]
 :PROPERTIES:
@@ -59,7 +72,6 @@ TablePlus, $69 one time. Favorite database management tool. I don't use it often
 That is a one-time payment of $98 plus a couple bucks a month for CleanMyMac. If I skip TablePlus the one-time amount drops to $29.
 
 So after a few months I'm down from $9.99/month for Setapp with access to more than a hundred apps, to just shy of $3.00/month for one app and I own one or two others outright. That extra $7.00/month gives me access to a nearly bottomless well of utilities and toys. I don't think the savings is worth what I'm giving up. Seems I've convinced myself to continue paying for Setapp.
-
 
 ** DONE Friday, December 3, 2021
 CLOSED: [2021-12-03 Fri 04:45]
