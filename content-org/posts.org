@@ -7,11 +7,43 @@
 #+category: Blog
 #+starup: folded
 #+options: broken-links:t
+#+setupfile: ~/org/_SETUP/jack-latex-journal-twocolumn.setup
+#+latex_class_options: [10pt,twocolumn]
 
 * 2021
 :PROPERTIES:
 :EXPORT_HUGO_SECTION: post/2021
 :END:
+** DONE Monday, December 6, 2021
+CLOSED: [2021-12-06 Mon 05:25]
+:PROPERTIES:
+:EXPORT_FILE_NAME: 2021-12-06-Monday
+:EXPORT_HUGO_SLUG: 2021-12-06
+:EXPORT_DESCRIPTION:
+:EXPORT_DATE:
+:END:
+☁️ Overcast +39°F
+
+Good morning. It's 5:25 am and it feels like I have <mark>no tangible goals</mark> at all for the week ahead.
+
+[[/img/2021/20211206-information-diet.png]]
+
+I keep thinking about <mark>running this blog as baty.blog</mark> (replacing Drummer). "daily.baty.net" is good because it explicitly indicates what the site is for. Also, it keeps me from breaking URLs and RSS feeds...again. Maybe I should just leave well enough alone.
+
+Ever since <mark>moving the Synology</mark> to my basement office, all I hear are its drives, constantly grinding away. It's a little crazy-making. It does help remind me to turn on some music, though.
+
+I could stare at the pegboard in my dad's garage all day.
+
+#+caption: Look at all that tape!
+[[/img/2021/20211204-M10R0059.jpg]]
+
+Much like when helping run Fusionary, I want to be in charge of everything but not responsible for anything.
+
+
+
+
+
+
 ** DONE Sunday, December 5, 2021
 CLOSED: [2021-12-05 Sun 11:02]
 :PROPERTIES:
@@ -22,7 +54,6 @@ CLOSED: [2021-12-05 Sun 11:02]
 :END:
 
 After four hours of flailing about, I've decided to give up on running [[https://photoprism.app][Photoprism]] on the Synology. While I did get it to work at one point, it was so slow to index anything as to be unusable. And conversion of DNG files seemed to get stuck and I needed to reboot the whole machine. It just felt too abstracted and fragile, so I'm looking at Synology Photos again.
-
 
 
 ** DONE Saturday, December 4, 2021
