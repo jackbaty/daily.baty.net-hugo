@@ -27,6 +27,8 @@ CLOSED: [2021-12-07 Tue 04:34]
 
 Good morning. It's 4:35 am and <mark>my ears are cold</mark> after walking Alice this morning. I'm trying to hold off until at least 5:00 am before making coffee each morning. I'm definitely watching the clock right now.
 
+[[/img/2021/20211207-50-questions.png]]
+
 For all the time and energy I spend on my <mark>logging system(s)</mark>, it's embarrassing how infrequently I actually use them to look things up. What's even the point? I wonder if my overall happiness would improve if I just stopped doing it. Jot down a few crucial details during the week and let the river of time wash away the rest.
 
 Today, I'm thinking that [[https://logseq.com][Logseq]] offers the best friction to value ratio, while still being local-first and plain text. It's dead-simple to add notes and offers nice backlinks and graphing. The graph is unnecessary but is a free byproduct, so why not? It beats Roam for privacy, cost, and attitude. It beats TiddlyWiki for ease of use and usefulness outside of the app. Plus, the files are in Org format. What's not to like?
@@ -36,6 +38,9 @@ Yeah, the contradiction of the two previous paragraphs is not lost on me.
 As much as I love the idea of the [[https://johnnydecimal.com][Johnny.Decimal]] system, I've utterly failed at maintaining mine.
 
 [[https://linkingmanifesto.org/][Linking Manifesto – Manifesto for Ubiquitous Linking]] seems useful, but how does it go anywhere?
+
+My mood this week is one of removing the necessity, nay, the /ability/ to customize and configure the apps I use to do stuff. For some reason, I've not been tweaking my Emacs config much, so that's a relief. Back to Things, then?
+
 ** DONE Monday, December 6, 2021
 CLOSED: [2021-12-06 Mon 05:25]
 :PROPERTIES:
@@ -65,7 +70,6 @@ I put together a Blurb book today for 2021 family photos. I don't love the desig
 
 I now have <mark>500 photos of my food</mark> in [[https://jackbaty.smugmug.com/Meals/][my meal gallery]].
 
-
 ** DONE Sunday, December 5, 2021
 CLOSED: [2021-12-05 Sun 11:02]
 :PROPERTIES:
@@ -76,7 +80,6 @@ CLOSED: [2021-12-05 Sun 11:02]
 :END:
 
 After four hours of flailing about, I've decided to give up on running [[https://photoprism.app][Photoprism]] on the Synology. While I did get it to work at one point, it was so slow to index anything as to be unusable. And conversion of DNG files seemed to get stuck and I needed to reboot the whole machine. It just felt too abstracted and fragile, so I'm looking at Synology Photos again.
-
 
 ** DONE Saturday, December 4, 2021
 CLOSED: [2021-12-04 Sat 08:18]
