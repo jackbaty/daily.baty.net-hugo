@@ -29,11 +29,13 @@ Good morning. It's 4:35 am and <mark>my ears are cold</mark> after walking Alice
 
 For all the time and energy I spend on my <mark>logging system(s)</mark>, it's embarrassing how infrequently I actually use them to look things up. What's even the point? I wonder if my overall happiness would improve if I just stopped doing it. Jot down a few crucial details during the week and let the river of time wash away the rest.
 
-Today I'm thinking that Logseq offers the best friction to value ratio, while still being local-first and plain text. It's dead-simple to add notes and offers nice backlinks and graphing. The graph is unnecessary but is a free byproduct, so why not? It beats Roam for privacy, cost, and attitude. It beats TiddlyWiki for ease of use and usefulness outside of the app. Plus, the files are in Org format. What's not to like?
+Today, I'm thinking that [[https://logseq.com][Logseq]] offers the best friction to value ratio, while still being local-first and plain text. It's dead-simple to add notes and offers nice backlinks and graphing. The graph is unnecessary but is a free byproduct, so why not? It beats Roam for privacy, cost, and attitude. It beats TiddlyWiki for ease of use and usefulness outside of the app. Plus, the files are in Org format. What's not to like?
 
+Yeah, the contradiction of the two previous paragraphs is not lost on me.
 
+As much as I love the idea of the [[https://johnnydecimal.com][Johnny.Decimal]] system, I've utterly failed at maintaining mine.
 
-
+[[https://linkingmanifesto.org/][Linking Manifesto – Manifesto for Ubiquitous Linking]] seems useful, but how does it go anywhere?
 ** DONE Monday, December 6, 2021
 CLOSED: [2021-12-06 Mon 05:25]
 :PROPERTIES:
