@@ -14,6 +14,26 @@
 :PROPERTIES:
 :EXPORT_HUGO_SECTION: post/2021
 :END:
+** DONE Tuesday, December 7, 2021
+CLOSED: [2021-12-07 Tue 04:34]
+:PROPERTIES:
+:EXPORT_FILE_NAME: 2021-12-07-Tuesday
+:EXPORT_HUGO_SLUG: 2021-12-07
+:EXPORT_DESCRIPTION:
+:EXPORT_DATE:
+:END:
+
+🌨  Light snow +20°F
+
+Good morning. It's 4:35 am and <mark>my ears are cold</mark> after walking Alice this morning. I'm trying to hold off until at least 5:00 am before making coffee each morning. I'm definitely watching the clock right now.
+
+For all the time and energy I spend on my <mark>logging system(s)</mark>, it's embarrassing how infrequently I actually use them to look things up. What's even the point? I wonder if my overall happiness would improve if I just stopped doing it. Jot down a few crucial details during the week and let the river of time wash away the rest.
+
+Today I'm thinking that Logseq offers the best friction to value ratio, while still being local-first and plain text. It's dead-simple to add notes and offers nice backlinks and graphing. The graph is unnecessary but is a free byproduct, so why not? It beats Roam for privacy, cost, and attitude. It beats TiddlyWiki for ease of use and usefulness outside of the app. Plus, the files are in Org format. What's not to like?
+
+
+
+
 ** DONE Monday, December 6, 2021
 CLOSED: [2021-12-06 Mon 05:25]
 :PROPERTIES:
@@ -41,9 +61,7 @@ Much like when helping run Fusionary, I want to be in charge of everything but r
 
 I put together a Blurb book today for 2021 family photos. I don't love the design, captions, or layout, but if I fuss with it too much it never gets done, so I just cranked it out in a couple hours and sent it to print.
 
-
-
-
+I now have <mark>500 photos of my food</mark> in [[https://jackbaty.smugmug.com/Meals/][my meal gallery]].
 
 
 ** DONE Sunday, December 5, 2021
