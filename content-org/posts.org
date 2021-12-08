@@ -14,6 +14,22 @@
 :PROPERTIES:
 :EXPORT_HUGO_SECTION: post/2021
 :END:
+** DONE Wednesday, December 8, 2021
+CLOSED: [2021-12-08 Wed 04:39]
+:PROPERTIES:
+:EXPORT_FILE_NAME: 2021-12-08-Wednesday
+:EXPORT_HUGO_SLUG: 2021-12-08
+:EXPORT_DESCRIPTION:
+:EXPORT_DATE:
+:END:
+
+☁️ Overcast +22°F
+
+Good morning. It's 4:15 am and I've walked a mile in the snow and now I'm wide awake.
+
+Emacs is no longer hanging when writing the markdown files from ox-hugo. I wish I knew why. It bugged me so much yesterday that I <mark>set up a Ghost Pro account</mark> and started a blog to see if Ghost could manage daily posts. This is not a good idea, probably.
+
+
 ** DONE Tuesday, December 7, 2021
 CLOSED: [2021-12-07 Tue 04:34]
 :PROPERTIES:
@@ -40,6 +56,14 @@ As much as I love the idea of the [[https://johnnydecimal.com][Johnny.Decimal]] 
 [[https://linkingmanifesto.org/][Linking Manifesto – Manifesto for Ubiquitous Linking]] seems useful, but how does it go anywhere?
 
 My mood this week is one of removing the necessity, nay, the /ability/ to customize and configure the apps I use to do stuff. For some reason, I've not been tweaking my Emacs config much, so that's a relief. Back to Things, then?
+
+Oh joy, <mark>Emacs crashes</mark> every time I save this file. I'm editing it in [BBEdit](https://www.barebones.com/products/bbedit/index.html) right now... TAKE THAT EMACS! Ok, now I'm testing to see if it's related to the automatic saving/exporting in ox-hugo. Hmm, seems to be. If I edit (in Emacs) the markdown file directly, all is well. So now what?
+
+I haven't taken enough photos with them yet, but they sure look pretty just sitting there waiting for me.
+
+{{< figure src="/img/2021/20211207-R0001899.jpg" caption="Leica MP and Leica M10-R" >}}
+
+I'm hearing that AWS is down, at least us-east-1, anyway. I could smirk because I moved my personal stuff off AWS a while ago. But, this can happen to any of them, so gloating is foolish.
 
 ** DONE Monday, December 6, 2021
 CLOSED: [2021-12-06 Mon 05:25]
