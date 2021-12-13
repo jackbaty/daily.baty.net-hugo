@@ -14,6 +14,17 @@
 :PROPERTIES:
 :EXPORT_HUGO_SECTION: post/2021
 :END:
+** DONE Monday, December 13, 2021
+CLOSED: [2021-12-13 Mon 06:08]
+:PROPERTIES:
+:EXPORT_FILE_NAME: 2021-12-13-Monday
+:EXPORT_HUGO_SLUG: 2021-12-13
+:EXPORT_DESCRIPTION:
+:EXPORT_DATE:
+:END:
+
+Every so often, [[https://sachachua.com/blog][Sacha Chua]] publishes a blog post full of [[https://sachachua.com/blog/2021/12/2021-12-13-emacs-news/][Emacs news]]. Her posts are always full of cool Emacs tricks and news and no matter where I am in the Emacs pendulum, I fire it up and start tweaking. For exaple, I abandoned this site nearly a week ago, moving my daily notes back to [[https://rudimentarylathe.wiki][the wiki]], and yet here I am, in Emacs, writing this post in Org mode. And I must admit, it feels pretty good.
+
 ** DONE Wednesday, December 8, 2021
 CLOSED: [2021-12-08 Wed 04:39]
 :PROPERTIES:
@@ -29,6 +40,7 @@ Good morning. It's 4:15 am and I've walked a mile in the snow and now I'm wide a
 
 Emacs is no longer hanging when writing the markdown files from ox-hugo. I wish I knew why. It bugged me so much yesterday that I <mark>set up a Ghost Pro account</mark> and started a blog to see if Ghost could manage daily posts. This is not a good idea, probably.
 
+It appears I’m writing daily notes again over at [[https://rudimentarylathe.wiki][the wiki]]
 
 ** DONE Tuesday, December 7, 2021
 CLOSED: [2021-12-07 Tue 04:34]
@@ -578,7 +590,7 @@ and here: [[https://rudimentarylathe.wiki][rudimentarylathe.wiki]]
 Email: [[mailto:jack@baty.net][jack@baty.net]]
 
 * Footnotes
-* COMMENT Local Variables :ARCHIVE:
+* COMMENT Local Variables
 # Local Variables:
 # org-hugo-footer: "\n\n[//]: # \"Exported with love from a post written in Org mode\"\n[//]: # \"- https://github.com/kaushalmodi/ox-hugo\""
 # eval: (org-hugo-auto-export-mode)
