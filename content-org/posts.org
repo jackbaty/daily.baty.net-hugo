@@ -34,6 +34,8 @@ I posted about my scanning woes: [[https://baty.blog/2021/too-bad-about-the-prim
 
 A pet peeve of mine is when a website complains that the phone number I entered contains non-numeric characters. Computers are smart and are perfectly capable of filtering out unwanted characters and validating what's left all by themselves. Don't make me do it.
 
+It is such a relief to have lost interest in running Linux on the desktop.
+
 ** DONE Monday, December 13, 2021
 CLOSED: [2021-12-13 Mon 06:08]
 :PROPERTIES:
@@ -47,7 +49,7 @@ CLOSED: [2021-12-13 Mon 06:08]
 
 [[/img/2021/20211213-YouAreNotSoSmart.png]]
 
-Every so often, [[https://sachachua.com/blog][Sacha Chua]] publishes a blog post full of [[https://sachachua.com/blog/2021/12/2021-12-13-emacs-news/][Emacs news]]. Her posts are always full of cool Emacs tricks and news and no matter where I am in the Emacs pendulum, I fire it up and start tweaking. For example, I abandoned this site nearly a week ago, moving my daily notes back to [[https://rudimentarylathe.wiki][the wiki]], and yet here I am, in Emacs, writing this post in Org mode. And I must admit, it feels pretty good.
+Every so often, [[https://sachachua.com/blog][Sacha Chua]] publishes a blog post full of [[https://sachachua.com/blog/2021/12/2021-12-13-emacs-news/][Emacs news]]. Her posts are always full of cool Emacs tricks and news and no matter where I am in the Emacs pendulum's swing, I fire it up and start tweaking. For example, I abandoned this site nearly a week ago, moving my daily notes back to [[https://rudimentarylathe.wiki][the wiki]], and yet here I am, in Emacs, writing this post in Org mode. And I must admit, it feels pretty good.
 
 [[https://baty.blog/2021/one-wiki-one-blog-one-social/][Who am I kidding?]]
 
