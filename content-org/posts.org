@@ -14,6 +14,26 @@
 :PROPERTIES:
 :EXPORT_HUGO_SECTION: post/2021
 :END:
+** DONE Tuesday, December 14, 2021
+CLOSED: [2021-12-14 Tue 05:01]
+:PROPERTIES:
+:EXPORT_FILE_NAME: 2021-12-14-Tuesday
+:EXPORT_HUGO_SLUG: 2021-12-14
+:EXPORT_DESCRIPTION:
+:EXPORT_DATE:
+:END:
+
+
+🌫  Mist +27°F
+
+My new MBP is somewhere in Shanghai and now they seem to have no idea when it will be here.
+
+This is fun: [[https://medium.com/afwp/quirky-art-around-the-world-edinburghs-public-pencil-sharpeners-e599784d84ee][Quirky Art Around the World: Edinburgh’s Public Pencil Sharpeners]]
+
+I posted about my scanning woes: [[https://baty.blog/2021/too-bad-about-the-primefilm-xas-scanner/][Too bad about the PrimeFilm XAs Scanner]].
+
+A pet peeve of mine is when a website complains that the phone number I entered contains non-numeric characters. Computers are smart and are perfectly capable of filtering out unwanted characters and validating what's left all by themselves. Don't make me do it.
+
 ** DONE Monday, December 13, 2021
 CLOSED: [2021-12-13 Mon 06:08]
 :PROPERTIES:
@@ -32,6 +52,21 @@ Every so often, [[https://sachachua.com/blog][Sacha Chua]] publishes a blog post
 [[https://baty.blog/2021/one-wiki-one-blog-one-social/][Who am I kidding?]]
 
 I went clothes shopping for the first time in forever yesterday. The good news is that I found some very nice pieces. The bad news is that it was at [[https://akrikks.com][A.K. Rikk's]] so I spent way too much.
+
+A million dollars worth of camera gear and I snap photos of my dinner.
+
+#+caption: This is why I have nice cameras?
+[[/img/2021/20211213-M10R0150.jpg]]
+
+#+begin_export html
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">i miss when twitter wasn&#39;t just constant crypto shilling wow</p>&mdash; Owen Williams ⚡ (@ow) <a href="https://twitter.com/ow/status/1470506506533679117?ref_src=twsrc%5Etfw">December 13, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+#+end_export
+
+Me too, Owen.
+
+Wiki...blog...wiki...blog...wiki ???
+
+It's embarrassing, but 100% correct that I make photos as an excuse to use cameras. I blog as an excuse to use publishing tools.
 
 ** DONE Wednesday, December 8, 2021
 CLOSED: [2021-12-08 Wed 04:39]
