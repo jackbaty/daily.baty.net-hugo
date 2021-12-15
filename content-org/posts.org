@@ -48,6 +48,8 @@ Would I run this site if there were an easy, self-hosted version of [[http://dru
 
 Never mind. Cloudflare gets me hosting, analytics, speed reports, and a CDN for free. The downside is a little complexity and short wait between pushing and seeing changes live. A fair trade, for now.
 
+In an effort to stay focused and actually move toward specific goals, I've started clocking my time in Org mode again. This means the first two hours I logged were under "Configuring Emacs".
+
 ** DONE Tuesday, December 14, 2021
 CLOSED: [2021-12-14 Tue 05:01]
 :PROPERTIES:
