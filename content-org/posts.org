@@ -50,6 +50,15 @@ Never mind. Cloudflare gets me hosting, analytics, speed reports, and a CDN for 
 
 In an effort to stay focused and actually move toward specific goals, I've started clocking my time in Org mode again. This means the first two hours I logged were under "Configuring Emacs".
 
+[[https://mastodon.social/@Decentralize_today/105568887053100411][Not on social media?]] (Hilarious)
+
+[[https://www.macfilos.com/2021/12/15/ode-to-the-joy-of-the-leica-m10/][Ode to the joy of the Leica M10 - Macfilos]]
+#+begin_quote
+You can be fast with an M-Leica without perishing from stress.
+#+end_quote
+
+
+
 ** DONE Tuesday, December 14, 2021
 CLOSED: [2021-12-14 Tue 05:01]
 :PROPERTIES:

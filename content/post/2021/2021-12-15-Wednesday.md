@@ -1,7 +1,7 @@
 ---
 title: "Wednesday, December 15, 2021"
 date: 2021-12-15T04:44:00-05:00
-lastmod: 2021-12-15T10:13:36-05:00
+lastmod: 2021-12-15T17:21:46-05:00
 slug: 2021-12-15
 draft: false
 weight: 0
@@ -32,6 +32,14 @@ Would I run this site if there were an easy, self-hosted version of [Drummer](ht
 ~~I've moved this site from Cloudflare Pages to my static Digital Ocean droplet running [Caddy](https://caddyserver.com). I just use a [Makefile](https://github.com/jackbaty/daily.baty.net/blob/main/Makefile) to commit the changes and push them out to the server. No delays. No build limits. Mine.~~
 
 Never mind. Cloudflare gets me hosting, analytics, speed reports, and a CDN for free. The downside is a little complexity and short wait between pushing and seeing changes live. A fair trade, for now.
+
+In an effort to stay focused and actually move toward specific goals, I've started clocking my time in Org mode again. This means the first two hours I logged were under "Configuring Emacs".
+
+[Not on social media?](https://mastodon.social/@Decentralize%5Ftoday/105568887053100411) (Hilarious)
+
+[Ode to the joy of the Leica M10 - Macfilos](https://www.macfilos.com/2021/12/15/ode-to-the-joy-of-the-leica-m10/)
+
+> You can be fast with an M-Leica without perishing from stress.
 
 [//]: # "Exported with love from a post written in Org mode"
 [//]: # "- https://github.com/kaushalmodi/ox-hugo"
