@@ -42,6 +42,8 @@ Now I've been poking around in [[https://static.baty.net][static.baty.net]] and 
 
 I think I've started writing here again because it's the kind of blog I'd want to read. The wiki isn't. I wish more people would write blogs like this one. I'd read 'em 😁.
 
+Would I run this site if there were an easy, self-hosted version of [[http://drummer.scripting.com][Drummer]]? I might!
+
 ** DONE Tuesday, December 14, 2021
 CLOSED: [2021-12-14 Tue 05:01]
 :PROPERTIES:
