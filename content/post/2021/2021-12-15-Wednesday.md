@@ -1,7 +1,7 @@
 ---
 title: "Wednesday, December 15, 2021"
 date: 2021-12-15T04:44:00-05:00
-lastmod: 2021-12-15T06:02:58-05:00
+lastmod: 2021-12-15T06:38:44-05:00
 slug: 2021-12-15
 draft: false
 weight: 0
@@ -17,7 +17,11 @@ What if I were to start thinking of all my blogs and wikis and streams and such 
 
 Well, shit, now this "projects" idea has taken hold of me. Update: I started poking around looking for ideas and found [Tiny Projects](https://tinyprojects.dev/) by Ben Stokes. He also made [Paper Website: Start a tiny website from your notebook](https://paperwebsite.com/), which is the coolest idea and I'm pissed I didn't think of it. That's _exactly_ the kind of thing I'm thinking about
 
-Well, neat, Emacs is crashing again whenever I save and export from ox-hugo. I've tried disabling the bit that exports automatically every time the file is saved: `# eval: (org-hugo-auto-export-mode)`. Maybe it's got something to do with the auto-export function.
+Well, neat, Emacs is crashing again whenever I save and export from ox-hugo. I've tried disabling the bit that exports automatically every time the file is saved: `# eval: (org-hugo-auto-export-mode)`. Maybe it's got something to do with the auto-export function. I could just punt and edit these posts as individual Markdown files but Markdown isn't Org now is it? Update: So far, so good on doing the exports manually. It's a few more keystrokes (`C-c C-e H H`), but not a huge burden.
+
+Remember that time I used the guy in this photo as my avatar?
+
+{{< figure src="https://static.baty.net/galleries/found-negatives/images/large/Found-Negative-Scan-097.jpg" >}}
 
 [//]: # "Exported with love from a post written in Org mode"
 [//]: # "- https://github.com/kaushalmodi/ox-hugo"
