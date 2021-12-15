@@ -24,6 +24,10 @@ CLOSED: [2021-12-15 Wed 04:44]
 :END:
 🌫  Mist +45°F
 
+Remember that time I used the guy in this photo as my avatar? (More in [[https://static.baty.net/galleries/found-negatives/][Found Negatives]])
+
+[[https://static.baty.net/galleries/found-negatives/images/large/Found-Negative-Scan-097.jpg]]
+
 I've been trying [[https://www.raycast.com/][Raycast]] and it has some neat ideas. I'm not sure yet if it's better than [[https://www.alfredapp.com][Alfred]], but it's fun to try a new approach to what for me has become workflow plumbing.
 
 I should start a new site at weekly.baty.net where I summarize everything from here and [[https://rudimentarylathe.wiki][the wiki]] and the blog (ahem, blogs). It might also make for a sustainable and mildly interesting newsletter.
@@ -34,9 +38,9 @@ Well, shit, now this "projects" idea has taken hold of me. Update: I started pok
 
 Well, neat, Emacs is crashing again whenever I save and export from ox-hugo. I've tried disabling the bit that exports automatically every time the file is saved: =# eval: (org-hugo-auto-export-mode)=. Maybe it's got something to do with the auto-export function. I could just punt and edit these posts as individual Markdown files but Markdown isn't Org now is it? Update: So far, so good on doing the exports manually. It's a few more keystrokes (=C-c C-e H H=), but not a huge burden.
 
-Remember that time I used the guy in this photo as my avatar?
+Now I've been poking around in [[https://static.baty.net][static.baty.net]] and ran into my 10-year-old [[https://dellibrary.baty.net/][Jack Baty's Delicious Library]] site. I update the photo of me while I was in there.
 
-[[https://static.baty.net/galleries/found-negatives/images/large/Found-Negative-Scan-097.jpg]]
+
 
 ** DONE Tuesday, December 14, 2021
 CLOSED: [2021-12-14 Tue 05:01]
