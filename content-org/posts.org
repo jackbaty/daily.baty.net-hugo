@@ -57,6 +57,13 @@ In an effort to stay focused and actually move toward specific goals, I've start
 You can be fast with an M-Leica without perishing from stress.
 #+end_quote
 
+OMG OMG OMG! I'll watch anything with Nicolas Cage in it, and this is Nick all the way down:
+
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OT_aDZc3vXY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+#+end_export
+
+[[https://github.com/scripting/drummerSupport/issues/134]["Oh for crying out loud" is right.]] Again and again, we learn the same lesson. I can't be near it for too long.
 
 
 ** DONE Tuesday, December 14, 2021

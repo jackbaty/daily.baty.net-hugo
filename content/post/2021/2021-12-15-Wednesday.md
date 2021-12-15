@@ -1,7 +1,7 @@
 ---
 title: "Wednesday, December 15, 2021"
 date: 2021-12-15T04:44:00-05:00
-lastmod: 2021-12-15T17:21:46-05:00
+lastmod: 2021-12-15T18:01:04-05:00
 slug: 2021-12-15
 draft: false
 weight: 0
@@ -40,6 +40,12 @@ In an effort to stay focused and actually move toward specific goals, I've start
 [Ode to the joy of the Leica M10 - Macfilos](https://www.macfilos.com/2021/12/15/ode-to-the-joy-of-the-leica-m10/)
 
 > You can be fast with an M-Leica without perishing from stress.
+
+OMG OMG OMG! I'll watch anything with Nicolas Cage in it, and this is Nick all the way down:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OT_aDZc3vXY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+["Oh for crying out loud" is right.](https://github.com/scripting/drummerSupport/issues/134) Again and again, we learn the same lesson. I can't be near it for too long.
 
 [//]: # "Exported with love from a post written in Org mode"
 [//]: # "- https://github.com/kaushalmodi/ox-hugo"
