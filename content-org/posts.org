@@ -44,6 +44,8 @@ I think I've started writing here again because it's the kind of blog I'd want t
 
 Would I run this site if there were an easy, self-hosted version of [[http://drummer.scripting.com][Drummer]]? I might!
 
+I've moved this site from Cloudflare Pages to my static Digital Ocean droplet running [[https://caddyserver.com][Caddy]]. I just use a [[https://github.com/jackbaty/daily.baty.net/blob/main/Makefile][Makefile]] to commit the changes and push them out to the server. No delays. No build limits. Mine.
+
 ** DONE Tuesday, December 14, 2021
 CLOSED: [2021-12-14 Tue 05:01]
 :PROPERTIES:
