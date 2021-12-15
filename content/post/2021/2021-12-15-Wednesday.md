@@ -1,7 +1,7 @@
 ---
 title: "Wednesday, December 15, 2021"
 date: 2021-12-15T04:44:00-05:00
-lastmod: 2021-12-15T18:01:04-05:00
+lastmod: 2021-12-15T18:56:25-05:00
 slug: 2021-12-15
 draft: false
 weight: 0
@@ -46,6 +46,8 @@ OMG OMG OMG! I'll watch anything with Nicolas Cage in it, and this is Nick all t
 <iframe width="560" height="315" src="https://www.youtube.com/embed/OT_aDZc3vXY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ["Oh for crying out loud" is right.](https://github.com/scripting/drummerSupport/issues/134) Again and again, we learn the same lesson. I can't be near it for too long.
+
+We're going to an office Christmas party tomorrow. Everyone must test negative for COVID-19 using rapid tests within 24 hours prior. I'm negative. The introvert in me is a little disappointed.
 
 [//]: # "Exported with love from a post written in Org mode"
 [//]: # "- https://github.com/kaushalmodi/ox-hugo"
