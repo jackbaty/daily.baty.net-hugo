@@ -14,6 +14,27 @@
 :PROPERTIES:
 :EXPORT_HUGO_SECTION: post/2021
 :END:
+** DONE Wednesday, December 15, 2021
+CLOSED: [2021-12-15 Wed 04:44]
+:PROPERTIES:
+:EXPORT_FILE_NAME: 2021-12-15-Wednesday
+:EXPORT_HUGO_SLUG: 2021-12-15
+:EXPORT_DESCRIPTION:
+:EXPORT_DATE:
+:END:
+
+
+🌫  Mist +45°F
+
+I've been trying [[https://www.raycast.com/][Raycast]] and it has some neat ideas. I'm not sure yet if it's better than [[https://www.alfredapp.com][Alfred]], but it's fun to try a new approach to what for me has become workflow plumbing.
+
+I should start a new site at weekly.baty.net where I summarize everything from here and [[https://rudimentarylathe.wiki][the wiki]] and the blog (ahem, blogs). It might also make for a sustainable and mildly interesting newsletter.
+
+What if I were to start thinking of all my blogs and wikis and streams and such as projects? This site is my "Daily Notes" project. I have a "Wiki Project" over at [[https://rudimentarylathe.org][rudimentarylathe.wiki]]. I also like the word "experiment" but I'm thinking "project" has a more bite-sized and tangible ring to it, somehow.
+
+Well, shit, now this "projects" idea has taken hold of me. Update: I started poking around looking for ideas and found [[https://tinyprojects.dev/][Tiny Projects]] by Ben Stokes. He also made [[https://paperwebsite.com/][Paper Website: Start a tiny website from your notebook]], which is the coolest idea and I'm pissed I didn't think of it
+
+
 ** DONE Tuesday, December 14, 2021
 CLOSED: [2021-12-14 Tue 05:01]
 :PROPERTIES:
@@ -35,6 +56,12 @@ I posted about my scanning woes: [[https://baty.blog/2021/too-bad-about-the-prim
 A pet peeve of mine is when a website complains that the phone number I entered contains non-numeric characters. Computers are smart and are perfectly capable of filtering out unwanted characters and validating what's left all by themselves. Don't make me do it.
 
 It is such a relief to have lost interest in running Linux on the desktop.
+
+Sometimes, not always, but sometimes it is just sour grapes.
+
+I may need to talk about the camera situation, soon. I have no business having all three of these:
+
+[[/img/2021/20211214-R0001902.jpg]]
 
 ** DONE Monday, December 13, 2021
 CLOSED: [2021-12-13 Mon 06:08]
@@ -620,19 +647,20 @@ In the folder is a file named "posts.org" which is an Org mode file, thus is bas
 
 {{% figure class="imgRightMargin" src="jack-headshot-400.jpg" caption="Your host, Jack Baty" alt="portrait" %}}
 
-I created this site as a place to write down the things I'm thinking about throughout the day. It's meant as a replacement for the "Daily Notes" entries on [[https://rudimentarylathe.wiki][my wiki]].
+I created this site as a place to write down the things I'm thinking about throughout each day. It's meant as a replacement for the "Daily Notes" entries on [[https://rudimentarylathe.wiki][my wiki]].
 
 There isn't a topic, or trend, or brand, or goal here.
 
 *Do not expect consistency*.
 
-You can also find me here: [[https://www.baty.net/][baty.net]]
+#+begin_export html
+<br clear="all">
+#+end_export
+There's a "landing page" at [[https://www.baty.net/][baty.net]] (thanks to [[https://omg.lol][omg.lol]])
 
-and here: [[https://copingmechanism.com][copingmechanism.com]]
+My wiki is [[https://rudimentarylathe.wiki][rudimentarylathe.wiki]]
 
-and here: [[https://rudimentarylathe.wiki][rudimentarylathe.wiki]]
-
-Email: [[mailto:jack@baty.net][jack@baty.net]]
+Get in touch via email: [[mailto:jack@baty.net][jack@baty.net]]
 
 * Footnotes
 * COMMENT Local Variables
