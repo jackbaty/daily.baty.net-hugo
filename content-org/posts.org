@@ -40,7 +40,7 @@ Well, neat, Emacs is crashing again whenever I save and export from ox-hugo. I'v
 
 Now I've been poking around in [[https://static.baty.net][static.baty.net]] and ran into my 10-year-old [[https://dellibrary.baty.net/][Jack Baty's Delicious Library]] site. I update the photo of me while I was in there.
 
-
+I think I've started writing here again because it's the kind of blog I'd want to read. The wiki isn't. I wish more people would write blogs like this one. I'd read 'em 😁.
 
 ** DONE Tuesday, December 14, 2021
 CLOSED: [2021-12-14 Tue 05:01]
