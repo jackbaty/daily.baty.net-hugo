@@ -22,8 +22,6 @@ CLOSED: [2021-12-15 Wed 04:44]
 :EXPORT_DESCRIPTION:
 :EXPORT_DATE:
 :END:
-
-
 🌫  Mist +45°F
 
 I've been trying [[https://www.raycast.com/][Raycast]] and it has some neat ideas. I'm not sure yet if it's better than [[https://www.alfredapp.com][Alfred]], but it's fun to try a new approach to what for me has become workflow plumbing.
@@ -32,8 +30,9 @@ I should start a new site at weekly.baty.net where I summarize everything from h
 
 What if I were to start thinking of all my blogs and wikis and streams and such as projects? This site is my "Daily Notes" project. I have a "Wiki Project" over at [[https://rudimentarylathe.org][rudimentarylathe.wiki]]. I also like the word "experiment" but I'm thinking "project" has a more bite-sized and tangible ring to it, somehow.
 
-Well, shit, now this "projects" idea has taken hold of me. Update: I started poking around looking for ideas and found [[https://tinyprojects.dev/][Tiny Projects]] by Ben Stokes. He also made [[https://paperwebsite.com/][Paper Website: Start a tiny website from your notebook]], which is the coolest idea and I'm pissed I didn't think of it
+Well, shit, now this "projects" idea has taken hold of me. Update: I started poking around looking for ideas and found [[https://tinyprojects.dev/][Tiny Projects]] by Ben Stokes. He also made [[https://paperwebsite.com/][Paper Website: Start a tiny website from your notebook]], which is the coolest idea and I'm pissed I didn't think of it. That's /exactly/ the kind of thing I'm thinking about
 
+Well, neat, Emacs is crashing again whenever I save and export from ox-hugo. I've tried disabling the bit that exports automatically every time the file is saved: =# eval: (org-hugo-auto-export-mode)=. Maybe it's got something to do with the auto-export function.
 
 ** DONE Tuesday, December 14, 2021
 CLOSED: [2021-12-14 Tue 05:01]
@@ -666,5 +665,4 @@ Get in touch via email: [[mailto:jack@baty.net][jack@baty.net]]
 * COMMENT Local Variables
 # Local Variables:
 # org-hugo-footer: "\n\n[//]: # \"Exported with love from a post written in Org mode\"\n[//]: # \"- https://github.com/kaushalmodi/ox-hugo\""
-# eval: (org-hugo-auto-export-mode)
 # End:

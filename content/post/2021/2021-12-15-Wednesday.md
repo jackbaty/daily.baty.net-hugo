@@ -1,7 +1,7 @@
 ---
 title: "Wednesday, December 15, 2021"
 date: 2021-12-15T04:44:00-05:00
-lastmod: 2021-12-15T05:40:56-05:00
+lastmod: 2021-12-15T06:02:58-05:00
 slug: 2021-12-15
 draft: false
 weight: 0
@@ -15,7 +15,9 @@ I should start a new site at weekly.baty.net where I summarize everything from h
 
 What if I were to start thinking of all my blogs and wikis and streams and such as projects? This site is my "Daily Notes" project. I have a "Wiki Project" over at [rudimentarylathe.wiki](https://rudimentarylathe.org). I also like the word "experiment" but I'm thinking "project" has a more bite-sized and tangible ring to it, somehow.
 
-Well, shit, now this "projects" idea has taken hold of me. Update: I started poking around looking for ideas and found [Tiny Projects](https://tinyprojects.dev/) by Ben Stokes. He also made [Paper Website: Start a tiny website from your notebook](https://paperwebsite.com/), which is the coolest idea and I'm pissed I didn't think of it
+Well, shit, now this "projects" idea has taken hold of me. Update: I started poking around looking for ideas and found [Tiny Projects](https://tinyprojects.dev/) by Ben Stokes. He also made [Paper Website: Start a tiny website from your notebook](https://paperwebsite.com/), which is the coolest idea and I'm pissed I didn't think of it. That's _exactly_ the kind of thing I'm thinking about
+
+Well, neat, Emacs is crashing again whenever I save and export from ox-hugo. I've tried disabling the bit that exports automatically every time the file is saved: `# eval: (org-hugo-auto-export-mode)`. Maybe it's got something to do with the auto-export function.
 
 [//]: # "Exported with love from a post written in Org mode"
 [//]: # "- https://github.com/kaushalmodi/ox-hugo"
