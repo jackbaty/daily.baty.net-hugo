@@ -5,7 +5,7 @@
 #+hugo_front_matter_format: yaml
 #+hugo_front_matter_key_replace: description>summary author>nil
 #+category: Blog
-#+startup: folded
+#+startup: overview
 #+options: broken-links:t
 #+setupfile: ~/org/_SETUP/jack-latex-journal-twocolumn.setup
 #+latex_class_options: [10pt,twocolumn]
@@ -31,6 +31,8 @@ It's 65 degrees this morning, and /very/ windy. Felt like spring, a little.
 [[/img/small/RailsLogo.png]]
 
 I miss Ruby on Rails. I deployed my first production Rails app for a client in 2006. This may have been before Rails was even out of beta. It was a joyful time. With version 7.0.0 released yesterday ([[https://rubyonrails.org/2021/12/15/Rails-7-fulfilling-a-vision][Ruby on Rails — Rails 7.0: Fulfilling a vision]]), I think I'll see what I've missed in the last decade or so. Node, React, SPAs, and friends never felt right to me. Rails felt right, but our developers wanted to move on. A few of them are now back doing Rails full-time. Maybe I'll join them!
+
+The good news is that my new MBP has finally moved from Shanghai to Alaska. The bad news is that now it's not scheduled to arrive until Monday.
 
 
 ** DONE Wednesday, December 15, 2021
