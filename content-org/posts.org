@@ -5,7 +5,7 @@
 #+hugo_front_matter_format: yaml
 #+hugo_front_matter_key_replace: description>summary author>nil
 #+category: Blog
-#+starup: folded
+#+startup: folded
 #+options: broken-links:t
 #+setupfile: ~/org/_SETUP/jack-latex-journal-twocolumn.setup
 #+latex_class_options: [10pt,twocolumn]
@@ -14,6 +14,25 @@
 :PROPERTIES:
 :EXPORT_HUGO_SECTION: post/2021
 :END:
+** DONE Thursday, December 16, 2021
+CLOSED: [2021-12-16 Thu 06:02]
+:PROPERTIES:
+:EXPORT_FILE_NAME: 2021-12-16-Thursday
+:EXPORT_HUGO_SLUG: 2021-12-16
+:EXPORT_DESCRIPTION:
+:EXPORT_DATE:
+:END:
+
+⛅️  Partly cloudy +65°F
+
+It's 65 degrees this morning, and /very/ windy. Felt like spring, a little.
+
+#+attr_html: :class imgRightMargin
+[[/img/small/RailsLogo.png]]
+
+I miss Ruby on Rails. I deployed my first production Rails app for a client in 2006. This may have been before Rails was even out of beta. It was a joyful time. With version 7.0.0 released yesterday ([[https://rubyonrails.org/2021/12/15/Rails-7-fulfilling-a-vision][Ruby on Rails — Rails 7.0: Fulfilling a vision]]), I think I'll see what I've missed in the last decade or so. Node, React, SPAs, and friends never felt right to me. Rails felt right, but our developers wanted to move on. A few of them are now back doing Rails full-time. Maybe I'll join them!
+
+
 ** DONE Wednesday, December 15, 2021
 CLOSED: [2021-12-15 Wed 04:44]
 :PROPERTIES:
