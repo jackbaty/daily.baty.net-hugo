@@ -34,13 +34,16 @@ I miss Ruby on Rails. I deployed my first production Rails app for a client in 2
 
 The good news is that my new MBP has finally moved from Shanghai to Alaska. The bad news is that now it's not scheduled to arrive until Monday.
 
-I've updated my Emacs config so that Org mode is prettier. I really just wanted prettier bullets. I learned that when using [[https://github.com/hlissner/doom-emacs][Doom Emacs]], one can add =+pretty+ to org's config in init.el to get nice bullets. I've tweaked mine further, like so:
+I've updated my Emacs config so that Org mode is prettier. I really just wanted prettier bullets. I learned that when using [[https://github.com/hlissner/doom-emacs][Doom Emacs]], one can add =+pretty= to org's config in init.el to get nice bullets. I've tweaked mine further, like so:
 
 #+begin_src elisp
 (setq
     org-superstar-headline-bullets-list '("⁖" "◉" "○" "✸" "✿"))
 #+end_src
 
+Blog post: [[https://baty.blog/2021/tabs-in-emacs/][Tabs in Emacs]]
+
+I changed the theme again at [[https://baty.blog][baty.blog]]. Back to "Saima". I still like Casper, but wanted something that felt lighter. Cleaner. Hoping Saimi can stay, but I'm always looking.
 ** DONE Wednesday, December 15, 2021
 CLOSED: [2021-12-15 Wed 04:44]
 :PROPERTIES:
