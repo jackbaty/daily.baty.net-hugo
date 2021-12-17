@@ -14,6 +14,23 @@
 :PROPERTIES:
 :EXPORT_HUGO_SECTION: post/2021
 :END:
+** DONE Friday, December 17, 2021
+CLOSED: [2021-12-17 Fri 04:46]
+:PROPERTIES:
+:EXPORT_FILE_NAME: 2021-12-17-Friday
+:EXPORT_HUGO_SLUG: 2021-12-17
+:EXPORT_DESCRIPTION:
+:EXPORT_DATE:
+:END:
+
+☀️ Clear +33°F
+
+I took 140 photos with the M10-R at an office Christmas party last night. I culled things down to 47 images worth sharing with the group. Here's one of the cool Cadillac they had parked in the room.
+
+#+caption: Cadillac. Leica M10-R. 35mm Summilux-M FLE.
+[[/img/2021/M10R0303-Edit.jpg]]
+
+I've been trying to use Lightroom Desktop (not Classic) but I don't think I can do it. It's fast, lightweight, and handles storage and backups and everything for me. Some days I don't feel like naming, managing, and dealing with files. On the other hand, I can never get comfortable with /not/ managing them. But mostly it's that Lightroom Classic does everything /except/ manage the actual photos. I need that more than I need the convenience.
 ** DONE Thursday, December 16, 2021
 CLOSED: [2021-12-16 Thu 06:02]
 :PROPERTIES:
@@ -53,6 +70,16 @@ Half the battle of getting going is finding a thread to pull.
 #+end_quote
 
 The kind of photos I want to make are portraits: studio or environmental. Why, then, do I have fancy Leica M cameras when there are much more suitable cameras for the task?
+
+Dave Pell:
+#+begin_quote
+...because what a throng of uninformed people say on social media is news these days.
+#+end_quote
+
+I haven't bought any clothes in a long time. Got a new cardigan this week.
+
+[[/img/2021/L1000660.jpg]]
+
 ** DONE Wednesday, December 15, 2021
 CLOSED: [2021-12-15 Wed 04:44]
 :PROPERTIES:
