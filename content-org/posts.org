@@ -25,12 +25,15 @@ CLOSED: [2021-12-17 Fri 04:46]
 
 ☀️ Clear +33°F
 
-I took 140 photos with the M10-R at an office Christmas party last night. I culled things down to 47 images worth sharing with the group. Here's one of the cool Cadillac they had parked in the room.
+I took 140 photos with the M10-R at an office Christmas party last night. I culled things down to 47 images worth sharing with the group. Here's one of the cool Cadillac that was parked in the room.
 
 #+caption: Cadillac. Leica M10-R. 35mm Summilux-M FLE.
 [[/img/2021/M10R0303-Edit.jpg]]
 
 I've been trying to use Lightroom Desktop (not Classic) but I don't think I can do it. It's fast, lightweight, and handles storage and backups and everything for me. Some days I don't feel like naming, managing, and dealing with files. On the other hand, I can never get comfortable with /not/ managing them. But mostly it's that Lightroom Classic does everything /except/ manage the actual photos. I need that more than I need the convenience.
+
+It's like every morning I'm a completely different person.
+
 ** DONE Thursday, December 16, 2021
 CLOSED: [2021-12-16 Thu 06:02]
 :PROPERTIES:
