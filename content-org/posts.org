@@ -26,6 +26,10 @@ CLOSED: [2021-12-18 Sat 05:00]
 
 It took me all of 2 minutes to stop seeing the notch on the new MBP. It's a non-issue, although I am being more diligent about making sure apps don't show an icon in the menu bar unless it's necessary.
 
+I think I'll live with the little 14-inch screen for a spell before hooking this thing up to the 32-inch monitor. For normal writing, browsing, etc. a small screen is kind of calming. I don't expect this feeling to last, but it's fun for now.
+
+One thing for sure is that Lightroom Classic isn't nearly as pleasant on a smaller screen as Lightroom Desktop (my god how could they have messed up the product naming so badly?). It's making me think about running with Desktop again.
+
 ** DONE Friday, December 17, 2021
 CLOSED: [2021-12-17 Fri 04:46]
 :PROPERTIES:
