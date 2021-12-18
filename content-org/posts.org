@@ -14,6 +14,18 @@
 :PROPERTIES:
 :EXPORT_HUGO_SECTION: post/2021
 :END:
+** DONE Saturday, December 18, 2021
+CLOSED: [2021-12-18 Sat 05:00]
+:PROPERTIES:
+:EXPORT_FILE_NAME: 2021-12-18-Saturday
+:EXPORT_HUGO_SLUG: 2021-12-18
+:EXPORT_DESCRIPTION:
+:EXPORT_DATE:
+:END:
+☁️ Overcast +32°F
+
+It took me all of 2 minutes to stop seeing the notch on the new MBP. It's a non-issue, although I am being more diligent about making sure apps don't show an icon in the menu bar unless it's necessary.
+
 ** DONE Friday, December 17, 2021
 CLOSED: [2021-12-17 Fri 04:46]
 :PROPERTIES:
