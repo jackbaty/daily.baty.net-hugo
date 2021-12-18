@@ -38,6 +38,8 @@ I've been watching the UPS tracker all day. The MBP was unexpectedly in town by 
 
 It occurs to me that optimizing for speed of setting up a new computer is a waste of so much time. How often does the average person need to bootstrap a new computer? Right, not very often. Having 2 machines makes the effort a little more valuable, since often the setup stuff is then synced. But now that I'm about to be down to a single computer, I'm not going to worry about it at all.
 
+Maybe I'll take that back. It's been three hours and I have the broad strokes done on the new MBP. But I know there are soooo many loose ends I have yet to trip over.
+
 ** DONE Thursday, December 16, 2021
 CLOSED: [2021-12-16 Thu 06:02]
 :PROPERTIES:
