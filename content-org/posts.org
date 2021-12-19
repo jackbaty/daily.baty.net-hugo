@@ -43,6 +43,12 @@ I'm deploying this using a Raycast [[https://github.com/raycast/script-commands]
 
 It's really nice not having to think, "I need to remember to do this on the other Mac." after every configuration change or app install I make on the new MBP. One machine is the right answer.
 
+
+#+caption: Mmm, belgian waffles.
+[[/img/2021/L1000667.jpg]]
+
+
+
 ** DONE Saturday, December 18, 2021
 CLOSED: [2021-12-18 Sat 05:00]
 :PROPERTIES:
