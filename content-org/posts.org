@@ -24,9 +24,18 @@ CLOSED: [2021-12-19 Sun 06:55]
 :END:
 ☁️ Overcast +32°F
 
+Year progress: ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░ 96%
+
 Bed after midnight, up at 4:00 am. Good morning! 🥱
 
+After much thrashing about the past two days, I've again settled on Lightroom Classic for photo management. I want to use Capture One because I get to better images faster. I want to use Lightroom Desktop because it's fast and pretty and syncs everywhere. But, Classic gives me every tool I could ever need in a complete, widely-supported package. It's got everything going for it. It doesn't bring me joy, but it gets the job done and leaves me all the options I need.
 
+Still trying [[https://www.raycast.com/][Raycast]] as an Alfred replacement. If I can find a solution/replacement for Alfred's "Universal Actions" I'll be a convert.
+
+Well bonjour to you too!
+
+#+caption: My new MacBook Pro M1 Max
+[[/img/2021/M10R0306.jpg]]
 
 
 
