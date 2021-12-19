@@ -37,7 +37,7 @@ Well bonjour to you too!
 #+caption: My new MacBook Pro M1 Max
 [[/img/2021/M10R0306.jpg]]
 
-
+My wife just passed 6,000 miles on her exercise bike. Amazing.
 
 ** DONE Saturday, December 18, 2021
 CLOSED: [2021-12-18 Sat 05:00]
