@@ -39,6 +39,8 @@ Well bonjour to you too!
 
 My wife just passed 6,000 miles on her exercise bike. Amazing.
 
+I'm deploying this using a Raycast [[https://github.com/raycast/script-commands][Script Command]]. If this works well, I may no longer need Fastscripts.
+
 ** DONE Saturday, December 18, 2021
 CLOSED: [2021-12-18 Sat 05:00]
 :PROPERTIES:
