@@ -41,6 +41,8 @@ My wife just passed 6,000 miles on her exercise bike. Amazing.
 
 I'm deploying this using a Raycast [[https://github.com/raycast/script-commands][Script Command]]. If this works well, I may no longer need Fastscripts.
 
+It's really nice not having to think, "I need to remember to do this on the other Mac." after every configuration change or app install I make on the new MBP. One machine is the right answer.
+
 ** DONE Saturday, December 18, 2021
 CLOSED: [2021-12-18 Sat 05:00]
 :PROPERTIES:
