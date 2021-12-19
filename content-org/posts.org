@@ -14,6 +14,22 @@
 :PROPERTIES:
 :EXPORT_HUGO_SECTION: post/2021
 :END:
+** DONE Sunday, December 19, 2021
+CLOSED: [2021-12-19 Sun 06:55]
+:PROPERTIES:
+:EXPORT_FILE_NAME: 2021-12-19-Sunday
+:EXPORT_HUGO_SLUG: 2021-12-19
+:EXPORT_DESCRIPTION:
+:EXPORT_DATE:
+:END:
+☁️ Overcast +32°F
+
+Bed after midnight, up at 4:00 am. Good morning! 🥱
+
+
+
+
+
 ** DONE Saturday, December 18, 2021
 CLOSED: [2021-12-18 Sat 05:00]
 :PROPERTIES:
@@ -29,6 +45,10 @@ It took me all of 2 minutes to stop seeing the notch on the new MBP. It's a non-
 I think I'll live with the little 14-inch screen for a spell before hooking this thing up to the 32-inch monitor. For normal writing, browsing, etc. a small screen is kind of calming. I don't expect this feeling to last, but it's fun for now.
 
 One thing for sure is that Lightroom Classic isn't nearly as pleasant on a smaller screen as Lightroom Desktop (my god how could they have messed up the product naming so badly?). It's making me think about running with Desktop again.
+
+The maintainer of Org-roam has made comments lately making me think he's barely even using it. There are a few other active contributors but it still makes me uneasy. Guess I'll need to figure out for real how to use Org-roam and Logseq together.
+
+I scanned a roll of 35mm film with the Epson 750 and have decided the scan quality is plenty good enough for me. I'll sell the PrimeFilm scanner.
 
 ** DONE Friday, December 17, 2021
 CLOSED: [2021-12-17 Fri 04:46]
