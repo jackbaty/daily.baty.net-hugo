@@ -14,15 +14,25 @@
 :PROPERTIES:
 :EXPORT_HUGO_SECTION: post/2021
 :END:
-** TODO Monday, December 20, 2021
+** DONE Monday, December 20, 2021
+CLOSED: [2021-12-20 Mon 07:47]
 :PROPERTIES:
 :EXPORT_FILE_NAME: 2021-12-20-Monday
 :EXPORT_HUGO_SLUG: 2021-12-20
 :EXPORT_DESCRIPTION:
 :EXPORT_DATE:
+:ID:       79689758-4151-4592-8e03-d6c745345c97
 :END:
 
+☁️ Overcast +31°F
+
 How am I supposed to know what I'm good at if I never actually /do/ anything?
+
+I thought I'd see what the [[https://rubyonrails.org][Ruby On Rails]] world looked like with version 7 being released recently. I haven't written anything in Rails since like 2010. Here's the very first fucking thing that happened:
+
+#+attr_org: :width 600px
+[[attachment:_20211220_083540rails-not-installed-yes-it-is-i-hate-you.png]]
+
 
 
 ** DONE Sunday, December 19, 2021
