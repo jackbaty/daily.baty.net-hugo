@@ -27,6 +27,7 @@ CLOSED: [2021-12-21 Tue 04:35]
 
 I have a hunch that paying the log4j team would not have prevented the exploit. The idea that "big companies" should pay open-source developers is fine, but expecting it to work in real life is, at best, optimistic. First, the people actually able to cut checks are far removed from the dev team who actually know which OSS packages are in use. Second, how many of those likely dozens or hundreds of packages should be paid for and how much and who keeps track of them? I can imagine the big, obvious ones maybe getting some attention, but things like log4j never hit the radar. Maybe there could be some sort of audit system, but still feels unlikely.
 
+Day 2 of my Rails project build. I have a long way to go, and a lot to learn before I get there. Some of it still rings a bell, though.
 
 
 
