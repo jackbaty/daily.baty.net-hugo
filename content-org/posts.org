@@ -14,6 +14,20 @@
 :PROPERTIES:
 :EXPORT_HUGO_SECTION: post/2021
 :END:
+** DONE Tuesday, December 21, 2021
+CLOSED: [2021-12-21 Tue 04:35]
+:PROPERTIES:
+:EXPORT_FILE_NAME: 2021-12-21-Tuesday
+:EXPORT_HUGO_SLUG: 2021-12-21
+:EXPORT_DESCRIPTION:
+:EXPORT_DATE:
+:END:
+
+☀️ Clear +29°F
+
+
+
+
 ** DONE Monday, December 20, 2021
 CLOSED: [2021-12-20 Mon 07:47]
 :PROPERTIES:
@@ -41,7 +55,6 @@ It’s that simple: you are either being sold a dream so that someone else can p
 <footer>Ed Z<cite> <a href="https://ez.substack.com/p/the-malevolence-of-the-metaverse?utm_source=densediscovery&utm_medium=email&utm_campaign=newsletter-issue-169">https://ez.substack.com/p/the-malevolence-of-the-metaverse?utm_source=densediscovery&utm_medium=email&utm_campaign=newsletter-issue-169</a></cite></footer>
 </blockquote><script note="" src="https://cdn.jsdelivr.net/gh/Blogger-Peer-Review/quotebacks@1/quoteback.js"></script>
 #+end_export
-
 
 ** DONE Sunday, December 19, 2021
 CLOSED: [2021-12-19 Sun 06:55]
