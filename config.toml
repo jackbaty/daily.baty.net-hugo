@@ -58,7 +58,7 @@ defaultContentLanguage = "en"           # Default language to use
 [[menu.main]]
   name = "Blog"
   weight = 60
-  url = "https://copingmechanism.com/"
+  url = "https://baty.blog/"
 
 
 [params]
