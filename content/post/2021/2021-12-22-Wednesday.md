@@ -1,7 +1,7 @@
 ---
 title: "Wednesday, December 22, 2021"
 date: 2021-12-22T04:19:00-05:00
-lastmod: 2021-12-22T10:15:10-05:00
+lastmod: 2021-12-22T11:25:36-05:00
 slug: 2021-12-22
 draft: false
 weight: 0
@@ -32,7 +32,9 @@ I want to be the kind of person who says, "I'm not on social media", but instead
 
 I prefer when people tell me what they're interested in and what they think about things instead of always telling me what other people should do or be interested in.
 
-The M10-R was photographed and boxed up for sale this morning. I even started creating a listing at fredmiranda.com. I canceled the listing and took the Leica back out of the box. If I could just get over the guilt of spending so much money while not getting out and taking more photos with it. If I solve the latter, the guilt should diminish. I feel like I can't keep both the M10-R and the SL2-S kits. The problem is that I can't decide which to keep, because I love them both.
+The M10-R was photographed and boxed up for sale this morning. I even started creating a listing at fredmiranda.com. I canceled the listing and took the Leica back out of the box. If I could just get over the guilt of spending so much money while not getting out and taking more photos with it. If I solve the latter, the guilt should diminish. I feel like I can't keep both the M10-R and the SL2-S kits. The problem is that I can't decide which to keep, because I love them both. Just look at it!
+
+{{< figure src="/ox-hugo/_20211222_11242920211222-L1000679-Edit.jpg" caption="Figure 2: The Leica M10-R that I came _this_ close to selling" >}}
 
 [//]: # "Exported with love from a post written in Org mode"
 [//]: # "- https://github.com/kaushalmodi/ox-hugo"
