@@ -27,14 +27,20 @@ CLOSED: [2021-12-22 Wed 04:19]
 
 Good morning. It's 4:20 am and when do you think I'll be able to get 8 hours sleep?
 
-
+#+caption: Do cars get any cooler than this?
 #+attr_org: :width 600px
-[[attachment:_20211222_052720Futuristic Violence and Fancy Suits.png]]
+[[attachment:_20211222_065213M10R0174.jpg]]
+
+
+
 
 
 I'm still planning to spend at least a few hours each day this week on my little Rails project. So far it's not clicking for me. I'm in the must-look-up-every-single-thing phase and it's exhausting.
 
 For someone who's recently claimed that "owning" and managing music was no longer interesting, I'm sure spending a lot of time today editing metadata of my local library in Roon.
+
+#+attr_org: :width 600px
+[[attachment:_20211222_052720Futuristic Violence and Fancy Suits.png]]
 
 #+begin_export html
 <blockquote class="quoteback" darkmode="" data-title="Rosenzweig – The Federation Fallacy" data-author="" cite="https://rosenzweig.io/blog/the-federation-fallacy.html">
@@ -49,7 +55,7 @@ For someone who's recently claimed that "owning" and managing music was no longe
 
 I want to be the kind of person who says, "I'm not on social media", but instead I'm the kind of person who says "I want to be the kind of person who says, 'I'm not on social media.'"
 
-Tell me what you're interested in and what you think about things. Don't tell me what you think other people should do or be interested in.
+I prefer when people tell me what they're interested in and what they think about things instead of always telling me what other people should do or be interested in.
 
 
 ** DONE Tuesday, December 21, 2021
