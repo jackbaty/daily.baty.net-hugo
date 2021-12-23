@@ -28,7 +28,7 @@ CLOSED: [2021-12-23 Thu 04:18]
 
 I cut my blogging teeth wanting to be [[http://www.rageboy.com][Rageboy]]. We lost Chris Locke this week. [[https://blogs.harvard.edu/doc/2021/12/21/rage-in-peace/][Here's Doc Searls]].
 
-
+Funny that [[https://alexjj.com/2021-12-22/][Alex mentions Tinderbox]], since I've been keeping up with my Tinderbox Daybook for a week or so. And I also posted again to [[https://notes.baty.net][notes.baty.net]], which is built using Tinderbox, just for fun. The scary part is that I started thinking about combining the notes blog and my daybook into one giant Tinderbox document for 2022. How cool would it be to have all my stuff in one place (that's not Emacs)? It solves the related problem of public vs private notes. Using Tinderbox makes it easy to publish only what I want, where I want. I can also pull in parts of private outlines and notes into the published areas. Hmmm.
 
 
 
