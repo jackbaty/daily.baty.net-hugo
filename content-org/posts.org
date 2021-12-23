@@ -14,6 +14,25 @@
 :PROPERTIES:
 :EXPORT_HUGO_SECTION: post/2021
 :END:
+** DONE Thursday, December 23, 2021
+CLOSED: [2021-12-23 Thu 04:18]
+:PROPERTIES:
+:EXPORT_FILE_NAME: 2021-12-23-Thursday
+:EXPORT_HUGO_SLUG: 2021-12-23
+:EXPORT_DESCRIPTION:
+:EXPORT_DATE:
+:END:
+⛅️  Partly cloudy +23°F
+
+[[https://www.unpackinggame.com/][Unpacking: a zen puzzle game about unpacking a life]] (via [[https://alexjj.com/2021-12-22/][Alex]]) looks like something I'd enjoy.
+
+I cut my blogging teeth wanting to be [[http://www.rageboy.com][Rageboy]]. We lost Chris Locke this week. [[https://blogs.harvard.edu/doc/2021/12/21/rage-in-peace/][Here's Doc Searls]].
+
+
+
+
+
+
 ** DONE Wednesday, December 22, 2021
 CLOSED: [2021-12-22 Wed 04:19]
 :PROPERTIES:
@@ -62,6 +81,8 @@ The M10-R was photographed and boxed up for sale this morning. I even started cr
 #+caption: The Leica M10-R that I came /this/ close to selling
 #+attr_org: :width 600px
 [[attachment:_20211222_11242920211222-L1000679-Edit.jpg]]
+
+Well I haven't worked on my Rails project today, like I planned to. I just can't muster the interest or energy.
 
 ** DONE Tuesday, December 21, 2021
 CLOSED: [2021-12-21 Tue 04:35]
