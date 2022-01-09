@@ -14,6 +14,27 @@
 :PROPERTIES:
 :EXPORT_HUGO_SECTION: post/2021
 :END:
+** TODO Sunday, January 9, 2022
+:PROPERTIES:
+:EXPORT_FILE_NAME: 2022-01-09-Sunday
+:EXPORT_HUGO_SLUG: 2022-01-09
+:EXPORT_DESCRIPTION:
+:EXPORT_DATE:
+:END:
+
+
+
+** DONE Programming Note: December 24, 2021
+CLOSED: [2021-12-24 Fri 08:18]
+:PROPERTIES:
+:EXPORT_FILE_NAME: index
+:EXPORT_FILE_NAME: 2021-12-24-Friday
+:EXPORT_HUGO_SLUG: 2021-12-24
+:EXPORT_DESCRIPTION:
+:EXPORT_DATE:
+:END:
+As part of my 2022 Daybook project, I'll be rebuilding this site using Tinderbox. Same URL, but the RSS feed will move to [[https://daily.baty.net/index.xml][index.xml]].
+
 ** DONE Thursday, December 23, 2021
 CLOSED: [2021-12-23 Thu 04:18]
 :PROPERTIES:
@@ -30,7 +51,7 @@ I cut my blogging teeth wanting to be [[http://www.rageboy.com][Rageboy]]. We lo
 
 Funny that [[https://alexjj.com/2021-12-22/][Alex mentions Tinderbox]], since I've been keeping up with my Tinderbox Daybook for a week or so. And I also posted again to [[https://notes.baty.net][notes.baty.net]], which is built using Tinderbox, just for fun. The scary part is that I started thinking about combining the notes blog and my daybook into one giant Tinderbox document for 2022. How cool would it be to have all my stuff in one place (that's not Emacs)? It solves the related problem of public vs private notes. Using Tinderbox makes it easy to publish only what I want, where I want. I can also pull in parts of private outlines and notes into the published areas. Hmmm.
 
-That does it. I'm creating a brand new Tinderbox document with the intention of combining my Daybook and Blog documents for 2022. This will work nicely as a way to avoid doing anything actually useful today.
+That does it. I'm creating a brand new Tinderbox document with the intention of combining my Daybook and Blog documents for 2022. This will work nicely as a way to avoid doing anything actually useful today. I may never actually /use/ it, but building it should be fun.
 
 
 
