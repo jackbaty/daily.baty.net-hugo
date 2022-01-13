@@ -21,6 +21,7 @@ CLOSED: [2022-01-13 Thu 04:21]
 :EXPORT_HUGO_SLUG: 2022-01-13
 :EXPORT_DESCRIPTION:
 :EXPORT_DATE:
+:ID:       23fe4bd4-eed1-4f0a-9462-3b86e64b01c8
 :END:
 
 🌫  Mist +31°F
@@ -30,6 +31,12 @@ Logseq is for those who don't know Emacs. Hell, just about /everything/ is for p
 I'm afraid to commit to anything because what if I end up wasting my life on it? So instead, I waste my life doing nothing.
 
 Spending a bit of time in the darkroom today. I caught up on my contact sheets so far. There was a roll of Fuji Superia in the Nikon F-100 so I fired off a bunch of flash shots to finish the roll. I'm going to process it in my old C-41 chemistry and hope for the best because I don't want to mix up a fresh batch.
+
+Take that, dark mode nerds!
+
+#+attr_org: :width 600px
+[[attachment:_20220113_181903microbloghitchens.png]]
+
 ** DONE Wednesday, January 12, 2022
 CLOSED: [2022-01-12 Wed 17:23]
 :PROPERTIES:
