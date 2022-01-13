@@ -14,6 +14,22 @@
 :PROPERTIES:
 :EXPORT_HUGO_SECTION: post/2022
 :END:
+** DONE Thursday, January 13, 2022
+CLOSED: [2022-01-13 Thu 04:21]
+:PROPERTIES:
+:EXPORT_FILE_NAME: 2022-01-13-Thursday
+:EXPORT_HUGO_SLUG: 2022-01-13
+:EXPORT_DESCRIPTION:
+:EXPORT_DATE:
+:END:
+
+🌫  Mist +31°F
+
+Logseq is for those who don't know Emacs. Hell, just about /everything/ is for people who don't know Emacs.
+
+I'm afraid to commit to anything because what if I end up wasting my life on it? So instead, I waste my life doing nothing.
+
+Spending a bit of time in the darkroom today. I caught up on my contact sheets so far. There was a roll of Fuji Superia in the Nikon F-100 so I fired off a bunch of flash shots to finish the roll. I'm going to process it in my old C-41 chemistry and hope for the best because I don't want to mix up a fresh batch.
 ** DONE Wednesday, January 12, 2022
 CLOSED: [2022-01-12 Wed 17:23]
 :PROPERTIES:
@@ -25,7 +41,7 @@ CLOSED: [2022-01-12 Wed 17:23]
 
 It's hard giving up Emacs for writing and publishing. Correction, it's impossible. I'll probably continue to create a trickle of posts here, simply because I enjoy the environment so much.
 
-What if I used this for personal journaling? I could publish a local website with all my deepest thoughts and Feelings.
+What if I used this for personal journaling? I could publish a local website with all my deepest Thoughts and Feelings.
 
 
 > Altogether, America has too much venting and not enough inventing
