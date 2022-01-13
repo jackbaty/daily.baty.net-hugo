@@ -1,7 +1,7 @@
 ---
 title: "Wednesday, December 8, 2021"
 date: 2021-12-08T04:39:00-05:00
-lastmod: 2021-12-13T18:32:40-05:00
+lastmod: 2022-01-12T17:25:36-05:00
 slug: 2021-12-08
 draft: false
 weight: 0

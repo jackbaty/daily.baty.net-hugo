@@ -23,3 +23,13 @@ figure.imgRightMargin { float:right; margin: 10px 10px 10px 10px; }
 mark {
     background: rgba(255, 255, 0, 0.3);
 }
+
+blockquote {
+  margin-bottom: 1em;
+  background: #eee;
+  padding: 1em;
+  border-radius: 0.5em;
+}
+blockquote cite {
+    font-size: 0.8em;
+}
