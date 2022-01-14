@@ -14,6 +14,21 @@
 :PROPERTIES:
 :EXPORT_HUGO_SECTION: post/2022
 :END:
+** DONE Friday, January 14, 2022
+CLOSED: [2022-01-14 Fri 04:14]
+:PROPERTIES:
+:EXPORT_FILE_NAME: 2022-01-14-Friday
+:EXPORT_HUGO_SLUG: 2022-01-14
+:EXPORT_DESCRIPTION:
+:EXPORT_DATE:
+:END:
+☁️ Overcast +32°F
+
+Writing about blogging with Tinderbox, in Tinderbox, over at my [[https://daily.baty.net][Tinderbox-generated blog]]. But also, mentioning it over here, in Org mode, using Emacs to generate a hugo-built blog. I'm fun, right?
+
+
+
+
 ** DONE Thursday, January 13, 2022
 CLOSED: [2022-01-13 Thu 04:21]
 :PROPERTIES:
