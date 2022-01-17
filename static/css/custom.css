@@ -1,4 +1,7 @@
-.post-header .post-title {line-height: 1.25em;}
+.post-header .post-title {
+  line-height: 1.25em;
+  text-align: left;
+}
 .post-content p {line-height: 1.5;}
 figure.imgRightMargin { float:right; margin: 10px 10px 10px 10px; }
 

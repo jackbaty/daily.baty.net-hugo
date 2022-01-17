@@ -14,6 +14,75 @@
 :PROPERTIES:
 :EXPORT_HUGO_SECTION: post/2022
 :END:
+** DONE Monday, January 17, 2022
+CLOSED: [2022-01-17 Mon 04:34]
+:PROPERTIES:
+:EXPORT_FILE_NAME: 2022-01-17-Monday
+:EXPORT_HUGO_SLUG: 2022-01-17
+:EXPORT_DESCRIPTION:
+:EXPORT_DATE:
+:END:
+☀️   Clear +19°F
+
+What do I get in return for all the time and thought I put into taking notes? I
+mean, I put a /lot/ of thought into it. What's in it for me? For example, I've been
+meticulously recording my meals since December. I can tell you how many times I
+ate fast food or had pancakes for breakfast. Big whoop! There is almost zero
+lingering value in doing it other than that it's neat. Is "neat" enough to
+justify the effort it took to set up the logging process and the ongoing effort
+of recording every meal? It's fun to set up, but if I'm honest, it's not useful.
+I don't need more excuses to play with my note-taking tools. I should stop
+doing it.
+
+#+begin_quote
+It doesn’t need to replace everything else to win. It just needs to exist.
+
+<cite>[[https://ploum.net/the-computer-built-to-last-50-years/][The computer built to last 50 years | ploum.net]]</cite>
+#+end_quote
+
+
+SL had the same reaction as me when to trying to use an iPad as a mobile computer:
+
+#+begin_quote
+The experience sucked. Replacing a general purpose computer with a jacked-up surveillance sensor package is not my idea of solving the problem of mobile computing.
+
+<cite>[[http://helpful.cat-v.org/Blog/2019/12/03/0/][How I Switched To Plan 9]]</cite>
+#+end_quote
+
+All wireless things stop working eventually. Usually before their expiration dates.
+
+It's so prevalent that it mostly goes unnoticed, but the entire internet is a cacophony of people and companies yelling, "Please engage with me!"
+
+** TODO Checking in after a couple months blogging with Tinderbox
+:PROPERTIES:
+:EXPORT_FILE_NAME: 2022-01-17-CheckingIn
+:EXPORT_DATE:
+:END:
+
+Early last November, in Welcome back, I guess, I wrote this:
+
+#+begin_quote
+If I'm being honest, I'll admit that this is just an excuse to play with some old toys and experiment with new ones.
+#+end_quote
+
+Let's look at how it's going with my Blogging With Tinderbox experiment.
+
+First, it's been a ton of fun wrangling Tinderbox into generating a nice-looking blog that fits my particular way of blogging. I was inspired after trying Dave Winer's Drummer blogging tool. Tinderbox is ridiculously flexible and powerful and fun, and made this blog possible.
+
+I love outliners, and this site is built using Tinderbox's powerful version of outliner. All the cool new kids are using outlines, too.
+
+Keeping my "Daybook" type entries in the same Tinderbox file as my blog posts is pretty great. It lets me see everything all at once. I can link, collect, arrange, and analyze everything I write, whether public or private. This is not a small thing, it will likely become more useful over time.
+
+So, I'll be sticking with Tinderbox for my daily notes blogging, then? Not so fast.
+
+The mechanisms for generating this blog out of Tinderbox are fragile. More than once in the past week, I've broken large portions of the site after making what I thought to be a minor change to a template or Agent. Debugging it took quite some time. It makes me nervous.
+
+Links are powerful but strange in Tinderbox. For a simple blog, I don't need powerful. I need them to be easily created and simple to edit. I don't find them to be.
+
+The elephant in the room is Emacs, and, more specifically, Org mode. You see, as much as I like managing and processing notes in Tinderbox, I don't love writing in it. Notes in Tinderbox are rich text. Sure, technically you can have them behave as if they're Markdown, but doing so is definitely swimming upstream. Tinderbox does a good job of converting rich notes into HTML, and even offers control over how formatting is rendered. It's all very clever. However, it's a long way from plain text, and I prefer plain text for writing. And I very much enjoy writing plain text in Emacs.
+
+I haven't decided yet which way I'll be taking this blog. For the moment, I like the results so much that I'm happy using Tinderbox. But I feel the pull of Emacs and the simplicity of Org mode and Markdown. I'm still hoping to find a way to have both.
+
 ** DONE Friday, January 14, 2022
 CLOSED: [2022-01-14 Fri 04:14]
 :PROPERTIES:
@@ -25,8 +94,6 @@ CLOSED: [2022-01-14 Fri 04:14]
 ☁️ Overcast +32°F
 
 Writing about blogging with Tinderbox, in Tinderbox, over at my [[https://daily.baty.net][Tinderbox-generated blog]]. But also, mentioning it over here, in Org mode, using Emacs to generate a hugo-built blog. I'm fun, right?
-
-
 
 
 ** DONE Thursday, January 13, 2022
