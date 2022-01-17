@@ -44,14 +44,17 @@ It doesn’t need to replace everything else to win. It just needs to exist.
 SL had the same reaction as me when to trying to use an iPad as a mobile computer:
 
 #+begin_quote
-The experience sucked. Replacing a general purpose computer with a jacked-up surveillance sensor package is not my idea of solving the problem of mobile computing.
+The experience sucked. Replacing a general purpose computer with a jacked-up
+surveillance sensor package is not my idea of solving the problem of mobile
+computing.
 
 <cite>[[http://helpful.cat-v.org/Blog/2019/12/03/0/][How I Switched To Plan 9]]</cite>
 #+end_quote
 
 All wireless things stop working eventually. Usually before their expiration dates.
 
-It's so prevalent that it mostly goes unnoticed, but the entire internet is a cacophony of people and companies yelling, "Please engage with me!"
+It's so prevalent that it mostly goes unnoticed, but the entire internet is a
+cacophony of people and companies yelling, "Please engage with me!"
 
 ** TODO Checking in after a couple months blogging with Tinderbox
 :PROPERTIES:
