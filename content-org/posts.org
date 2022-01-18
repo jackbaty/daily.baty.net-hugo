@@ -43,6 +43,7 @@ I've added a [[/changelog/][Changelog]] to track updates to the way this site wo
 
 Found this photo of my parents. Halloween, 1971.
 
+#+caption: Mom and Dad (1971)
 [[/img/2022/20220118-MomDadDressup.jpg]]
 
 ** DONE Monday, January 17, 2022
