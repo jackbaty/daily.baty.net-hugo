@@ -28,13 +28,19 @@ mark {
 }
 
 blockquote {
+  font-size: 1.25em;
   margin-bottom: 1em;
   background: #eee;
   padding: 1em;
   border-radius: 0.5em;
 }
-blockquote cite {
-    font-size: 0.8em;
+
+blockquote figcaption {
+  text-align: right;
+}
+blockquote cite, blockquote figcaption {
+    font-size: 14px;
+
 }
 
 /* Hide figure numbers in captions */

@@ -57,6 +57,11 @@ CLOSED: [2022-01-18 Tue 05:21]
 
 I'm not even going to mention that this site is once again built using Hugo. You'll just have to figure it out on your own this time.
 
+<blockquote class="quoteback" darkmode="" data-title="Quotebacks" data-author="Tom Critchlow and Toby Shorin" cite="https://quotebacks.net/">
+The Quotebacks extension allows you to highlight any piece of text on the web and quickly create a squoteback. Quotes are saved to your Quoteback library and stored in your browser's local storage in simple JSON format. You can export and import quotes easily.
+<footer>Tom Critchlow and Toby Shorin<cite> <a href="https://quotebacks.net/">https://quotebacks.net/</a></cite></footer>
+</blockquote>
+
 ** DONE Monday, January 17, 2022
 CLOSED: [2022-01-17 Mon 04:34]
 :PROPERTIES:
@@ -80,7 +85,11 @@ doing it.
 #+begin_quote
 It doesn’t need to replace everything else to win. It just needs to exist.
 
-<cite>[[https://ploum.net/the-computer-built-to-last-50-years/][The computer built to last 50 years | ploum.net]]</cite>
+<figcaption>
+
+<cite>Foo [[https://ploum.net/the-computer-built-to-last-50-years/][The computer built to last 50 years | ploum.net]]</cite>
+
+</figcaption>
 #+end_quote
 
 SL had the same reaction as me when to trying to use an iPad as a mobile computer:
