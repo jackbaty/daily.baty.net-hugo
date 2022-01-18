@@ -39,6 +39,8 @@ Quotebacks makes it easy to reference content and create dialogue with other sit
 
 At least I'm using a local copy of quoteback.js so that's one less remote dependency I guess.
 
+I've added a [[/changelog/][Changelog]] to track updates to the way this site works or looks.
+
 ** DONE Monday, January 17, 2022
 CLOSED: [2022-01-17 Mon 04:34]
 :PROPERTIES:
@@ -1072,6 +1074,19 @@ There's a "landing page" at [[https://www.baty.net/][baty.net]] (thanks to [[htt
 My wiki is [[https://rudimentarylathe.wiki][rudimentarylathe.wiki]]
 
 Get in touch via email: [[mailto:jack@baty.net][jack@baty.net]]
+
+* Changelog
+:PROPERTIES:
+:EXPORT_HUGO_SECTION: /
+:EXPORT_FILE_NAME: changelog
+:END:
+
+Changes to this site
+
+- 2022-01-18 Today's post title is prefixed with "Today -"
+- 2022-01-18 Added Changelog page
+- 2022-01-18 Added Quoteback JavaScript
+
 
 * Footnotes
 * COMMENT Local Variables
