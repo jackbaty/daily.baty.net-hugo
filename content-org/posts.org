@@ -41,6 +41,10 @@ At least I'm using a local copy of quoteback.js so that's one less remote depend
 
 I've added a [[/changelog/][Changelog]] to track updates to the way this site works or looks.
 
+Found this photo of my parents. Halloween, 1971.
+
+[[/img/2022/20220118-MomDadDressup.jpg]]
+
 ** DONE Monday, January 17, 2022
 CLOSED: [2022-01-17 Mon 04:34]
 :PROPERTIES:
