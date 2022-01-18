@@ -1,15 +1,16 @@
 ---
 title: "About"
-lastmod: 2022-01-12T17:25:38-05:00
+lastmod: 2022-01-18T05:07:56-05:00
 draft: false
 weight: 0
 ---
 
-{{% figure class="imgRightMargin" src="jack-headshot-400.jpg" caption="Your host, Jack Baty" alt="portrait" %}}
+{{% figure class="imgRightMargin" src="jack-headshot-500.jpg" caption="Your host, Jack Baty" alt="portrait" %}}
+I created this site as a place to capture the things I’m thinking about throughout each day.
 
-I created this site as a place to write down the things I'm thinking about throughout each day. It's meant as a replacement for the "Daily Notes" entries on [my wiki](https://rudimentarylathe.wiki).
+There isn’t a specific topic, or trend, or brand, or goal here.
 
-There isn't a topic, or trend, or brand, or goal here.
+💌 Reach out via email: [jack@baty.net](mailto:jack@baty.net)
 
 **Do not expect consistency**.
 

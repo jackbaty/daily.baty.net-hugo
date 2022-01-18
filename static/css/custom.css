@@ -36,3 +36,8 @@ blockquote {
 blockquote cite {
     font-size: 0.8em;
 }
+
+/* Hide figure numbers in captions */
+.figure-number {
+  display: none;
+}
