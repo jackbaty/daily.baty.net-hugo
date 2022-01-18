@@ -37,7 +37,7 @@ Quotebacks makes it easy to reference content and create dialogue with other sit
 </blockquote>
 #+end_export
 
-At least I'm using a local copy of quoteback.js so that's one less remote dependency I guess.
+At least I'm using a local copy of quoteback.js so that's one fewer remote dependency I guess.
 
 I've added a [[/changelog/][Changelog]] to track updates to the way this site works or looks.
 
@@ -46,6 +46,7 @@ Found this photo of my parents. Halloween, 1971.
 #+caption: Mom and Dad (1971)
 [[/img/2022/20220118-MomDadDressup.jpg]]
 
+I wandered through national news today and was forcefully reminded that the bad guys continue to win. It's taking what little wind I have left out of my sails.
 ** DONE Monday, January 17, 2022
 CLOSED: [2022-01-17 Mon 04:34]
 :PROPERTIES:
@@ -1088,6 +1089,7 @@ Get in touch via email: [[mailto:jack@baty.net][jack@baty.net]]
 
 Changes to this site
 
+- 2022-01-18 Call Markdownify on caption attributes in order to hide Figure numbering (See [[https://github.com/kaushalmodi/ox-hugo/issues/535][Issue #535)]]
 - 2022-01-18 Today's post title is prefixed with "Today -"
 - 2022-01-18 Added Changelog page
 - 2022-01-18 Added Quoteback JavaScript
