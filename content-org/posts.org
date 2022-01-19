@@ -31,6 +31,8 @@ Good morning. It's 4:50 am and I'm probably going to install [[https://regolith-
 
 I've had to remove my plausible.io analytics scripts due to very slow loading.
 
+I'm writing this in emacs on a fresh Regolith install in my old ThinkPad. About to try a deployment from here as well. If you can read this, I've successfully wasted an entire morning.
+
 ** DONE Leaving Roon? :Apple:Music:
 CLOSED: [2022-01-19 Wed 05:17]
 :PROPERTIES:
