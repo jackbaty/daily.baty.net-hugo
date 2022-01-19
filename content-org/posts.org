@@ -110,6 +110,17 @@ CLOSED: [2022-01-14 Fri 04:14]
 
 Writing about blogging with Tinderbox, in Tinderbox, over at my [[https://daily.baty.net][Tinderbox-generated blog]]. But also, mentioning it over here, in Org mode, using Emacs to generate a hugo-built blog. I'm fun, right?
 
+** DONE Charge me less for services and more for software
+CLOSED: [2022-01-14 Fri 04:19]
+:PROPERTIES:
+:EXPORT_FILE_NAME: 20220119-ChargeMeLess
+:EXPORT_HUGO_SLUG: 2022-01-19-charge-me-less
+:EXPORT_DESCRIPTION:
+:EXPORT_DATE:
+:END:
+I would like pricing pressure for software to go up, but for subscriptions to go down. I'll happily pay $250 for a great app, but don't want to pay more than $12/year for a read-it-later service or newsletter or magazine. The number of apps I need is rather low. The number services, news, and entertainment options I need approaches infinity and I just don't have the budget for that.
+
+
 ** DONE Thursday, January 13, 2022
 CLOSED: [2022-01-13 Thu 04:21]
 :PROPERTIES:
