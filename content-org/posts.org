@@ -50,6 +50,8 @@ I wandered through national news today and was forcefully reminded that the bad 
 
 [[https://kevq.uk/comparing-static-site-hosts-best-host-for-a-static-site][Comparing Static Site Hosts; Which Is The Best Host For A Static Site? | Kev Quirk]] demonstrates the disappointing performance I've had using Cloudflare Pages. Right now this site is back to a bunch of files running on a VPS under Caddy.
 
+Nope. Not even considering trying it. No way. [[https://regolith-linux.org/][Regolith 1.6]]
+
 
 ** DONE Monday, January 17, 2022
 CLOSED: [2022-01-17 Mon 04:34]
