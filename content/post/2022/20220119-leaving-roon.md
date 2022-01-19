@@ -1,14 +1,14 @@
 ---
 title: "Leaving Roon?"
 date: 2022-01-19T05:17:00-05:00
-lastmod: 2022-01-19T05:18:26-05:00
+lastmod: 2022-01-19T05:20:50-05:00
 slug: "leaving-roon"
 tags: ["Apple", "Music"]
 draft: false
 weight: 0
 ---
 
-[Phil is killing his Roon subscription](https://youneedastereo.com/#2022-01-18%20Journal) and replacing it with Apple Music. I've been teetering on doing the same, except I have a lifetime license to Roon. The trouble is that Roon doesn't work for me unless it's also connected to Qobuz, which costs me $15/month.
+[Phil is killing his Roon subscription](https://youneedastereo.com/#2022-01-18%20Journal) and replacing it with Apple Music. I've been teetering on doing the same, except I have a lifetime license to [Roon](https://roonlabs.com). The trouble is that Roon doesn't work for me unless it's also connected to Qobuz, which costs me $15/month.
 
 Currently, I pay for Qobuz, Spotify, and Apple Music. That's nuts. Qobuz is fine, but it's no longer the only decent Hi-Res option in town. I've never liked Spotify, but I have family that lives there. I have an Apple One family account, so I'm already paying for everyone to have Music.
 
