@@ -29,6 +29,8 @@ CLOSED: [2022-01-19 Wed 04:47]
 
 Good morning. It's 4:50 am and I'm probably going to install [[https://regolith-linux.org][Regolith]] today on the old ThinkPad. I swore I was done tinkering with Linux but ¯\_(ツ)_/¯.
 
+I've had to remove my plausible.io analytics scripts due to very slow loading.
+
 ** DONE Leaving Roon? :Apple:Music:
 CLOSED: [2022-01-19 Wed 05:17]
 :PROPERTIES:
@@ -1110,7 +1112,11 @@ In the folder is a file named "posts.org" which is an Org mode file, thus is bas
 :EXPORT_FILE_NAME: index
 :END:
 
-{{% figure class="imgRightMargin" src="jack-headshot-500.jpg" caption="Your host, Jack Baty" alt="portrait" %}}
+
+#+attr_html: :class imgRightMargin
+#+caption: Your host, Jack Baty
+[[./jack-headshot-500.jpg]]
+
 I created this site as a place to capture the things I’m thinking about throughout each day.
 
 There isn’t a specific topic, or trend, or brand, or goal here.
@@ -1122,11 +1128,14 @@ There isn’t a specific topic, or trend, or brand, or goal here.
 #+begin_export html
 <br clear="all">
 #+end_export
-There's a "landing page" at [[https://www.baty.net/][baty.net]] (thanks to [[https://omg.lol][omg.lol]])
+
+There's a "landing page" at [[https://www.baty.net/][baty.net]] (thanks to [[https://omg.lol][omg.lol]]), but I'm mostly either here or:
 
 My wiki is [[https://rudimentarylathe.wiki][rudimentarylathe.wiki]]
 
-Get in touch via email: [[mailto:jack@baty.net][jack@baty.net]]
+I post photos and write about photography at [[https://copingmechanism.com/][copingmechanism.com]]
+
+
 
 * Changelog
 :PROPERTIES:
