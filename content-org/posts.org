@@ -29,6 +29,22 @@ CLOSED: [2022-01-19 Wed 04:47]
 
 Good morning. It's 4:50 am and I'm probably going to install [[https://regolith-linux.org][Regolith]] today on the old ThinkPad. I swore I was done tinkering with Linux but ¯\_(ツ)_/¯.
 
+** DONE Leaving Roon? :Apple:Music:
+CLOSED: [2022-01-19 Wed 05:17]
+:PROPERTIES:
+:EXPORT_FILE_NAME: 20220119-leaving-roon
+:EXPORT_HUGO_SLUG: leaving-roon
+:EXPORT_DESCRIPTION:
+:EXPORT_DATE:
+:END:
+
+[[https://youneedastereo.com/#2022-01-18%20Journal][Phil is killing his Roon subscription]] and replacing it with Apple Music. I've been teetering on doing the same, except I have a lifetime license to Roon. The trouble is that Roon doesn't work for me unless it's also connected to Qobuz, which costs me $15/month.
+
+Currently, I pay for Qobuz, Spotify, and Apple Music. That's nuts. Qobuz is fine, but it's no longer the only decent Hi-Res option in town. I've never liked Spotify, but I have family that lives there. I have an Apple One family account, so I'm already paying for everyone to have Music.
+
+I'm just going to have to bite the bullet and wean everyone from Spotify. And I'm going to have to wean myself from the wonders of Roon, for streaming, at least. Roon still works great with my local music library.
+
+Apple Music is not a great app and it's not the smartest streaming service, but I get it with the rest of the Apple One subscription, so that's where I'm headed.
 
 ** DONE Tuesday, January 18, 2022
 CLOSED: [2022-01-18 Tue 05:21]
@@ -65,7 +81,6 @@ I wandered through national news today and was forcefully reminded that the bad 
 [[https://kevq.uk/comparing-static-site-hosts-best-host-for-a-static-site][Comparing Static Site Hosts; Which Is The Best Host For A Static Site? | Kev Quirk]] demonstrates the disappointing performance I've had using Cloudflare Pages. Right now this site is back to a bunch of files running on a VPS under Caddy.
 
 Nope. Not even considering trying it. No way. [[https://regolith-linux.org/][Regolith 1.6]]
-
 
 ** DONE Monday, January 17, 2022
 CLOSED: [2022-01-17 Mon 04:34]
