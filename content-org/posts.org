@@ -15,6 +15,21 @@
 :PROPERTIES:
 :EXPORT_HUGO_SECTION: post/2022
 :END:
+** DONE Wednesday, January 19, 2022
+CLOSED: [2022-01-19 Wed 04:47]
+:PROPERTIES:
+:EXPORT_FILE_NAME: 2022-01-19-Wednesday
+:EXPORT_HUGO_SLUG: 2022-01-19
+:EXPORT_DESCRIPTION:
+:EXPORT_HUGO_WEIGHT: 1
+:EXPORT_DATE:
+:END:
+
+☁️   Overcast +41°F
+
+Good morning. It's 4:50 am and I'm probably going to install [[https://regolith-linux.org][Regolith]] today on the old ThinkPad. I swore I was done tinkering with Linux but ¯\_(ツ)_/¯.
+
+
 ** DONE Tuesday, January 18, 2022
 CLOSED: [2022-01-18 Tue 05:21]
 :PROPERTIES:
@@ -22,7 +37,6 @@ CLOSED: [2022-01-18 Tue 05:21]
 :EXPORT_HUGO_SLUG: 2022-01-18
 :EXPORT_DESCRIPTION:
 :EXPORT_DATE:
-:EXPORT_HUGO_WEIGHT: 1
 :END:
 ☁️   Overcast +28°F
 
@@ -119,7 +133,6 @@ CLOSED: [2022-01-14 Fri 04:19]
 :EXPORT_DATE:
 :END:
 I would like pricing pressure for software to go up, but for subscriptions to go down. I'll happily pay $250 for a great app, but don't want to pay more than $12/year for a read-it-later service or newsletter or magazine. The number of apps I need is rather low. The number services, news, and entertainment options I need approaches infinity and I just don't have the budget for that.
-
 
 ** DONE Thursday, January 13, 2022
 CLOSED: [2022-01-13 Thu 04:21]
