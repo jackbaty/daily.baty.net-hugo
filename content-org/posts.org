@@ -65,6 +65,17 @@ Good morning. It's 4:03 am and I'm already finished walking with Alice. I don't 
 
 I don't understand the need for "writing prompts". Unless writing is your job, or you're working on a book, if you don't feel like writing, maybe just don't write and stop worrying about it?
 
+Paul Ford's "scratchy mouth feel" describes how I feel about a lot of things:
+
+#+begin_export html
+<blockquote class="quoteback" darkmode="" data-title="Uses This: Paul Ford" data-author="Paul Ford" cite="https://usesthis.com/interviews/paul.ford/">
+Chrome simply started to get a weird, scratchy "mouth feel"; I feel the same way about Chrome as I do about quinoa in a salad.
+<footer>Paul Ford<cite> <a href="https://usesthis.com/interviews/paul.ford/">https://usesthis.com/interviews/paul.ford/</a></cite></footer>
+</blockquote><script note="" src="https://cdn.jsdelivr.net/gh/Blogger-Peer-Review/quotebacks@1/quoteback.js"></script>
+#+end_export
+
+I still can't stop thinking about Linux.
+
 ** DONE Wednesday, January 19, 2022
 CLOSED: [2022-01-19 Wed 04:47]
 :PROPERTIES:
