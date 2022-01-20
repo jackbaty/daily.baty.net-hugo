@@ -132,7 +132,7 @@ defaultContentLanguage = "en"           # Default language to use
 
 
 [permalinks]
-post = "/:slug/"
+post = "/:year:/:slug/"
 
 [markup.goldmark.renderer]
 unsafe= true
