@@ -76,6 +76,8 @@ Chrome simply started to get a weird, scratchy "mouth feel"; I feel the same way
 
 I still can't stop thinking about Linux.
 
+Is it unreasonable to strive for a life using software that doesn't try to upsell me every three seconds?
+
 ** DONE Wednesday, January 19, 2022
 CLOSED: [2022-01-19 Wed 04:47]
 :PROPERTIES:
