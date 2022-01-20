@@ -15,13 +15,25 @@
 :PROPERTIES:
 :EXPORT_HUGO_SECTION: post/2022
 :END:
+** TODO Thursday, January 20, 2022
+:PROPERTIES:
+:EXPORT_FILE_NAME: 2022-01-20-Thursday
+:EXPORT_HUGO_SLUG: 2022-01-20
+:EXPORT_DESCRIPTION:
+:EXPORT_HUGO_WEIGHT: 1
+:EXPORT_DATE:
+:END:
+⛅️  Partly cloudy +16°F
+
+Good morning. It's 4:03 am and I'm already finished walking with Alice. I don't make coffee until 5:00 am so I've got an hour of nothing to do but chat with all of you. Hi! 👋.
+
+
 ** DONE Wednesday, January 19, 2022
 CLOSED: [2022-01-19 Wed 04:47]
 :PROPERTIES:
 :EXPORT_FILE_NAME: 2022-01-19-Wednesday
 :EXPORT_HUGO_SLUG: 2022-01-19
 :EXPORT_DESCRIPTION:
-:EXPORT_HUGO_WEIGHT: 1
 :EXPORT_DATE:
 :END:
 
