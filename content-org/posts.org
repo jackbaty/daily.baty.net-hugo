@@ -15,6 +15,20 @@
 :PROPERTIES:
 :EXPORT_HUGO_SECTION: post/2022
 :END:
+** TODO Friday, January 21, 2022
+:PROPERTIES:
+:EXPORT_FILE_NAME: 2022-01-21-Friday
+:EXPORT_HUGO_SLUG: 2022-01-21
+:EXPORT_DESCRIPTION:
+:EXPORT_HUGO_WEIGHT: 1
+:EXPORT_DATE:
+:END:
+☁️   Overcast +13°F
+
+It's 4:00 am and we're back from our walk. I think this is a new morning record. Now what?
+
+
+
 ** DONE I should stop installing Linux :Linux:
 CLOSED: [2022-01-20 Thu 04:17]
 :PROPERTIES:
@@ -56,7 +70,6 @@ CLOSED: [2022-01-20 Thu 04:08]
 :EXPORT_FILE_NAME: 2022-01-20-Thursday
 :EXPORT_HUGO_SLUG: 2022-01-20
 :EXPORT_DESCRIPTION:
-:EXPORT_HUGO_WEIGHT: 1
 :EXPORT_DATE:
 :END:
 ⛅️  Partly cloudy +16°F
@@ -74,9 +87,9 @@ Chrome simply started to get a weird, scratchy "mouth feel"; I feel the same way
 </blockquote><script note="" src="https://cdn.jsdelivr.net/gh/Blogger-Peer-Review/quotebacks@1/quoteback.js"></script>
 #+end_export
 
-I still can't stop thinking about Linux.
+I still can't stop thinking about Linux. Or playing with it, for that matter.
 
-Is it unreasonable to strive for a life using software that doesn't try to upsell me every three seconds?
+Is it unreasonable to want a life using software that doesn't try to upsell me every three seconds?
 
 ** DONE Wednesday, January 19, 2022
 CLOSED: [2022-01-19 Wed 04:47]
@@ -1200,7 +1213,6 @@ My wiki is [[https://rudimentarylathe.wiki][rudimentarylathe.wiki]]
 I post photos and write about photography at [[https://copingmechanism.com/][copingmechanism.com]]
 
 
-
 * Changelog
 :PROPERTIES:
 :EXPORT_HUGO_SECTION: /
@@ -1214,7 +1226,6 @@ Changes to this site
 - 2022-01-18 Today's post title is prefixed with "Today -"
 - 2022-01-18 Added Changelog page
 - 2022-01-18 Added Quoteback JavaScript
-
 
 * Footnotes
 * COMMENT Local Variables
