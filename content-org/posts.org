@@ -28,6 +28,12 @@ CLOSED: [2022-01-21 Fri 06:13]
 
 It's 4:00 am and we're back from our walk. I think this is a new morning record. Now what?
 
+Thinking maybe this today:
+
+#+caption: An analog pair: Olympus SM3 and Hasselblad 500C/M
+[[/img/2022/20220121-Q1000172.jpg]]
+
+
 
 
 ** DONE I should stop installing Linux :Linux:
