@@ -27,6 +27,10 @@ CLOSED: [2022-01-22 Sat 04:36]
 
 ☀️   Clear +16°F
 
+Didn't I /just/ say I wasn'g going to do this?
+
+[[/img/2022/2022-01-22-SyncThing.png]]
+
 ** DONE Linux, continued :Linux:
 CLOSED: [2022-01-22 Sat 06:08]
 :PROPERTIES:
@@ -45,7 +49,7 @@ And on Linux I have my beloved Emacs and a decent web browser. I have a nice ter
 
 What I don't have is a good way to handle photos. Photo management and editing on Linux is where things start to fall apart. The tools are better than I remember, but they're no match for Capture One, Photo Mechanic, Lightroom, Photoshop, etc. It's not even close, really. I like Darktable and Shotwell and Rawtherapee well enough, and they get the job done, but they're still too janky to live with all the time. In fact, I feel that way about much of Linux; it gets the job done, but there are a lot of rough edges that take the joy out of it. But just imagine if I could sand those smooth.
 
-I woke this morning unable to stop thinking about all this. And wondering. I'm writing this while sitting at the ThinkPad plugged into the big screen and learning and swearing, but feeling pretty good. This is currently classified as an "experiment".
+I woke this morning unable to stop thinking about all this-wondering. I'm writing this while sitting at the ThinkPad plugged into the big screen and learning and swearing, but feeling pretty good. This is currently classified as an "experiment".
 
 
 ** DONE Friday, January 21, 2022
