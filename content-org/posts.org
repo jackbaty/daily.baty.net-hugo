@@ -27,7 +27,7 @@ CLOSED: [2022-01-22 Sat 04:36]
 
 ☀️   Clear +16°F
 
-Didn't I /just/ say I wasn'g going to do this?
+Didn't I /just/ say I wasn't going to [[https://baty.blog/2022/linux-continued/][do this]]?
 
 [[/img/2022/2022-01-22-SyncThing.png]]
 
