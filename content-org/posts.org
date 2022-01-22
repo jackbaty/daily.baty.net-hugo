@@ -15,13 +15,45 @@
 :PROPERTIES:
 :EXPORT_HUGO_SECTION: post/2022
 :END:
+** DONE Saturday, January 22, 2022
+CLOSED: [2022-01-22 Sat 04:36]
+:PROPERTIES:
+:EXPORT_FILE_NAME: 2022-01-22-Saturday
+:EXPORT_HUGO_SLUG: 2022-01-22
+:EXPORT_DESCRIPTION:
+:EXPORT_HUGO_WEIGHT: 1
+:EXPORT_DATE:
+:END:
+
+☀️   Clear +16°F
+
+** DONE Linux, continued :Linux:
+CLOSED: [2022-01-22 Sat 06:08]
+:PROPERTIES:
+:EXPORT_FILE_NAME: 20220122-LinuxContinued
+:EXPORT_HUGO_SLUG: linux-continued
+:EXPORT_DESCRIPTION:
+:EXPORT_DATE:
+:END:
+
+#+attr_html: :class imgRightMargin
+[[/img/small/linux.png]]
+
+Against my better judgement, I spent the first half of yesterday continuing to try [[https://regolith-linux.org][Regolith Linux]]. Honestly, on the big monitor, with a decent mouse and keyboard, I could see a path to Linux full-time when it comes to general computing. This hit home after I'd switched back to my MacBook Pro and after a few minutes thought, "Well, this kind of sucks." I was referring to window management on macOS, and the fact that there isn't any. It's all manual and I noticed that I spend a lot of time micro-manging windows. I immediately missed the Workspaces and i3 setup in Regolith. Didn't expect that! I started to feel that after a couple more days, I would be able to have windows placed right where I want them, but without actually needing to /put/ them there. That would be cool.
+
+And on Linux I have my beloved Emacs and a decent web browser. I have a nice terminal. I have competent file management. I have /control/.
+
+What I don't have is a good way to handle photos. Photo management and editing on Linux is where things start to fall apart. The tools are better than I remember, but they're no match for Capture One, Photo Mechanic, Lightroom, Photoshop, etc. It's not even close, really. I like Darktable and Shotwell and Rawtherapee well enough, and they get the job done, but they're still too janky to live with all the time. In fact, I feel that way about much of Linux; it gets the job done, but there are a lot of rough edges that take the joy out of it. But just imagine if I could sand those smooth.
+
+I woke this morning unable to stop thinking about all this. And wondering. I'm writing this while sitting at the ThinkPad plugged into the big screen and learning and swearing, but feeling pretty good. This is currently classified as an "experiment".
+
+
 ** DONE Friday, January 21, 2022
 CLOSED: [2022-01-21 Fri 06:13]
 :PROPERTIES:
 :EXPORT_FILE_NAME: 2022-01-21-Friday
 :EXPORT_HUGO_SLUG: 2022-01-21
 :EXPORT_DESCRIPTION:
-:EXPORT_HUGO_WEIGHT: 1
 :EXPORT_DATE:
 :END:
 ☁️   Overcast +13°F
@@ -36,8 +68,6 @@ Thinking maybe this today:
 I love how the [[https://us.kef.com/speaker/computer-speakers/lsx-wireless-music-system.html][KEF LSX]] speakers sound, a lot, but they don't work consistently with Roon. This makes me feel less badly about [[https://baty.blog/2022/leaving-roon/][Leaving Roon]]. I'm now either using AirPlay or a stereo mini cable.
 
 I had no idea that [[https://www.youtube.com/watch?v=IDJgwUeW7_k][Cake covered War Pigs]]. Awesome.
-
-
 
 ** DONE I should stop installing Linux :Linux:
 CLOSED: [2022-01-20 Thu 04:17]
