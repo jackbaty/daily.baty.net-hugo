@@ -15,13 +15,27 @@
 :PROPERTIES:
 :EXPORT_HUGO_SECTION: post/2022
 :END:
+** DONE Sunday, January 23, 2022
+CLOSED: [2022-01-23 Sun 06:01]
+:PROPERTIES:
+:EXPORT_FILE_NAME: 2022-01-23-Sunday
+:EXPORT_HUGO_SLUG: 2022-01-23
+:EXPORT_DESCRIPTION:
+:EXPORT_HUGO_WEIGHT: 1
+:EXPORT_DATE:
+:END:
+
+🌨  Light snow, mist +18°F
+
+I'm having thoughts about my computing environment...Deep Thoughts™. I'm (almost) seriously considing Linux on the desktop and iPad Pro/Mini for mobile. WHAT!? I'll probably get over this in an hour, but right now it's top of mind and feels reasonable. It's before 7:00 am so, no, I've not been drinking.
+
+
 ** DONE Saturday, January 22, 2022
 CLOSED: [2022-01-22 Sat 04:36]
 :PROPERTIES:
 :EXPORT_FILE_NAME: 2022-01-22-Saturday
 :EXPORT_HUGO_SLUG: 2022-01-22
 :EXPORT_DESCRIPTION:
-:EXPORT_HUGO_WEIGHT: 1
 :EXPORT_DATE:
 :END:
 
