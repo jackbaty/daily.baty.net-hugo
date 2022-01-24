@@ -43,7 +43,9 @@ Listening to music on Linux. The opposite of using [[https://roonlabs.com][Roon]
 
 [[/img/2022/2022-01-24_09-29.png]]
 
-A week or so ago I removed the analytics (Plausible.io) script from this site and, to my amazement, I don't miss it. I didn't expect that. I've never been remotely obsessed with site views/stats. Curious, not obsessed. Now I'm not even that curious.
+A week or so ago I removed the analytics (Plausible.io) script from this site and, to my amazement, I don't miss it. I didn't expect that. I've never been remotely obsessed with site views/stats. Curious, not obsessed. Now I'm not even that curious. But, I do like to know about overall traffic and things like 404s, so I've re-installed [[https://goaccess.io/][GoAccess]] on the server so I can pop in as needed and review.
+
+
 
 ** DONE Sunday, January 23, 2022
 CLOSED: [2022-01-23 Sun 06:01]
@@ -1306,6 +1308,7 @@ I post photos and write about photography at [[https://copingmechanism.com/][cop
 
 Changes to this site
 
+- 2022-01-24 Added redirect from /rss to /index.xml. Was seeing a lot of 404s.
 - 2022-01-19 Removed plausible.io due to slow load times
 - 2022-01-18 Call Markdownify on caption attributes in order to hide Figure numbering (See [[https://github.com/kaushalmodi/ox-hugo/issues/535][Issue #535)]]
 - 2022-01-18 Today's post title is prefixed with "Today -"

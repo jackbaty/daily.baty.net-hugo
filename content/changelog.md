@@ -1,12 +1,13 @@
 ---
 title: "Changelog"
-lastmod: 2022-01-19T08:32:03-05:00
+lastmod: 2022-01-24T16:21:56-05:00
 draft: false
 weight: 0
 ---
 
 Changes to this site
 
+-   2022-01-24 Added redirect from /rss to /index.xml. Was seeing a lot of 404s.
 -   2022-01-19 Removed plausible.io due to slow load times
 -   2022-01-18 Call Markdownify on caption attributes in order to hide Figure numbering (See [Issue #535)](https://github.com/kaushalmodi/ox-hugo/issues/535)
 -   2022-01-18 Today's post title is prefixed with "Today -"
