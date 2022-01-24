@@ -43,7 +43,7 @@ Listening to music on Linux. The opposite of using [[https://roonlabs.com][Roon]
 
 [[/img/2022/2022-01-24_09-29.png]]
 
-A week or so ago I removed the analytics (Plausible.io) script from this site and, to my amazement, I don't miss it. I didn't expect that. I've never been remotely obsessed with site views/stats. Curious, not obsessed. Now I'm not even that curious. But, I do like to know about overall traffic and things like 404s, so I've re-installed [[https://goaccess.io/][GoAccess]] on the server so I can pop in as needed and review.
+A week or so ago I removed the analytics (Plausible.io) script from this site and, to my amazement, I don't miss it. I didn't expect that. I've never been obsessed with site views/stats. Curious, but not obsessed. Now I'm not even that curious. However, I do like to keep an eye on overall traffic and things like 404s, so I've re-installed [[https://goaccess.io/][GoAccess]] on the server so I can pop in as needed and review. GoAccess processes the server logs directly, so no need for embedded/tracking scripts.
 
 
 
