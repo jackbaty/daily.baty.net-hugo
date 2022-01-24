@@ -39,6 +39,9 @@ rm -rf .git/modules/themes/daily-jane/
 git rm -f themes/daily-jane/
 #+end_src
 
+Listening to music on Linux. The opposite of using [[https://roonlabs.com][Roon]]:
+
+[[/img/2022/2022-01-24_09-29.png]]
 
 ** DONE Sunday, January 23, 2022
 CLOSED: [2022-01-23 Sun 06:01]
