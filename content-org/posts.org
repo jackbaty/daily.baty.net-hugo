@@ -43,6 +43,8 @@ Listening to music on Linux. The opposite of using [[https://roonlabs.com][Roon]
 
 [[/img/2022/2022-01-24_09-29.png]]
 
+A week or so ago I removed the analytics (Plausible.io) script from this site and, to my amazement, I don't miss it. I didn't expect that. I've never been remotely obsessed with site views/stats. Curious, not obsessed. Now I'm not even that curious.
+
 ** DONE Sunday, January 23, 2022
 CLOSED: [2022-01-23 Sun 06:01]
 :PROPERTIES:
