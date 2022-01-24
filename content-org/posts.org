@@ -29,6 +29,16 @@ CLOSED: [2022-01-24 Mon 06:14]
 
 Alice and I went for our walk at 3:15 am. It's getting ridiculous. I went back to bed when we got home and now it's 6:00 am and that feels much more reasonable. I've been running on five hours sleep a night for a while now and I don't think it's good for me. I'm not 20 years old.
 
+Interesting new Emacs package: [[https://github.com/nobiot/org-remark][nobiot/org-remark: Highlight and annotate any text file with using Org mode]]
+
+I can't believe I /still/ have to look up how to remove a git submodule every time:
+
+#+begin_src sh
+git submodule deinit -f themes/daily-jane
+rm -rf .git/modules/themes/daily-jane/
+git rm -f themes/daily-jane/
+#+end_src
+
 
 ** DONE Sunday, January 23, 2022
 CLOSED: [2022-01-23 Sun 06:01]
