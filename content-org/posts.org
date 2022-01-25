@@ -33,6 +33,7 @@ Installed the [[https://github.com/ibnishak/Timimi][Timimi plugin]] for Firefox 
 
 I moved a lot of my synced files on the Mac <mark>out of iCloud Files</mark>. This was mainly due to wanting them available on Linux, but also because iCloud has been flaky lately. I'm always surprised how well [[https://syncthing.net/][Syncthing]] works, and how easy it is to install. Previously, I'd configured it once and it ran and ran and I'd forget it was there. You know, like Dropbox used to. So far, this time it was even easier to set up and has been running without issue.
 
+I'm thinking I'll reserve using [[https://jack.micro.blog][my micro.blog]] for posting images. Mostly.
 ** DONE Monday, January 24, 2022
 CLOSED: [2022-01-24 Mon 06:14]
 :PROPERTIES:
