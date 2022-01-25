@@ -134,9 +134,10 @@ defaultContentLanguage = "en"           # Default language to use
 [permalinks]
 post = "/:year:/:slug/"
 
-[markup.goldmark.renderer]
-unsafe= true
 
 [[module.imports]]
   path = "github.com/jackbaty/daily-jane"
   # theme
+
+[markup.goldmark.renderer]
+  unsafe= true

@@ -15,13 +15,30 @@
 :PROPERTIES:
 :EXPORT_HUGO_SECTION: post/2022
 :END:
+** DONE Tuesday, January 25, 2022
+CLOSED: [2022-01-25 Tue 04:21]
+:PROPERTIES:
+:EXPORT_FILE_NAME: 2022-01-25-Tuesday
+:EXPORT_HUGO_SLUG: 2022-01-25
+:EXPORT_DESCRIPTION:
+:EXPORT_HUGO_WEIGHT: 1
+:EXPORT_DATE:
+:END:
+
+
+
+☁ Overcast +17°F
+
+Installed the [[https://github.com/ibnishak/Timimi][Timimi plugin]] for Firefox again on the ThinkPad. I've not been using [[https://rudimentarylathe.wiki][the wiki]] for daily notes, but I do like having it for, well, a wiki. Since I'm using Firefox on Linux, Timimi is the simplest option for saving TiddlyWiki files.
+
+I moved a lot of my synched files on the Mac out of iCloud Files. This was mainly due to wanting them available on Linux, but also because iCloud has been flakey lately. I'm always surprised how well [[https://syncthing.net/][Syncthing]] works, and how easy it is to install. Previously, I'd configured it once and it ran and ran and I'd forget it was there. You know, like Dropbox used to. So far, this time it was even easier to set up and has been running without issue.
+
 ** DONE Monday, January 24, 2022
 CLOSED: [2022-01-24 Mon 06:14]
 :PROPERTIES:
 :EXPORT_FILE_NAME: 2022-01-24-Monday
 :EXPORT_HUGO_SLUG: 2022-01-24
 :EXPORT_DESCRIPTION:
-:EXPORT_HUGO_WEIGHT: 1
 :EXPORT_DATE:
 :END:
 
@@ -43,7 +60,7 @@ Listening to music on Linux. The opposite of using [[https://roonlabs.com][Roon]
 
 [[/img/2022/2022-01-24_09-29.png]]
 
-A week or so ago I <mark>removed the analytics</mark> (Plausible.io) script from this site and, to my amazement, I don't miss it. I didn't expect that. I've never been obsessed with site views/stats. Curious, but not obsessed. Now I'm not even that curious. However, I do like to keep an eye on overall traffic and things like 404s, so I've re-installed [[https://goaccess.io/][GoAccess]] on the server so I can pop in as needed and review. GoAccess processes the server logs directly, so no need for embedded/tracking scripts.
+A week or so ago I removed the analytics (Plausible.io) script from this site and, to my amazement, I don't miss it. I didn't expect that. I've never been obsessed with site views/stats. Curious, but not obsessed. Now I'm not even that curious. However, I do like to keep an eye on overall traffic and things like 404s, so I've re-installed [[https://goaccess.io/][GoAccess]] on the server so I can pop in as needed and review. GoAccess processes the server logs directly, so no need for embedded/tracking scripts.
 
 ** DONE Sunday, January 23, 2022
 CLOSED: [2022-01-23 Sun 06:01]
