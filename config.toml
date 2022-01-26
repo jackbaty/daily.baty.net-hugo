@@ -135,9 +135,13 @@ defaultContentLanguage = "en"           # Default language to use
 post = "/:year:/:slug/"
 
 
+# allow HTML
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
 [[module.imports]]
   path = "github.com/jackbaty/daily-jane"
   # theme
 
-[markup.goldmark.renderer]
-  unsafe= true
