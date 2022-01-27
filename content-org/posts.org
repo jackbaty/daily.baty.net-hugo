@@ -27,6 +27,7 @@ CLOSED: [2022-01-27 Thu 04:29]
 :END:
 ☁️   Overcast +13°F
 
+Back on Linux this morning. I missed i3 yesterday. So far, as long as I'm not doing photo-related stuff, Regolith is working great.
 
 
 
