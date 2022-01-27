@@ -29,6 +29,9 @@ CLOSED: [2022-01-27 Thu 04:29]
 
 Back on Linux this morning. I missed i3 yesterday. So far, as long as I'm not doing photo-related stuff, Regolith is working great.
 
+#+caption: Alice. (Leica M3. Summilux-M 50mm. HP5)
+[[/img/2022/20220127-alice.jpg]]
+
 
 
 ** DONE Wednesday, January 26, 2022
