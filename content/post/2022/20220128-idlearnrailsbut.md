@@ -1,7 +1,7 @@
 ---
 title: "I'd (re)learn Ruby On Rails if it weren't for DHH"
 date: 2022-01-28T11:17:00-05:00
-lastmod: 2022-01-28T11:55:03-05:00
+lastmod: 2022-01-28T11:57:20-05:00
 slug: "id-learn-rails-but"
 draft: false
 weight: 0
@@ -15,7 +15,7 @@ But after reading [DHH's newsletter](https://world.hey.com/dhh) lately, I think 
 
 His latest, [Spotify must be afraid of canceling Rogan, right? Right?!](https://world.hey.com/dhh/spotify-must-be-afraid-of-canceling-rogan-right-right-8fc9f1f6), was the final straw for me. It wasn't just the inane title, but that he keeps showing that he doesn't understand the argument and insisting that "both-sides"-ism is always OK.
 
-Neal Young doesn't want to share a platform with Rogan. Not because Rogan "hosts guests with divergent views" because he hosts guests with demonstrably incorrect and dangerous views. DHH apparently doesn't understand science, either. Not really.
+Neal Young doesn't want to share a platform with Rogan. Not because Rogan "hosts guests with divergent views" because he hosts guests with demonstrably incorrect and dangerous views...and seems to agree with them. DHH apparently doesn't understand science, either. Not really.
 
 Anyway, I don't want to argue with him. And I don't want to argue _about_ him. But, he makes me want to _not_ use his products. Which is a shame because I think Rails is still a valid, viable, and valuable option. I just wanted to vent a little about my disappointment with someone who used to inspire me.
 
