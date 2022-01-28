@@ -36,7 +36,7 @@ There is a nicely-configured [[https://system76.com/desktops/thelio-mira][Thelio
 
 Suddenly, Emacs is running slowly on the ThinkPad. Could it be that I need a faster machine?
 
-One cannot virtue signal while using a paper notebook. (But /mentioning/ using paper notebooks works great.)
+It's hard to virtue signal while using a paper notebook. (But /mentioning/ using paper notebooks works great.)
 
 ** DONE Thursday, January 27, 2022
 CLOSED: [2022-01-27 Thu 04:29]
