@@ -16,13 +16,30 @@
 :PROPERTIES:
 :EXPORT_HUGO_SECTION: post/2022
 :END:
+** DONE Friday, January 28, 2022
+CLOSED: [2022-01-28 Fri 04:35]
+:PROPERTIES:
+:EXPORT_FILE_NAME: 2022-01-28-Friday
+:EXPORT_HUGO_SLUG: 2022-01-28
+:EXPORT_DESCRIPTION:
+:EXPORT_HUGO_WEIGHT: 1
+:EXPORT_DATE:
+:END:
+☀️   Clear +15°F
+
+Got new eyeglasses yesterday. The prescription changed a bit from my previous pair. They work great, but I feel a little woozy while getting used to them.
+
+#+attr_html: :class imgRightMargin
+[[/img/small/linux.png]]
+
+There is a nicely-configured [[https://system76.com/desktops/thelio-mira][Thelio Mira]] in my shopping cart. I came close to pulling the trigger yesterday, but a clear head prevailed. So far. I know me. In 2 weeks I'll be back on my Mac and the old ThinkPad I'm typing this on will be packed up and in the closet until next time I get the Linux itch. My thinking with the Thelio is that in order to get the full Linux experience, I should work on a faster, modern machine. There could be something to that, but mostly it's just an excuse to buy a new toy. I'm going to sit on it for a month or two and if I still think I could switch to Linux, I'll buy something nice to run it on.
+
 ** DONE Thursday, January 27, 2022
 CLOSED: [2022-01-27 Thu 04:29]
 :PROPERTIES:
 :EXPORT_FILE_NAME: 2022-01-27-Thursday
 :EXPORT_HUGO_SLUG: 2022-01-27
 :EXPORT_DESCRIPTION:
-:EXPORT_HUGO_WEIGHT: 1
 :EXPORT_DATE:
 :END:
 ☁️   Overcast +13°F
@@ -33,6 +50,318 @@ Back on Linux this morning. I missed i3 yesterday. So far, as long as I'm not do
 [[/img/2022/20220127-alice.jpg]]
 
 My laptop is somehow (barely) picking up a local radio station and feeding it to my speakers and it's freaking me out a little.
+
+I've gotta say, I really dislike the look of the (very trendy) Cinestill Tungsten-balanced film.
+
+** DONE Wednesday, January 26, 2022
+CLOSED: [2022-01-26 Wed 05:22]
+:PROPERTIES:
+:EXPORT_FILE_NAME: 2022-01-26-Wednesday
+:EXPORT_HUGO_SLUG: 2022-01-26
+:EXPORT_DESCRIPTION:
+:EXPORT_DATE:
+:END:
+⛅️  Partly cloudy +9°F
+
+Good morning!
+
+[[/img/2022/20220126-L1010053.jpg]]
+
+I've decided to {{{mark(work on my Mac today)}}}, after a few days on Linux. Apple people tend to complain a lot about the sorry state of macOS, but coming back after time away is a stark reminder of the sheer level of refinement in macOS. It's just...nice.
+
+The [[https://system76.com/desktops/thelio-mira][Thelio Mira]] from System76 is tempting. I'd like to try a modern, powerful desktop machine running Linux. I mean, how else can I do a fair comparison with my MBP? 😜. So far I've avoided the temptation, because, I just bought a top-spec'd MacBook Pro, remember? If it weren't for wanting to edit photos with good software, I'd be much more tempted.
+
+Living down a rabbit hole of photo editing processes, techniques, and software does nothing to improve my photography, so I'm backing off a bit and putting everything in {{{mark(baby Lightroom)}}} for a while.
+
+I've changed tagging for financially-related items in my {{{mark(Org daybook)}}} to ":money:" because I'm tired of trying to decide/remember between :finances:, :finance:, and :financial:. Now it's just :money:
+
+Just for fun, and as a fallback for 1Password, I've started using [[https://www.passwordstore.org/][Pass: The Standard Unix Password Manager]] again. It's been years. I started with a fresh .password-store/ and will fill it as needed.
+
+** DONE Highlighting text in ox-hugo :Orgmode:
+CLOSED: [2022-01-26 Wed 09:47]
+:PROPERTIES:
+:EXPORT_FILE_NAME: 20220126-highlighting-text
+:EXPORT_DATE:
+:END:
+
+
+I've been experimenting with adding highlights to text in my daily posts. The idea is that it makes scanning easier. I pick out the important parts of each entry and add a =<mark>= HTML tag. Then I style the region like so:
+
+#+begin_src css
+mark {
+  background: rgba(255, 255, 0, 0.3);
+}
+#+end_src
+
+Recently, there's been a {{{mark(change in org that broke my markup)}}} when exporting from ox-hugo. Here's the comment by [[https://github.com/kaushalmodi][kaushalmodi]]:
+
+[[https://github.com/kaushalmodi/ox-hugo/issues/540][Issue #540]]
+#+begin_quote
+This was a recent breaking change that fixed an inconsistency in ox-hugo (compared to ox-html). If we want to export verbatim HTML, it needs to be in @@html:..@@ or in an HTML export block
+#+end_quote
+
+His suggestion to use a macro was excellent, so I did that. At the top of my posts.org file, is this:
+
+=#+macro: mark @@html:<mark>$1</mark>@@=
+
+When I want to =<mark>= some text, I add the macro inline, like so:
+
+=I would like to {{{mark(mark this text)}}} so that it is highlighted=
+
+But who has time to add all that markup by hand? To make it easier, I created the following function:
+
+#+begin_src lisp
+(defun jab/markregion ()
+  "Add a 'mark' macro to the current region (for Hugo)"
+  (interactive)
+  (if (region-active-p)
+      (progn
+        (goto-char (region-end))
+        (insert ")}}}")
+        (goto-char (region-beginning))
+        (insert "{{{mark("))))
+#+end_src
+
+Now, I select a region and run =M-x jab/markregion=. I may create a keybinding for it, too, but for now this is fast and easy.
+
+** DONE Tuesday, January 25, 2022
+CLOSED: [2022-01-25 Tue 04:21]
+:PROPERTIES:
+:EXPORT_FILE_NAME: 2022-01-25-Tuesday
+:EXPORT_HUGO_SLUG: 2022-01-25
+:EXPORT_DESCRIPTION:
+:EXPORT_DATE:
+:END:
+☁ Overcast +17°F
+
+Installed the [[https://github.com/ibnishak/Timimi][Timimi plugin]] for Firefox again on the ThinkPad. I've not been using [[https://rudimentarylathe.wiki][the wiki]] for daily notes, but I do like having it for, well, a wiki. Since I'm using Firefox on Linux,  {{{mark(Timimi is the simplest option)}}} for saving TiddlyWiki files.
+
+I moved a lot of my synced files on the Mac {{{mark(out of iCloud Files)}}}.
+This was mainly due to wanting them available on Linux, but also because iCloud
+has been flaky lately. I'm always surprised how well [[https://syncthing.net/][Syncthing]] works, and how
+easy it is to install. Previously, I'd configured it once and it ran and ran and
+I'd forget it was there. You know, like Dropbox used to. So far, this time it
+was even easier to set up and has been running without issue.
+
+I'm thinking I'll reserve using [[https://jack.micro.blog][my micro.blog]] for posting images. Mostly.
+
+Pretty happy with [[https://www.orgroam.com/][Org-roam]]. Every day I get closer to calling it and living there for my notes.
+
+** DONE Monday, January 24, 2022
+CLOSED: [2022-01-24 Mon 06:14]
+:PROPERTIES:
+:EXPORT_FILE_NAME: 2022-01-24-Monday
+:EXPORT_HUGO_SLUG: 2022-01-24
+:EXPORT_DESCRIPTION:
+:EXPORT_DATE:
+:END:
+
+☁️ Overcast +18°F
+
+Alice and I went for our walk at 3:15 am. It's getting ridiculous. I went back to bed when we got home and now it's 6:00 am and that feels much more reasonable. I've been running on five hours sleep a night for a while now and I don't think it's good for me. I'm not 20 years old.
+
+Interesting new Emacs package: [[https://github.com/nobiot/org-remark][nobiot/org-remark: Highlight and annotate any text file with using Org mode]]
+
+I can't believe I /still/ have to look up how to remove a git submodule every time:
+
+#+begin_src sh
+git submodule deinit -f themes/daily-jane
+rm -rf .git/modules/themes/daily-jane/
+git rm -f themes/daily-jane/
+#+end_src
+
+Listening to music on Linux. The opposite of using [[https://roonlabs.com][Roon]]:
+
+[[/img/2022/2022-01-24_09-29.png]]
+
+A week or so ago I removed the analytics (Plausible.io) script from this site and, to my amazement, I don't miss it. I didn't expect that. I've never been obsessed with site views/stats. Curious, but not obsessed. Now I'm not even that curious. However, I do like to keep an eye on overall traffic and things like 404s, so I've re-installed [[https://goaccess.io/][GoAccess]] on the server so I can pop in as needed and review. GoAccess processes the server logs directly, so no need for embedded/tracking scripts.
+
+** DONE Sunday, January 23, 2022
+CLOSED: [2022-01-23 Sun 06:01]
+:PROPERTIES:
+:EXPORT_FILE_NAME: 2022-01-23-Sunday
+:EXPORT_HUGO_SLUG: 2022-01-23
+:EXPORT_DESCRIPTION:
+:EXPORT_DATE:
+:END:
+
+🌨  Light snow, mist +18°F
+
+I'm having thoughts about my computing environment...Deep Thoughts™. I'm (almost) seriously considing Linux on the desktop and iPad Pro/Mini for mobile. WHAT!? I'll probably get over this in an hour, but right now it's top of mind and feels reasonable. It's before 7:00 am so, no, I've not been drinking. What's going to ruin this is not limitations with Linux, but limitations in iOS.
+
+** DONE Thursday, January 27, 2022
+CLOSED: [2022-01-27 Thu 04:29]
+:PROPERTIES:
+:EXPORT_FILE_NAME: 2022-01-27-Thursday
+:EXPORT_HUGO_SLUG: 2022-01-27
+:EXPORT_DESCRIPTION:
+:EXPORT_DATE:
+:END:
+☁️   Overcast +13°F
+
+Back on Linux this morning. I missed i3 yesterday. So far, as long as I'm not doing photo-related stuff, Regolith is working great.
+
+#+caption: Alice. (Leica M3. Summilux-M 50mm. HP5)
+[[/img/2022/20220127-alice.jpg]]
+
+My laptop is somehow (barely) picking up a local radio station and feeding it to my speakers and it's freaking me out a little.
+
+I've gotta say, I really dislike the look of the (very trendy) Cinestill Tungsten-balanced film.
+
+** DONE Wednesday, January 26, 2022
+CLOSED: [2022-01-26 Wed 05:22]
+:PROPERTIES:
+:EXPORT_FILE_NAME: 2022-01-26-Wednesday
+:EXPORT_HUGO_SLUG: 2022-01-26
+:EXPORT_DESCRIPTION:
+:EXPORT_DATE:
+:END:
+⛅️  Partly cloudy +9°F
+
+Good morning!
+
+[[/img/2022/20220126-L1010053.jpg]]
+
+I've decided to {{{mark(work on my Mac today)}}}, after a few days on Linux. Apple people tend to complain a lot about the sorry state of macOS, but coming back after time away is a stark reminder of the sheer level of refinement in macOS. It's just...nice.
+
+The [[https://system76.com/desktops/thelio-mira][Thelio Mira]] from System76 is tempting. I'd like to try a modern, powerful desktop machine running Linux. I mean, how else can I do a fair comparison with my MBP? 😜. So far I've avoided the temptation, because, I just bought a top-spec'd MacBook Pro, remember? If it weren't for wanting to edit photos with good software, I'd be much more tempted.
+
+Living down a rabbit hole of photo editing processes, techniques, and software does nothing to improve my photography, so I'm backing off a bit and putting everything in {{{mark(baby Lightroom)}}} for a while.
+
+I've changed tagging for financially-related items in my {{{mark(Org daybook)}}} to ":money:" because I'm tired of trying to decide/remember between :finances:, :finance:, and :financial:. Now it's just :money:
+
+Just for fun, and as a fallback for 1Password, I've started using [[https://www.passwordstore.org/][Pass: The Standard Unix Password Manager]] again. It's been years. I started with a fresh .password-store/ and will fill it as needed.
+
+** DONE Highlighting text in ox-hugo :Orgmode:
+CLOSED: [2022-01-26 Wed 09:47]
+:PROPERTIES:
+:EXPORT_FILE_NAME: 20220126-highlighting-text
+:EXPORT_DATE:
+:END:
+
+
+I've been experimenting with adding highlights to text in my daily posts. The idea is that it makes scanning easier. I pick out the important parts of each entry and add a =<mark>= HTML tag. Then I style the region like so:
+
+#+begin_src css
+mark {
+  background: rgba(255, 255, 0, 0.3);
+}
+#+end_src
+
+Recently, there's been a {{{mark(change in org that broke my markup)}}} when exporting from ox-hugo. Here's the comment by [[https://github.com/kaushalmodi][kaushalmodi]]:
+
+[[https://github.com/kaushalmodi/ox-hugo/issues/540][Issue #540]]
+#+begin_quote
+This was a recent breaking change that fixed an inconsistency in ox-hugo (compared to ox-html). If we want to export verbatim HTML, it needs to be in @@html:..@@ or in an HTML export block
+#+end_quote
+
+His suggestion to use a macro was excellent, so I did that. At the top of my posts.org file, is this:
+
+=#+macro: mark @@html:<mark>$1</mark>@@=
+
+When I want to =<mark>= some text, I add the macro inline, like so:
+
+=I would like to {{{mark(mark this text)}}} so that it is highlighted=
+
+But who has time to add all that markup by hand? To make it easier, I created the following function:
+
+#+begin_src lisp
+(defun jab/markregion ()
+  "Add a 'mark' macro to the current region (for Hugo)"
+  (interactive)
+  (if (region-active-p)
+      (progn
+        (goto-char (region-end))
+        (insert ")}}}")
+        (goto-char (region-beginning))
+        (insert "{{{mark("))))
+#+end_src
+
+Now, I select a region and run =M-x jab/markregion=. I may create a keybinding for it, too, but for now this is fast and easy.
+
+** DONE Tuesday, January 25, 2022
+CLOSED: [2022-01-25 Tue 04:21]
+:PROPERTIES:
+:EXPORT_FILE_NAME: 2022-01-25-Tuesday
+:EXPORT_HUGO_SLUG: 2022-01-25
+:EXPORT_DESCRIPTION:
+:EXPORT_DATE:
+:END:
+☁ Overcast +17°F
+
+Installed the [[https://github.com/ibnishak/Timimi][Timimi plugin]] for Firefox again on the ThinkPad. I've not been using [[https://rudimentarylathe.wiki][the wiki]] for daily notes, but I do like having it for, well, a wiki. Since I'm using Firefox on Linux,  {{{mark(Timimi is the simplest option)}}} for saving TiddlyWiki files.
+
+I moved a lot of my synced files on the Mac {{{mark(out of iCloud Files)}}}.
+This was mainly due to wanting them available on Linux, but also because iCloud
+has been flaky lately. I'm always surprised how well [[https://syncthing.net/][Syncthing]] works, and how
+easy it is to install. Previously, I'd configured it once and it ran and ran and
+I'd forget it was there. You know, like Dropbox used to. So far, this time it
+was even easier to set up and has been running without issue.
+
+I'm thinking I'll reserve using [[https://jack.micro.blog][my micro.blog]] for posting images. Mostly.
+
+Pretty happy with [[https://www.orgroam.com/][Org-roam]]. Every day I get closer to calling it and living there for my notes.
+
+** DONE Monday, January 24, 2022
+CLOSED: [2022-01-24 Mon 06:14]
+:PROPERTIES:
+:EXPORT_FILE_NAME: 2022-01-24-Monday
+:EXPORT_HUGO_SLUG: 2022-01-24
+:EXPORT_DESCRIPTION:
+:EXPORT_DATE:
+:END:
+
+☁️ Overcast +18°F
+
+Alice and I went for our walk at 3:15 am. It's getting ridiculous. I went back to bed when we got home and now it's 6:00 am and that feels much more reasonable. I've been running on five hours sleep a night for a while now and I don't think it's good for me. I'm not 20 years old.
+
+Interesting new Emacs package: [[https://github.com/nobiot/org-remark][nobiot/org-remark: Highlight and annotate any text file with using Org mode]]
+
+I can't believe I /still/ have to look up how to remove a git submodule every time:
+
+#+begin_src sh
+git submodule deinit -f themes/daily-jane
+rm -rf .git/modules/themes/daily-jane/
+git rm -f themes/daily-jane/
+#+end_src
+
+Listening to music on Linux. The opposite of using [[https://roonlabs.com][Roon]]:
+
+[[/img/2022/2022-01-24_09-29.png]]
+
+A week or so ago I removed the analytics (Plausible.io) script from this site and, to my amazement, I don't miss it. I didn't expect that. I've never been obsessed with site views/stats. Curious, but not obsessed. Now I'm not even that curious. However, I do like to keep an eye on overall traffic and things like 404s, so I've re-installed [[https://goaccess.io/][GoAccess]] on the server so I can pop in as needed and review. GoAccess processes the server logs directly, so no need for embedded/tracking scripts.
+
+** DONE Sunday, January 23, 2022
+CLOSED: [2022-01-23 Sun 06:01]
+:PROPERTIES:
+:EXPORT_FILE_NAME: 2022-01-23-Sunday
+:EXPORT_HUGO_SLUG: 2022-01-23
+:EXPORT_DESCRIPTION:
+:EXPORT_DATE:
+:END:
+
+🌨  Light snow, mist +18°F
+
+I'm having thoughts about my computing environment...Deep Thoughts™. I'm (almost) seriously considing Linux on the desktop and iPad Pro/Mini for mobile. WHAT!? I'll probably get over this in an hour, but right now it's top of mind and feels reasonable. It's before 7:00 am so, no, I've not been drinking. What's going to ruin this is not limitations with Linux, but limitations in iOS.
+
+** DONE Thursday, January 27, 2022
+CLOSED: [2022-01-27 Thu 04:29]
+:PROPERTIES:
+:EXPORT_FILE_NAME: 2022-01-27-Thursday
+:EXPORT_HUGO_SLUG: 2022-01-27
+:EXPORT_DESCRIPTION:
+:EXPORT_DATE:
+:END:
+☁️   Overcast +13°F
+
+Back on Linux this morning. I missed i3 yesterday. So far, as long as I'm not doing photo-related stuff, Regolith is working great.
+
+#+caption: Alice. (Leica M3. Summilux-M 50mm. HP5)
+[[/img/2022/20220127-alice.jpg]]
+
+My laptop is somehow (barely) picking up a local radio station and feeding it to my speakers and it's freaking me out a little.
+
+I've gotta say, I really dislike the look of the (very trendy) Cinestill Tungsten-balanced film.
 
 ** DONE Wednesday, January 26, 2022
 CLOSED: [2022-01-26 Wed 05:22]
