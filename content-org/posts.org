@@ -16,6 +16,27 @@
 :PROPERTIES:
 :EXPORT_HUGO_SECTION: post/2022
 :END:
+** DONE I'd (re)learn Ruby On Rails if it weren't for DHH
+CLOSED: [2022-01-28 Fri 11:17]
+:PROPERTIES:
+:EXPORT_FILE_NAME: 20220128-idlearnrailsbut
+:EXPORT_HUGO_SLUG: id-learn-rails-but
+:EXPORT_DATE:
+:END:
+I've been tinkering with ideas for my next career, and re-learning Ruby on Rails was on the short list.
+
+I've long admired [[https://en.wikipedia.org/wiki/David_Heinemeier_Hansson][DHH]] and [[https://rubyonrails.org][Rails]] and Basecamp (the [[https://basecamp.com/about][company]] and the [[https://basecamp.com/][product]]). I shipped my first Rails app in 2007. I envied the way they ran the company and how open they were about it. I lapped up all their books. I even agreed with the way they handled the whole "no political discussions" fiasco. I used to feel like he, although cocky and arrogant, was right more than he was wrong about most things.
+
+But after reading [[https://world.hey.com/dhh][DHH's newsletter]] lately, I think I'm out.
+
+His latest, [[https://world.hey.com/dhh/spotify-must-be-afraid-of-canceling-rogan-right-right-8fc9f1f6][Spotify must be afraid of canceling Rogan, right? Right?!]], was the final straw for me. It wasn't just the inane title, but his continued demonstrations that he doesn't understand the argument and insists that "both-sides"-ism is always OK.
+
+Neal Young doesn't want to share a platform with Rogan. Not because Rogan "hosts guests with divergent views" because he hosts guests with demonstrably incorrect and dangerous views. DHH apparently doesn't understand science, either. Not really.
+
+I don't want to argue with him. And I don't want to argue /about/ him. But, he makes me want to /not/ use his products. Which is a shame because I think Rails is still a valid, viable, and valuable option.
+
+Maybe he'll calm down and get over this latest mood, or at least stop writing so much while feeling the way he seems to feel. I hope so.
+
 ** DONE Friday, January 28, 2022
 CLOSED: [2022-01-28 Fri 04:35]
 :PROPERTIES:
