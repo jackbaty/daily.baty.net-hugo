@@ -1779,6 +1779,7 @@ I post photos and write about photography at [[https://copingmechanism.com/][cop
 
 Changes to this site
 
+- 2022-01-28 Fixed Disqus comments (short name should be "baty")
 - 2022-01-24 Added redirect from /rss to /index.xml. Was seeing a lot of 404s.
 - 2022-01-19 Removed plausible.io due to slow load times
 - 2022-01-18 Call Markdownify on caption attributes in order to hide Figure numbering (See [[https://github.com/kaushalmodi/ox-hugo/issues/535][Issue #535)]]
