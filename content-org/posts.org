@@ -38,6 +38,11 @@ Suddenly, Emacs is running slowly on the ThinkPad. Could it be that I need a fas
 
 It's hard to virtue signal while using a paper notebook. (But /mentioning/ using paper notebooks works great.)
 
+If I could make just one photo like this one by Vivian Maier, I'd be happy:
+
+#+caption: Vivian Maier, Florida, 1957
+[[/img/2022/vivian-florida-1957.jpg]]
+
 ** DONE Thursday, January 27, 2022
 CLOSED: [2022-01-27 Thu 04:29]
 :PROPERTIES:
