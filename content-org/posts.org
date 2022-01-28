@@ -43,6 +43,8 @@ If I could make just one photo like this one by Vivian Maier, I'd be happy:
 #+caption: Vivian Maier, Florida, 1957
 [[/img/2022/vivian-florida-1957.jpg]]
 
+After a morning of watching videos on [[https://www.darktable.org][Darktable]] I learn that it supports neither the SL2-S or the Q2 Monochrom. Too bad, because it's not as terrible as I remember. Rawtherapee works better, but I kind of hate using it. I'm back to feeling like iOS and macOS are the only options for seriously editing my photos.
+
 ** DONE Thursday, January 27, 2022
 CLOSED: [2022-01-27 Thu 04:29]
 :PROPERTIES:
