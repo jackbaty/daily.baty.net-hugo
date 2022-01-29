@@ -31,6 +31,7 @@ I plugged in the Mac yesterday so I could actually enjoy working with photos. Wh
 
 OK, there. Back on Linux. It feels good, but at the same time, feels janky. Linux /thinks/ right, but the implementation is often spotty. So help me if I can't figure out how to consistently copy and paste between Emacs, a terminal, and the rest of the system, I'll throw the whole thing out a window.
 
+Nice article about one person's journey into Leica. Lovely photos accompanying the article, too: [[https://fcracer.com/leica-journey-unexpected-and-educational/][Leica Journey: Unexpected and Educational | fcracer]]
 
 ** DONE I'd (re)learn Ruby On Rails if it weren't for DHH
 CLOSED: [2022-01-28 Fri 11:17]
