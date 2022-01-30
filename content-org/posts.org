@@ -16,13 +16,27 @@
 :PROPERTIES:
 :EXPORT_HUGO_SECTION: post/2022
 :END:
+** DONE Sunday, January 30, 2022
+CLOSED: [2022-01-30 Sun 05:52]
+:PROPERTIES:
+:EXPORT_FILE_NAME: 2022-01-30-Sunday
+:EXPORT_HUGO_SLUG: 2022-01-30
+:EXPORT_DESCRIPTION:
+:EXPORT_HUGO_WEIGHT: 1
+:EXPORT_DATE:
+:END:
+
+
+☁️   Overcast +16°F
+
+Great, this website and [[https://rudimentarylathe.wiki]]  were affected by the recent [[https://threatit.com/articles/lets-encrypt-revokes-2-million-certificates/][mass-revocation by Let's Encrypt]]. I needed to delete the existing certificates and force Caddy to renew them. (They live in =/var/lib/caddy/.local/share=). Sorry for the interruption. I'm not sure why I didn't receive the email from them warning me to renew ahead of time.
+
 ** DONE Saturday, January 29, 2022
 CLOSED: [2022-01-29 Sat 04:37]
 :PROPERTIES:
 :EXPORT_FILE_NAME: 2022-01-29-Saturday
 :EXPORT_HUGO_SLUG: 2022-01-29
 :EXPORT_DESCRIPTION:
-:EXPORT_HUGO_WEIGHT: 1
 :EXPORT_DATE:
 :END:
 ☁️   Overcast +5°F
