@@ -31,6 +31,9 @@ CLOSED: [2022-01-30 Sun 05:52]
 
 Great, this website and [[https://rudimentarylathe.wiki]]  were affected by the recent [[https://threatit.com/articles/lets-encrypt-revokes-2-million-certificates/][mass-revocation by Let's Encrypt]]. I needed to delete the existing certificates and force Caddy to renew them. (They live in =/var/lib/caddy/.local/share=). Sorry for the interruption. I'm not sure why I didn't receive the email from them warning me to renew ahead of time.
 
+I tried for 3 days to get my photo processing and management system workable on Linux. I failed. This is such a big part of my computing requirement that I'm afraid all-in Linux will have to wait.
+
+The failure of wikis is that once the rush of getting everything written down is over, we often lose interest in maintaining it, so the information becomes out of date, rendering the whole thing nearly useless.
 ** DONE Saturday, January 29, 2022
 CLOSED: [2022-01-29 Sat 04:37]
 :PROPERTIES:
