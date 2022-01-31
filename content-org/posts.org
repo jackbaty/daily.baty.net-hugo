@@ -33,6 +33,8 @@ Darktable can't deal with the Q2 Monochrom...no lens correction. It /needs/ lens
 
 I'm happy to do just about /anything/ that doesn't involve "working on my resume".
 
+Hosting my static sites on a simple VPS means I never need worry about going over some "build minutes" limitation.
+
 
 ** DONE Sunday, January 30, 2022
 CLOSED: [2022-01-30 Sun 05:52]
