@@ -29,11 +29,13 @@ CLOSED: [2022-01-31 Mon 05:02]
 
 People who are learning are more interesting than those who claim to /know/.
 
-Darktable can't deal with the Q2 Monochrom...no lens correction. It /needs/ lens correction. Unless I'm missing something, this is a deal-breaker.
+Darktable can't deal with the Q2 Monochrom...no lens correction. It /needs/ lens correction. Unless I'm missing something, this is a deal-breaker. UPDATE: I found that choosing the Q2/Summilux combination seems to work. I've configured Darktable to automatically apply the setting, even though the UI yells that "Camera Not Found!".
 
 I'm happy to do just about /anything/ that doesn't involve "working on my resume".
 
 Hosting my static sites on a simple VPS means I never need worry about going over some "build minutes" limitation.
+
+I started putting financial transactions in [[https://www.ledger-cli.org][Ledger]] again. Dodged a bullet and put it away quickly.
 
 
 ** DONE Sunday, January 30, 2022
