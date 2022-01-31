@@ -27,7 +27,7 @@ CLOSED: [2022-01-31 Mon 05:02]
 :END:
 🌫  Haze +24°F
 
-People who are seeking are more interesting than those who claim to /know/.
+People who are learning are more interesting than those who claim to /know/.
 
 Darktable can't deal with the Q2 Monochrom...no lens correction. It /needs/ lens correction. Unless I'm missing something, this is a deal-breaker.
 
