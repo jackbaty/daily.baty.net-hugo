@@ -44,6 +44,7 @@ Things I want to do are strange, simple, and unprofitable
 
 Too many of us spend way too much time trying to save a handful of keystrokes.
 
+I wouldn't need better window management if I didn't have so many windows to manage.
 
 ** DONE Monday, January 31, 2022
 CLOSED: [2022-01-31 Mon 05:02]
