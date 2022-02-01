@@ -16,13 +16,26 @@
 :PROPERTIES:
 :EXPORT_HUGO_SECTION: post/2022
 :END:
+** DONE Tuesday, February  1, 2022
+CLOSED: [2022-02-01 Tue 05:47]
+:PROPERTIES:
+:EXPORT_FILE_NAME: 2022-02-01-Tuesday
+:EXPORT_HUGO_SLUG: 2022-02-01
+:EXPORT_DESCRIPTION:
+:EXPORT_HUGO_WEIGHT: 1
+:EXPORT_DATE:
+:END:
+
+My Linux experiment continues, now that I've figured out how to process the Q2M files in Darktable. Printing sucks, I can tell you that. But, there's something about using Linux that makes me feel free. I'm not beholden to anyone. No single entity can suddenly pull the rug out from under me. That's comforting, somehow. Everything is mine to do with as I please. This is both a blessing and a curse.
+
+
+
 ** DONE Monday, January 31, 2022
 CLOSED: [2022-01-31 Mon 05:02]
 :PROPERTIES:
 :EXPORT_FILE_NAME: 2022-01-31-Monday
 :EXPORT_HUGO_SLUG: 2022-01-31
 :EXPORT_DESCRIPTION:
-:EXPORT_HUGO_WEIGHT: 1
 :EXPORT_DATE:
 :END:
 🌫  Haze +24°F
@@ -36,7 +49,6 @@ I'm happy to do just about /anything/ that doesn't involve "working on my resume
 Hosting my static sites on a simple VPS means I never need worry about going over some "build minutes" limitation.
 
 I started putting financial transactions in [[https://www.ledger-cli.org][Ledger]] again. Dodged a bullet and put it away quickly.
-
 
 ** DONE Sunday, January 30, 2022
 CLOSED: [2022-01-30 Sun 05:52]
