@@ -31,7 +31,7 @@ My Linux experiment continues, now that I've figured out how to process the Q2M 
 
 I just bought a decked-out MacBook Pro (M1 Pro Max) and yet I'm writing this on a 2015 ThinkPad.
 
-I got so tired of logging books that I just stopped reading. There, fixed!
+I got so tired of {{{mark(logging books)}}} that I just stopped reading. There, fixed!
 
 Navel gazing as high art.
 
@@ -42,6 +42,7 @@ Things I want to do are strange, simple, and unprofitable
 @@html:<cite>Paul Ford</cite>@@
 #+end_quote
 
+Too many of us spend way too much time trying to save a handful of keystrokes.
 
 
 ** DONE Monday, January 31, 2022
