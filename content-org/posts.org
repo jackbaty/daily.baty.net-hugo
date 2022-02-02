@@ -29,6 +29,10 @@ CLOSED: [2022-02-02 Wed 05:52]
 
 Capture One, Lightroom, Capture One, Lightroom, Darktable, Capture One, Lightroom....
 
+One thing I'm sure I don't need is more apps.
+
+Remember when I said that committing to using only a single (Mac) machine was the greatest thing I've done for my mental health in a long time? I do, but I've still spent the last week or more unravelling that by trying to go all-in with Linux. {{{mark(I just can't. Not yet)}}}. What I have learned, though, is that when I decide the time is right, I'll be /able/ to switch without too much grief.
+
 ** DONE Tuesday, February  1, 2022
 CLOSED: [2022-02-01 Tue 05:47]
 :PROPERTIES:
