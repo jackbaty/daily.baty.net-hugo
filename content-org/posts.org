@@ -16,13 +16,25 @@
 :PROPERTIES:
 :EXPORT_HUGO_SECTION: post/2022
 :END:
+** DONE Wednesday, February 2, 2022
+CLOSED: [2022-02-02 Wed 05:52]
+:PROPERTIES:
+:EXPORT_FILE_NAME: 2022-02-02-Wednesday
+:EXPORT_HUGO_SLUG: 2022-02-02
+:EXPORT_DESCRIPTION:
+:EXPORT_HUGO_WEIGHT: 1
+:EXPORT_DATE:
+:END:
+☁️   Overcast +32°F
+
+Capture One, Lightroom, Capture One, Lightroom, Darktable, Capture One, Lightroom....
+
 ** DONE Tuesday, February  1, 2022
 CLOSED: [2022-02-01 Tue 05:47]
 :PROPERTIES:
 :EXPORT_FILE_NAME: 2022-02-01-Tuesday
 :EXPORT_HUGO_SLUG: 2022-02-01
 :EXPORT_DESCRIPTION:
-:EXPORT_HUGO_WEIGHT: 1
 :EXPORT_DATE:
 :END:
 ☀️ Clear +27°F
@@ -39,6 +51,7 @@ I read various {{{mark(Leica forums)}}} pretty regularly. I've learned which thr
 
 #+begin_quote
 Things I want to do are strange, simple, and unprofitable
+
 @@html:<cite>Paul Ford</cite>@@
 #+end_quote
 
@@ -49,6 +62,8 @@ I wouldn't need better window management if I didn't have so many windows to man
 +Virtue signaling with+ Listening to some Neal Young on Apple Music this morning.
 
 "Is this hotel pager friendly? I'm not gettin' a sig on my beeper."
+
+I must admit that a compelling reason to switch to Linux is that I could stop paying attention to Apple-related news and speculation, which is /everywhere/ and has become boring as hell.
 
 ** DONE Monday, January 31, 2022
 CLOSED: [2022-01-31 Mon 05:02]
