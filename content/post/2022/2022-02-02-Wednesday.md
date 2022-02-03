@@ -1,10 +1,10 @@
 ---
 title: "Wednesday, February 2, 2022"
 date: 2022-02-02T05:52:00-05:00
-lastmod: 2022-02-02T11:43:50-05:00
+lastmod: 2022-02-03T06:38:17-05:00
 slug: 2022-02-02
 draft: false
-weight: 1
+weight: 0
 ---
 
 ☁️   Overcast +32°F
