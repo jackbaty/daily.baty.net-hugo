@@ -29,7 +29,19 @@ CLOSED: [2022-02-03 Thu 06:38]
 
 Good morning. It's 6:30 am and I've been up since 3:30. I'm hungry.
 
-Weird day. I listed the Leica SL2-S for sale and bought an M10-R (again).
+#+attr_html: :class imgRightMargin
+[[/img/small/leica.png]]
+
+Weird day. {{{mark(The Leica SL2-S is for sale and I ordered an M10-R)}}} (again). Yes, I know, I just got rid of an M10-R a month ago. What can I say, I missed it. I've also decided to focus my energy (and $$$) around the M system. Supporting two different systems was expensive and kind of exhausting. The problem is that just putting the SL2-S in the box makes me want to keep it. Still for sale, though.
+
+I continue to enjoy Leica's M cameras because they are wildly uncomplicated. Unlike everything else:
+
+#+begin_export html
+<blockquote class="quoteback" darkmode="" data-title="Cult Camera (Or: We're Just Talking)" data-author="" cite="https://theonlinephotographer.typepad.com/the_online_photographer/2022/02/cult-camera-or-were-just-talking.html">
+People who have a strong aptitude for geeky features and endless complexity simply don't see why they should be denied every possible option. And people who don't like endless features and complexity are <em>shamed</em>, in a sense, into accepting what the geeks are happy with, the assumption being that if they don't learn all the ins-and-outs of their cameras then it's <em>their own fault</em>.
+<footer><cite> <a href="https://theonlinephotographer.typepad.com/the_online_photographer/2022/02/cult-camera-or-were-just-talking.html">https://theonlinephotographer.typepad.com/the_online_photographer/2022/02/cult-camera-or-were-just-talking.html</a></cite></footer>
+</blockquote><script note="" src="https://cdn.jsdelivr.net/gh/Blogger-Peer-Review/quotebacks@1/quoteback.js"></script>
+#+end_export
 
 ** DONE Wednesday, February 2, 2022
 CLOSED: [2022-02-02 Wed 05:52]
