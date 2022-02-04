@@ -48,6 +48,8 @@ Say what you like about the internet, but for a certain class of underemployed m
 
 I'm supposed to be working on my resume but all I've done so far is tinker with some LaTeX templates.
 
+I wonder if I'll ever find a balance between Emacs, Curio, Tinderbox, and DEVONthink. Probably not. I could always just switch to Linux and that problem goes away.
+
 ** DONE Thursday, February 3, 2022
 CLOSED: [2022-02-03 Thu 06:38]
 :PROPERTIES:
