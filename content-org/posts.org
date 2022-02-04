@@ -16,13 +16,27 @@
 :PROPERTIES:
 :EXPORT_HUGO_SECTION: post/2022
 :END:
+** DONE Friday, February 4, 2022
+CLOSED: [2022-02-04 Fri 04:24]
+:PROPERTIES:
+:EXPORT_FILE_NAME: 2022-02-04-Friday
+:EXPORT_HUGO_SLUG: 2022-02-04
+:EXPORT_DESCRIPTION:
+:EXPORT_HUGO_WEIGHT: 1
+:EXPORT_DATE:
+:END:
+☀️   Clear +5°F
+
+The Leica SL2-S was sold this morning. I was /this/ close to withdrawing it. Too late now, I guess.
+
+
+
 ** DONE Thursday, February 3, 2022
 CLOSED: [2022-02-03 Thu 06:38]
 :PROPERTIES:
 :EXPORT_FILE_NAME: 2022-02-03-Thursday
 :EXPORT_HUGO_SLUG: 2022-02-03
 :EXPORT_DESCRIPTION:
-:EXPORT_HUGO_WEIGHT: 1
 :EXPORT_DATE:
 :END:
 ☁️   Overcast +17°F
