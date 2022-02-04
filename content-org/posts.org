@@ -35,7 +35,7 @@ I wrote this back in December. Guess what I'm struggling with today:
 Today I’m thinking that Logseq offers the best friction to value ratio, while still being local-first and plain text. It’s dead-simple to add notes and offers nice backlinks and graphing. The graph is unnecessary but is a free byproduct, so why not? It beats Roam for privacy, cost, and attitude. It beats TiddlyWiki for ease of use and usefulness outside of the app. Plus, the files are in Org format. What’s not to like?
 #+end_quote
 
-
+I'll give up my AirTags due to people abusing them as soon as you give up your guns for the same reason.
 
 ** DONE Thursday, February 3, 2022
 CLOSED: [2022-02-03 Thu 06:38]
