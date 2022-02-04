@@ -29,6 +29,12 @@ CLOSED: [2022-02-04 Fri 04:24]
 
 The Leica SL2-S was sold this morning. I was /this/ close to withdrawing it. Too late now, I guess.
 
+I wrote this back in December. Guess what I'm struggling with today:
+
+#+begin_quote
+Today I’m thinking that Logseq offers the best friction to value ratio, while still being local-first and plain text. It’s dead-simple to add notes and offers nice backlinks and graphing. The graph is unnecessary but is a free byproduct, so why not? It beats Roam for privacy, cost, and attitude. It beats TiddlyWiki for ease of use and usefulness outside of the app. Plus, the files are in Org format. What’s not to like?
+#+end_quote
+
 
 
 ** DONE Thursday, February 3, 2022
