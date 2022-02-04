@@ -40,6 +40,14 @@ Today I’m thinking that Logseq offers the best friction to value ratio, while 
 
 I'll give up my AirTags due to people abusing them as soon as you give up your guns for the same reason.
 
+#+begin_quote
+Say what you like about the internet, but for a certain class of underemployed male, life has become warmer, and more hygienic.
+
+@@html:<cite>Nick Hornby,  More Baths Less Talking</cite>@@
+#+end_quote
+
+I'm supposed to be working on my resume but all I've done so far is tinker with some LaTeX templates.
+
 ** DONE Thursday, February 3, 2022
 CLOSED: [2022-02-03 Thu 06:38]
 :PROPERTIES:
