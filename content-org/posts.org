@@ -35,10 +35,19 @@ My favorite recent system change has been naming files using {{{mark( CamelCase 
 Looking forward to [[https://discourse.doomemacs.org/login#welcome][Doom Emacs Discourse]] opening up. I hate Discord or other
 "chat" UIs for learning or communication beyond "Hey guys, what's up?"
 
-I had to update my Leica camera timeline, due to recent events:
+I had to update my {{{mark(Leica camera timeline)}}}, due to recent events:
 
 #+caption: Updated Leica Camera Timeline
 [[/img/2022/20220205-LeicaCameraTimeline.png]]
+
+#+begin_export html
+<blockquote class="quoteback" darkmode="" data-title="Apple's boastful robot, day 2" data-author="@davewiner" cite="http://scripting.com/2022/02/03/133000.html?title=applesBoastfulRobotDay2#a134956">
+I remain an Apple shareholder. I hope they can fix this. It really needs to be redone from top to bottom. If they can't handle a $1300 sale for a phone and get it delivered without incident in seven days then they should shut down everything until they can do it. Start over. Fire everyone. It's just not worth continuing if this is how you're going to do business.
+<footer>@davewiner<cite> <a href="http://scripting.com/2022/02/03/133000.html?title=applesBoastfulRobotDay2#a134956">http://scripting.com/2022/02/03/133000.html?title=applesBoastfulRobotDay2#a134956</a></cite></footer>
+</blockquote><script note="" src="https://cdn.jsdelivr.net/gh/Blogger-Peer-Review/quotebacks@1/quoteback.js"></script>
+#+end_export
+
+Right. Apple sells about 500 phones every minute of every day. I don't think your anecdotal issue with a single iPhone delivery is justification for Apple to "shut down everything".
 
 
 ** DONE Friday, February 4, 2022
