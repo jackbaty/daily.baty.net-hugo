@@ -50,6 +50,17 @@ I remain an Apple shareholder. I hope they can fix this. It really needs to be r
 Right. Apple sells about 500 phones every minute of every day. I don't think your anecdotal issue with a single iPhone delivery is justification for Apple to "shut down everything".
 
 
+I need to reread some of these. What a fun list: [[https://medium.com/@cassidybeevemorris/determining-best-science-fiction-fantasy-novels-since-1970-e232ecbdc34d][Determining the best scifi/fantasy books since 1970 | Medium]]
+
+#+begin_export html
+<blockquote class="quoteback" darkmode="" data-title="Determining the greatest science fiction & fantasy novels since 1970" data-author="Cassidy Beeve-Morris" cite="https://medium.com/@cassidybeevemorris/determining-best-science-fiction-fantasy-novels-since-1970-e232ecbdc34d">
+When the Goodreads reviews suggest that <a class="au kk" href="https://www.goodreads.com/book/show/345627.Vampire_Academy" rel="noopener" target="_blank"><em class="kd">Vampire Academy</em></a> (4.11 rating) is better than <em class="kd">Fahrenheit 451</em>, it’s time to look elsewhere for our source of truth.
+<footer>Cassidy Beeve-Morris<cite> <a href="https://medium.com/@cassidybeevemorris/determining-best-science-fiction-fantasy-novels-since-1970-e232ecbdc34d">https://medium.com/@cassidybeevemorris/determining-best-science-fiction-fantasy-novels-since-1970-e232ecbdc34d</a></cite></footer>
+</blockquote><script note="" src="https://cdn.jsdelivr.net/gh/Blogger-Peer-Review/quotebacks@1/quoteback.js"></script>
+#+end_export
+
+
+
 ** DONE Friday, February 4, 2022
 CLOSED: [2022-02-04 Fri 04:24]
 :PROPERTIES:
