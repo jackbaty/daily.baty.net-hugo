@@ -16,13 +16,29 @@
 :PROPERTIES:
 :EXPORT_HUGO_SECTION: post/2022
 :END:
+** DONE Saturday, February 5, 2022
+CLOSED: [2022-02-05 Sat 05:31]
+:PROPERTIES:
+:EXPORT_FILE_NAME: 2022-02-05-Saturday
+:EXPORT_HUGO_SLUG: 2022-02-05
+:EXPORT_DESCRIPTION:
+:EXPORT_HUGO_WEIGHT: 1
+:EXPORT_DATE:
+:END:
+☁️   Overcast +12°F
+
+#+caption: The last photo I took with the Leica SL2-S
+[[/img/2022/20220201-L1010087.jpg]]
+
+My favorite recent system change has been naming files using {{{mark( CamelCase for filenames)}}}. snake_case was the worst, but using-hypens-wasn't-much-better. The easiest combination of typing ease and readability is CamelCase. So from now on it's PhotoOfMyDog.jpg. OK that's not true since I also prefix most files with a datestamp. How about 20220205-PhotoOfMyDog.jpg. Keyboard Maestro handles the YYYYMMDD- part so it's not has painful to type as it looks.
+
+
 ** DONE Friday, February 4, 2022
 CLOSED: [2022-02-04 Fri 04:24]
 :PROPERTIES:
 :EXPORT_FILE_NAME: 2022-02-04-Friday
 :EXPORT_HUGO_SLUG: 2022-02-04
 :EXPORT_DESCRIPTION:
-:EXPORT_HUGO_WEIGHT: 1
 :EXPORT_DATE:
 :END:
 ☀️   Clear +5°F
