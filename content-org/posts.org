@@ -31,6 +31,10 @@ I'm tired this morning.
 
 There are several apps that make me never want to leave macOS, and one of those is [[https://www.zengobi.com/curio/][Curio]].
 
+My paper journal morphs regularly, but I'm really liking this most recent layout:
+
+#+caption: Paper Journal
+[[/img/2022/20220206-Journal.jpg]]
 
 
 ** DONE Saturday, February 5, 2022
