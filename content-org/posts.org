@@ -36,6 +36,7 @@ My paper journal morphs regularly, but I'm really liking this most recent layout
 #+caption: Paper Journal
 [[/img/2022/20220206-Journal.jpg]]
 
+I'm feeling a little bored, and after a Hugo hiccup this morning I'm looking longingly at [[https://rudimentarylathe.wiki][my wiki]]. Don't be surprised if some daily posts show up there instead.
 
 ** DONE Saturday, February 5, 2022
 CLOSED: [2022-02-05 Sat 05:31]
