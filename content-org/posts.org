@@ -16,13 +16,29 @@
 :PROPERTIES:
 :EXPORT_HUGO_SECTION: post/2022
 :END:
+** DONE Sunday, February 6, 2022
+CLOSED: [2022-02-06 Sun 07:31]
+:PROPERTIES:
+:EXPORT_FILE_NAME: 2022-02-06-Sunday
+:EXPORT_HUGO_SLUG: 2022-02-06
+:EXPORT_DESCRIPTION:
+:EXPORT_HUGO_WEIGHT: 1
+:EXPORT_DATE:
+:END:
+☀️   Clear +18°F
+
+I'm tired this morning.
+
+There are several apps that make me never want to leave macOS, and one of those is [[https://www.zengobi.com/curio/][Curio]].
+
+
+
 ** DONE Saturday, February 5, 2022
 CLOSED: [2022-02-05 Sat 05:31]
 :PROPERTIES:
 :EXPORT_FILE_NAME: 2022-02-05-Saturday
 :EXPORT_HUGO_SLUG: 2022-02-05
 :EXPORT_DESCRIPTION:
-:EXPORT_HUGO_WEIGHT: 1
 :EXPORT_DATE:
 :END:
 ☁️   Overcast +12°F
@@ -58,8 +74,6 @@ When the Goodreads reviews suggest that <a class="au kk" href="https://www.goodr
 <footer>Cassidy Beeve-Morris<cite> <a href="https://medium.com/@cassidybeevemorris/determining-best-science-fiction-fantasy-novels-since-1970-e232ecbdc34d">https://medium.com/@cassidybeevemorris/determining-best-science-fiction-fantasy-novels-since-1970-e232ecbdc34d</a></cite></footer>
 </blockquote><script note="" src="https://cdn.jsdelivr.net/gh/Blogger-Peer-Review/quotebacks@1/quoteback.js"></script>
 #+end_export
-
-
 
 ** DONE Friday, February 4, 2022
 CLOSED: [2022-02-04 Fri 04:24]
