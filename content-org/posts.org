@@ -16,6 +16,20 @@
 :PROPERTIES:
 :EXPORT_HUGO_SECTION: post/2022
 :END:
+** TODO Tuesday, February 8, 2022
+:PROPERTIES:
+:EXPORT_FILE_NAME: 2022-02-08-Tuesday
+:EXPORT_HUGO_SLUG: 2022-02-08
+:EXPORT_DESCRIPTION:
+:EXPORT_HUGO_WEIGHT: 1
+:EXPORT_DATE:
+:END:
+☁️   Overcast +22°F
+
+I spent yesterday over at [[https://rudimentarylathe.wiki][the wiki]] because I missed how it was so easy to post to and how it tied all of my thoughts together so nicely. But, who wants to write in a little HTML text area in a browser all day when I could be in Emacs using Org mode with Vim bindings. Plus, I have an RSS feed, better archives, and it /looks/ better, IMO. The dilemma remains.
+
+
+
 ** DONE Sunday, February 6, 2022
 CLOSED: [2022-02-06 Sun 07:31]
 :PROPERTIES:
@@ -35,7 +49,9 @@ My paper journal morphs regularly, but I'm really liking this most recent layout
 #+caption: Paper Journal
 [[/img/2022/20220206-Journal.jpg]]
 
-I'm feeling a little bored, and after a Hugo hiccup this morning I'm looking longingly at [[https://rudimentarylathe.wiki][my wiki]]. Don't be surprised if some daily posts show up there instead.
+I'm feeling a little bored, and after a Hugo hiccup this morning I'm looking
+longingly at [[https://rudimentarylathe.wiki][my wiki]]. Don't be surprised if some daily posts show up there
+instead.
 
 ** DONE Saturday, February 5, 2022
 CLOSED: [2022-02-05 Sat 05:31]
