@@ -31,7 +31,7 @@ I spent yesterday over at [[https://rudimentarylathe.wiki][the wiki]] because I 
 
 @@html:{{< stweet "1490900934213644288" >}}@@
 
-Why do people assume that {{{mark( whatever "early" humans did)}}} was somehow more "natural" than what we do today? More likely it was the only option and they'd kill to have what we have and would do it our way in a heartbeat. And they'd be better for it.
+Why do people assume that {{{mark( whatever "early" humans did)}}} was somehow more "natural" than what we do today? More likely, it was their only option, and they'd kill to have what we have and would do it our way in a heartbeat. And they'd be better for it.
 
 Thing is, I {{{mark( don't feel much like capital-B "Blogging")}}} but I do like writing things down, in public. Is there a difference?
 
