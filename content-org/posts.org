@@ -16,7 +16,8 @@
 :PROPERTIES:
 :EXPORT_HUGO_SECTION: post/2022
 :END:
-** TODO Tuesday, February 8, 2022
+** DONE Tuesday, February 8, 2022
+CLOSED: [2022-02-08 Tue 05:03]
 :PROPERTIES:
 :EXPORT_FILE_NAME: 2022-02-08-Tuesday
 :EXPORT_HUGO_SLUG: 2022-02-08
@@ -26,7 +27,7 @@
 :END:
 ☁️   Overcast +22°F
 
-I spent yesterday over at [[https://rudimentarylathe.wiki][the wiki]] because I missed how it was so easy to post to and how it tied all of my thoughts together so nicely. But, who wants to write in a little HTML text area in a browser all day when I could be in Emacs using Org mode with Vim bindings. Plus, I have an RSS feed, better archives, and it /looks/ better, IMO. The dilemma remains.
+I spent yesterday over at [[https://rudimentarylathe.wiki][the wiki]] because I missed how easy it is to post there and how it tied all of my thoughts together so nicely. But, {{{mark(who wants to write in a little HTML text area)}}} in a browser all day when I could be in Emacs using Org mode with Vim bindings. Plus, here I have an RSS feed, better archives, and it /looks/ better, IMO. The dilemma remains.
 
 
 
