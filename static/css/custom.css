@@ -47,3 +47,156 @@ blockquote cite, blockquote figcaption {
 .figure-number {
   display: none;
 }
+
+
+
+
+
+.tweet-card {
+    font-size: 1em;
+    width: 100%;
+    margin: 1.5rem auto;
+    padding: 1rem;
+    border: 2px solid #595959;
+    border-radius: 12px;
+    background:#fff
+}
+
+@media screen and (min-width: 768px) {
+    .tweet-card {
+        width:90%
+    }
+}
+
+@media screen and (min-width: 1024px) {
+    .tweet-card {
+        width:80%
+    }
+}
+
+@media screen and (min-width: 1536px) {
+    .tweet-card {
+        width:80%
+    }
+}
+
+@media screen and (prefers-color-scheme: dark) {
+    .tweet-card {
+        background:0 0
+    }
+}
+
+.tweet-card a, .tweet-card a:hover {
+    border: none !important;
+    overflow-wrap: break-word;
+    word-wrap: break-word;
+    word-break:break-word
+}
+
+@media screen and (prefers-color-scheme: dark) {
+    .tweet-card a, .tweet-card a:hover {
+        color:#a8dcff
+    }
+}
+
+@media screen and (prefers-color-scheme: dark) {
+    .tweet-card {
+        border: 2px solid #c7c7c7;
+        color:#fff
+    }
+}
+
+.tweet-body {
+    font-size: 1rem;
+    line-height: 1.5em;
+    text-align:left !important
+}
+
+@media screen and (min-width: 1024px) {
+    .tweet-body {
+        font-size:1.25rem
+    }
+}
+
+.tweet-images img {
+    border-radius:12px
+}
+
+.tweet-img {
+    border-radius:12px
+}
+
+.tweet-header {
+    display:flex
+}
+
+.tweet-header .tweet-profile {
+    margin-right: .5em;
+    flex-shrink:0
+}
+
+.tweet-header .tweet-profile img {
+    border-radius:9999px
+}
+
+.tweet-header .tweet-author {
+    display: flex;
+    flex-direction: column;
+    flex-grow:1
+}
+
+.tweet-header .tweet-author-name {
+    font-weight: 700;
+    color: #000;
+    line-height:1.375
+}
+
+@media screen and (prefers-color-scheme: dark) {
+    .tweet-header .tweet-author-name {
+        color:#fff
+    }
+}
+
+.tweet-header .tweet-author-handle {
+    color: #595959;
+    font-size: .85rem;
+    line-height:1
+}
+
+@media screen and (prefers-color-scheme: dark) {
+    .tweet-header .tweet-author-handle {
+        color:#a8a8a8
+    }
+}
+
+.tweet-header .tweet-author .tweet-bird {
+    margin-left:1.25rem
+}
+
+.tweet-footer {
+    margin-top: 1rem;
+    display: flex;
+    align-items: center;
+    color: #595959;
+    font-size:.85rem
+}
+
+@media screen and (prefers-color-scheme: dark) {
+    .tweet-footer {
+        color:#a8a8a8
+    }
+}
+
+.tweet-footer .tweet-like-icon, .tweet-footer .tweet-like-count {
+    display:none
+}
+
+.tweet-footer a {
+    color:#595959
+}
+
+@media screen and (prefers-color-scheme: dark) {
+    .tweet-footer a {
+        color:#a8a8a8
+    }
+}
