@@ -27,7 +27,8 @@ CLOSED: [2022-02-08 Tue 05:03]
 :END:
 ☁️   Overcast +22°F
 
-I spent yesterday over at [[https://rudimentarylathe.wiki][the wiki]] because I missed how easy it is to post there and how it tied all of my thoughts together so nicely. But, {{{mark(who wants to write in a little HTML text area)}}} in a browser all day when I could be in Emacs using Org mode with Vim bindings. Plus, here I have an RSS feed, better archives, and it /looks/ better, IMO. The dilemma remains.
+I spent yesterday over at [[https://rudimentarylathe.wiki][the wiki]] because I missed how easy it is to post there and how it tied all of my thoughts together so nicely. But, {{{mark(who wants to write in a little HTML text area)}}} in a browser all day when I could be in Emacs using Org mode with Vim bindings. Plus, here I have an RSS feed, better archives, and it /looks/ better, IMO. One problem is that with this blog it feels like I'm just throwing everything onto a pile, where in TiddlyWiki it feels organized and linked up nicely right out of the box. The dilemma remains.
+
 
 
 
