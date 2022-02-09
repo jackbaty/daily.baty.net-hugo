@@ -16,13 +16,23 @@
 :PROPERTIES:
 :EXPORT_HUGO_SECTION: post/2022
 :END:
+** DONE Write.as
+CLOSED: [2022-02-09 Wed 07:16]
+:PROPERTIES:
+:EXPORT_FILE_NAME: 2022-02-09-Writeas
+:EXPORT_HUGO_SLUG: write-as
+:EXPORT_DESCRIPTION:
+:EXPORT_DATE:
+:END:
+
+I'm going to try blogging with [[https://write.as][Write.as]] for a bit. I'm at [[https://write.as/jackbaty][write.as/jackbaty]].
+
 ** DONE Tuesday, February 8, 2022
 CLOSED: [2022-02-08 Tue 05:03]
 :PROPERTIES:
 :EXPORT_FILE_NAME: 2022-02-08-Tuesday
 :EXPORT_HUGO_SLUG: 2022-02-08
 :EXPORT_DESCRIPTION:
-:EXPORT_HUGO_WEIGHT: 1
 :EXPORT_DATE:
 :END:
 ☁️   Overcast +22°F
@@ -35,6 +45,9 @@ Why do people assume that {{{mark( whatever "early" humans did)}}} was somehow m
 
 Thing is, I {{{mark( don't feel much like capital-B "Blogging")}}} but I do like writing things down, in public. Is there a difference?
 
+Learning how to make custom mattes today:
+
+[[/img/2022/20220208-M10R0043.jpg]]
 
 
 
