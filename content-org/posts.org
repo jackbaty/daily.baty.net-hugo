@@ -16,6 +16,20 @@
 :PROPERTIES:
 :EXPORT_HUGO_SECTION: post/2022
 :END:
+** DONE RSS Feed update
+CLOSED: [2022-02-10 Thu 08:17]
+:PROPERTIES:
+:EXPORT_FILE_NAME: 20220210-rss-feed-update
+:EXPORT_DESCRIPTION:
+:EXPORT_DATE:
+:END:
+
+
+
+It's happening again. I am going to experiment with using the baty.blog domain for my new Write.as blog.
+
+This means that the RSS feed here will change to https://baty.blog/feed/. If you'd like to follow along, this change will take place shortly, so you'll need to update the URL in your reader. Sorry for the inconvenience.
+
 ** DONE Write.as
 CLOSED: [2022-02-09 Wed 07:16]
 :PROPERTIES:

@@ -26,7 +26,7 @@ PygmentsOptions = "linenos=table"
 # language support # en / zh-cn / other... translations present in i18n/
 defaultContentLanguage = "en"           # Default language to use
 [languages.en]
-  languageCode = "en"
+languageCode = "en-US"
 
 [author]                  # essential                     # 必需
   name = "Jack Baty"
