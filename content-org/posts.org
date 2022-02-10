@@ -28,7 +28,7 @@ CLOSED: [2022-02-10 Thu 08:17]
 
 It's happening again. I am going to experiment with using the baty.blog domain for my new Write.as blog.
 
-This means that the RSS feed here will change to https://baty.blog/feed/. If you'd like to follow along, this change will take place shortly, so you'll need to update the URL in your reader. Sorry for the inconvenience.
+This means that the RSS feed here will change to https://baty.blog/feed/. If you'd like to follow along, this change will take place shortly, so you'll need to update the URL in your reader. I'll move this blog to daily.baty.blog, just in case I want to keep using it.
 
 ** DONE Write.as
 CLOSED: [2022-02-09 Wed 07:16]
