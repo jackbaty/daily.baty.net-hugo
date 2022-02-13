@@ -16,6 +16,24 @@
 :PROPERTIES:
 :EXPORT_HUGO_SECTION: post/2022
 :END:
+** DONE Sunday, February 13, 2022
+CLOSED: [2022-02-13 Sun 08:32]
+:PROPERTIES:
+:EXPORT_FILE_NAME: 2022-02-13-Sunday
+:EXPORT_HUGO_SLUG: 2022-02-13
+:EXPORT_DESCRIPTION:
+:EXPORT_HUGO_WEIGHT: 1
+:EXPORT_DATE:
+:END:
+🌨  Light snow, mist +13°F
+
+I often feel that I could run my life entirely on paper. Then I remember that this is because there's nothing much to run.
+
+I would like to declare Sundays to be "Stay Away From Screens Day" but I know me. Also, I've been sitting at this screen since 5:00 am with no signs of leaving.
+
+
+
+
 ** DONE RSS Feed update (UPDATE: Never mind)
 CLOSED: [2022-02-10 Thu 08:17]
 :PROPERTIES:
@@ -62,8 +80,6 @@ Thing is, I {{{mark( don't feel much like capital-B "Blogging")}}} but I do like
 Learning how to make custom mattes today:
 
 [[/img/2022/20220208-M10R0043.jpg]]
-
-
 
 ** DONE Sunday, February 6, 2022
 CLOSED: [2022-02-06 Sun 07:31]
