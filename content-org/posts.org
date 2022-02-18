@@ -16,6 +16,20 @@
 :PROPERTIES:
 :EXPORT_HUGO_SECTION: post/2022
 :END:
+** DONE One moment, please...
+CLOSED: [2022-02-18 Fri 07:28]
+:PROPERTIES:
+:EXPORT_FILE_NAME: 2022-02-18-Friday
+:EXPORT_HUGO_SLUG: 2022-02-18
+:EXPORT_DESCRIPTION:
+:EXPORT_DATE:
+:END:
+
+[[/img/WillReturnAt.png]]
+
+👉 [[https://rudimentarylathe.wiki][In the meantime]]...
+
+
 ** DONE Monday, February 14, 2022
 CLOSED: [2022-02-14 Mon 09:37]
 :PROPERTIES:
@@ -52,7 +66,6 @@ I would like to declare Sundays to be "Stay Away From Screens Day" but I know me
 Just write a goddamn blog post instead: [[https://twitter.com/G_S_Bhogal/status/1225561131122597896][MEGATHREAD TIME: In 40 tweets I will ...]]
 
 Browsing through one of my [[https://www.amazon.com/Henri-Cartier-Bresson-Image-World-Retrospective/dp/0500542678/][Henri Cartier-Bresson books]], the thing that always stands out is that none of his photographs would have been improved by using a high-resolution digital sensor.
-
 
 ** DONE RSS Feed update (UPDATE: Never mind)
 CLOSED: [2022-02-10 Thu 08:17]
