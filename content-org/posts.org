@@ -27,7 +27,7 @@ CLOSED: [2022-02-18 Fri 07:28]
 
 [[/img/WillReturnAt.png]]
 
-👉 [[https://rudimentarylathe.wiki][In the meantime]]...
+👉 [[https://rl.baty.net][In the meantime]]...
 
 
 ** DONE Monday, February 14, 2022
