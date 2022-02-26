@@ -12,6 +12,18 @@
 #+macro: mark @@html:<mark>$1</mark>@@
 
 * Drafts
+** TODO One moment, please...
+:PROPERTIES:
+:EXPORT_FILE_NAME: 2022-02-18-Friday
+:EXPORT_HUGO_SLUG: 2022-02-18
+:EXPORT_DESCRIPTION:
+:EXPORT_DATE:
+:END:
+
+[[/img/WillReturnAt.png]]
+
+👉 [[https://rl.baty.net][In the meantime]]...
+
 * 2022
 :PROPERTIES:
 :EXPORT_HUGO_SECTION: post/2022
@@ -28,19 +40,7 @@ CLOSED: [2022-02-26 Sat 05:46]
 
 ☁️   Overcast +22°F
 
-It's cool that I [[https://baty.net/2022/domain-consolidation-continued/][consolidated a bunch of blogs]] and reorganized my domain names. That meant I could be down to just a couple sites (or as we used to say, "a couple-tree"). Except I don't enjoy writing in TiddlyWiki nearly as much as I do in Emacs. And this blog looks a lot better than [[https://rl.baty.net][the wiki]]. It's possible this will remain viable and move to a different domain (probably [[https://daily.baty.net][daily.baty.net]]).
-
-** TODO One moment, please...
-:PROPERTIES:
-:EXPORT_FILE_NAME: 2022-02-18-Friday
-:EXPORT_HUGO_SLUG: 2022-02-18
-:EXPORT_DESCRIPTION:
-:EXPORT_DATE:
-:END:
-
-[[/img/WillReturnAt.png]]
-
-👉 [[https://rl.baty.net][In the meantime]]...
+It's cool that I [[https://baty.net/2022/domain-consolidation-continued/][consolidated a bunch of blogs]] and reorganized my domain names. That meant I could be down to just a couple (few?) sites. Except I don't enjoy writing in TiddlyWiki nearly as much as I do in Emacs. And this blog looks a lot better than [[https://rl.baty.net][the wiki]]. It's possible this will remain viable and move to a different domain (probably [[https://daily.baty.net][daily.baty.net]]). More in [[https://baty.net/2022/the-daily-notes-dilemma/][this post]].
 
 ** DONE Monday, February 14, 2022
 CLOSED: [2022-02-14 Mon 09:37]
