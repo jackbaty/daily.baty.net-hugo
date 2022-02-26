@@ -45,6 +45,12 @@ It's cool that I [[https://baty.net/2022/domain-consolidation-continued/][consol
 #+caption: My favorite drink: The "Ultimate Margharita"
 [[/img/2022/20220225-Q1000357.jpg]]
 
+I'm going to try setting up the [[https://rl.baty.net/#Leitz%20Focomat%20IIc][Focomat IIc]] today. It's been in storage for a couple of years. I never did get the longer lens mounted properly, so it's 35mm only for now. I'm hoping I can fit both the IIc and the V35 in at the same time. I'd like to do some side-by-side (condensor vs diffusor head) comparisons. And then eventually figure out the problem with the longer lens so I can also make prints from the Hasselblad (6x6) negatives.
+
+This looks nice for timelines: [[https://github.com/kochrt/cascade.page][kochrt/cascade.page: Make a cascading timeline from markdown-like text.]]
+
+Half-way into the season and I still don't give a shit about Boba Fett. It's cool seeing Tatooine, though.
+
 
 ** DONE Monday, February 14, 2022
 CLOSED: [2022-02-14 Mon 09:37]
