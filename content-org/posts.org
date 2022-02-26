@@ -28,7 +28,7 @@ CLOSED: [2022-02-26 Sat 05:46]
 
 ☁️   Overcast +22°F
 
-It's cool that I consolidated a bunch of blogs and reorganized my domain names. That meant I could be down to just a couple sites (or as we used to say, "a couple-tree"). Except I don't enjoy writing in TiddlyWiki nearly as much as I do in Emacs. And this blog looks a lot better than [[https://rl.baty.net][the wiki]]. It's possible this will remain viable and move to a different domain (probably [[https://daily.baty.net][daily.baty.net]]).
+It's cool that I [[https://baty.net/2022/domain-consolidation-continued/][consolidated a bunch of blogs]] and reorganized my domain names. That meant I could be down to just a couple sites (or as we used to say, "a couple-tree"). Except I don't enjoy writing in TiddlyWiki nearly as much as I do in Emacs. And this blog looks a lot better than [[https://rl.baty.net][the wiki]]. It's possible this will remain viable and move to a different domain (probably [[https://daily.baty.net][daily.baty.net]]).
 
 ** TODO One moment, please...
 :PROPERTIES:
