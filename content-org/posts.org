@@ -28,13 +28,29 @@
 :PROPERTIES:
 :EXPORT_HUGO_SECTION: post/2022
 :END:
+** DONE Sunday, February 27, 2022
+CLOSED: [2022-02-27 Sun 04:06]
+:PROPERTIES:
+:EXPORT_FILE_NAME: 2022-02-27-Sunday
+:EXPORT_HUGO_SLUG: 2022-02-27
+:EXPORT_DESCRIPTION:
+:EXPORT_HUGO_WEIGHT: 1
+:EXPORT_DATE:
+:END:
+☀️   Clear +30°F
+
+Good morning. It's 4:03 am and I'm already at my desk. Why?
+
+Something cool about Emacs that I tend to forget about is putting code right in my notes and executing it from there. I don't have to remember commands or switches, becuase they're right there. I just hit C-c C-c and the command's output is rendered right there in the file.
+
+
+
 ** DONE Saturday, February 26, 2022
 CLOSED: [2022-02-26 Sat 05:46]
 :PROPERTIES:
 :EXPORT_FILE_NAME: 2022-02-26-Saturday
 :EXPORT_HUGO_SLUG: 2022-02-26
 :EXPORT_DESCRIPTION:
-:EXPORT_HUGO_WEIGHT: 1
 :EXPORT_DATE:
 :END:
 
@@ -49,7 +65,7 @@ I'm going to try setting up the [[https://rl.baty.net/#Leitz%20Focomat%20IIc][Fo
 
 This looks nice for timelines: [[https://github.com/kochrt/cascade.page][kochrt/cascade.page: Make a cascading timeline from markdown-like text.]]
 
-Half-way into the season and I still don't give a shit about Boba Fett. It's cool seeing Tatooine, though.
+Half-way into the season and I sti  ll don't give a shit about Boba Fett. It's cool seeing Tatooine, though.
 
 
 ** DONE Monday, February 14, 2022
