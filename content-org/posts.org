@@ -28,13 +28,25 @@
 :PROPERTIES:
 :EXPORT_HUGO_SECTION: post/2022
 :END:
+** TODO Monday, February 28, 2022
+:PROPERTIES:
+:EXPORT_FILE_NAME: 2022-02-28-Monday
+:EXPORT_HUGO_SLUG: 2022-02-28
+:EXPORT_DESCRIPTION:
+:EXPORT_HUGO_WEIGHT: 1
+:EXPORT_DATE:
+:END:
+☀️   Clear +22°F
+
+Good morning. Today should be "finish taxes day" but I hate doing taxes so it may be another "find a new place to blog" and "read about cameras" day.
+
+
 ** DONE Sunday, February 27, 2022
 CLOSED: [2022-02-27 Sun 04:06]
 :PROPERTIES:
 :EXPORT_FILE_NAME: 2022-02-27-Sunday
 :EXPORT_HUGO_SLUG: 2022-02-27
 :EXPORT_DESCRIPTION:
-:EXPORT_HUGO_WEIGHT: 1
 :EXPORT_DATE:
 :END:
 ☀️   Clear +30°F
@@ -46,7 +58,6 @@ Something {{{mark(cool about Emacs)}}} that I tend to forget about is putting co
 I wrote a post about the new IIIC: [[https://baty.net/2022/the-kodak-retina-iiic/][The Kodak Retina IIIC – Jack Baty]]
 #+caption: My new 1959 Kodak Retina IIIC
 [[/img/2022/20220226-Q1000367.jpg]]
-
 
 
 
