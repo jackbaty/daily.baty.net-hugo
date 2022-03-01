@@ -28,18 +28,33 @@
 :PROPERTIES:
 :EXPORT_HUGO_SECTION: post/2022
 :END:
-** TODO Monday, February 28, 2022
+** DONE Tuesday, March 1, 2022
+CLOSED: [2022-03-01 Tue 04:24]
 :PROPERTIES:
-:EXPORT_FILE_NAME: 2022-02-28-Monday
-:EXPORT_HUGO_SLUG: 2022-02-28
+:EXPORT_FILE_NAME: 2022-03-01-Tuesday
+:EXPORT_HUGO_SLUG: 2022-03-01
 :EXPORT_DESCRIPTION:
 :EXPORT_HUGO_WEIGHT: 1
 :EXPORT_DATE:
 :END:
+
+Hooboy, it's March.
+
+Looking at the server analytics (I use [[https://goaccess.io/][GoAccess - Visual Web Log Analyzer]]) for this site shows that a large majority of "hits" are to the RSS feed. This makes me feel a little bad about posting so much over on [[https://wiki.baty.net][the wiki]]. I know I keep saying that my daily notes are "for me" but that guilt I feel makes me think otherwise.
+
+
+** DONE Monday, February 28, 2022
+CLOSED: [2022-02-28 Mon 04:42]
+:PROPERTIES:
+:EXPORT_FILE_NAME: 2022-02-28-Monday
+:EXPORT_HUGO_SLUG: 2022-02-28
+:EXPORT_DESCRIPTION:
+:EXPORT_DATE:
+:END:
 ☀️   Clear +22°F
 
-Good morning. Today should be "finish taxes day" but I hate doing taxes so it may be another "find a new place to blog" and "read about cameras" day.
-
+Good morning. Today should be "finish taxes day" but I hate doing taxes so it
+may be another "find a new place to blog" and "read about cameras" day.
 
 ** DONE Sunday, February 27, 2022
 CLOSED: [2022-02-27 Sun 04:06]
