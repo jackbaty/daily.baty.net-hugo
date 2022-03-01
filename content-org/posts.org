@@ -45,6 +45,12 @@ Looking at the server analytics (I use [[https://goaccess.io/][GoAccess - Visual
 
 Oh cool, I posted on [[https://jackbaty.tumblr.com][my Tumblr]] this morning.
 
+I put a roll through the IIIC. It was fun. It's a nice lens.
+#+caption: Self-portrait with Retina IIIC
+[[/img/2022/2022-Roll-59_04.jpg]]
+
+My subscription to [[https://www.reidreviews.com][Reid Reviews]] has expired. I'm off subscriptions right now so I'm not going to renew yet. It's a great resource, but focuses so much on the micro-differences between lenses and sensors and I'm not really interested in that lately.
+
 ** DONE Monday, February 28, 2022
 CLOSED: [2022-02-28 Mon 04:42]
 :PROPERTIES:
