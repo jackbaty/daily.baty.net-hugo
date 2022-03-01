@@ -43,6 +43,8 @@ Hooboy, it's March.
 
 Looking at the server analytics (I use [[https://goaccess.io/][GoAccess - Visual Web Log Analyzer]]) for this site shows that a large majority of "hits" are to the RSS feed. This makes me feel a little bad about posting so much over on [[https://wiki.baty.net][the wiki]]. I know I keep saying that my daily notes are "for me" but that guilt I feel makes me think otherwise.
 
+Oh cool, I posted on [[https://jackbaty.tumblr.com][my Tumblr]] this morning.
+
 ** DONE Monday, February 28, 2022
 CLOSED: [2022-02-28 Mon 04:42]
 :PROPERTIES:
