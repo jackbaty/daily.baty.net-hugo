@@ -1,3 +1,4 @@
+;; -*- eval: (writeroom-mode) -*-
 #+hugo_base_dir: ../
 #+hugo_section: ./
 #+hugo_weight: nil
@@ -42,7 +43,6 @@ Hooboy, it's March.
 
 Looking at the server analytics (I use [[https://goaccess.io/][GoAccess - Visual Web Log Analyzer]]) for this site shows that a large majority of "hits" are to the RSS feed. This makes me feel a little bad about posting so much over on [[https://wiki.baty.net][the wiki]]. I know I keep saying that my daily notes are "for me" but that guilt I feel makes me think otherwise.
 
-
 ** DONE Monday, February 28, 2022
 CLOSED: [2022-02-28 Mon 04:42]
 :PROPERTIES:
@@ -76,7 +76,6 @@ I wrote a post about the new IIIC: [[https://baty.net/2022/the-kodak-retina-iiic
 
 
 
-
 ** DONE Saturday, February 26, 2022
 CLOSED: [2022-02-26 Sat 05:46]
 :PROPERTIES:
@@ -98,7 +97,6 @@ I'm going to try setting up the [[https://rl.baty.net/#Leitz%20Focomat%20IIc][Fo
 This looks nice for timelines: [[https://github.com/kochrt/cascade.page][kochrt/cascade.page: Make a cascading timeline from markdown-like text.]]
 
 Half-way into the season and I sti  ll don't give a shit about Boba Fett. It's cool seeing Tatooine, though.
-
 
 ** DONE Monday, February 14, 2022
 CLOSED: [2022-02-14 Mon 09:37]
