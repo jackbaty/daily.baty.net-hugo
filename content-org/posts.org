@@ -44,9 +44,9 @@ CLOSED: [2022-03-02 Wed 07:12]
 
 It seems I've settled on [[https://wiki.baty.net][wiki.baty.net]] as the wiki domain. "rl.baty.net" still works, but is discouraged.
 
-Derek Sivers says [[https://sive.rs/plaintext][Write plain text files]] and I mostly agree with him. Except if the plain text format makes what you're actually doing more difficult, then don't. I'd rather have a useful document /now/ that one day, maybe, possibly, could become unreadable, than something future-proof but shitty.
+Derek Sivers says [[https://sive.rs/plaintext][Write plain text files]] and I mostly agree with him. Except if the plain text format makes what you're actually doing more difficult, then don't. I'd rather have a {{{mark(useful document now)}}} even if there's a chance that one day, maybe, possibly, it could become unreadable. Future-proof-but-shitty is not my first choice.
 
-I've modified things so that the home page shows the past 30 days rather than 7. Since there's no search here yet, I figure CMD-f will let you search the past month. If it's older than that, it's probably no longer valid anyway 😆.
+I've modified things so that the home page {{{mark(shows the past 30 days)}}} rather than 7. Since there's no search here yet, I figure CMD-f will let you search the past month. If it's older than that, it's probably no longer valid anyway 😆.
 
 ** DONE Tuesday, March 1, 2022
 CLOSED: [2022-03-01 Tue 04:24]
