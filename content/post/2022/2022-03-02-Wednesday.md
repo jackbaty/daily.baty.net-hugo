@@ -1,7 +1,7 @@
 ---
 title: "Wednesday, March 2, 2022"
 date: 2022-03-02T07:12:00-05:00
-lastmod: 2022-03-02T13:46:20-05:00
+lastmod: 2022-03-02T14:29:19-05:00
 slug: 2022-03-02
 draft: false
 weight: 1
@@ -20,6 +20,8 @@ I've modified things so that the home page <mark>shows the past 30 days</mark> r
 I've <mark>removed Disqus comments</mark> from this site. No reason other than it's overhead I don't need and I rarely see any comments anyway. Whatzamatta with you people?! Send me an email or something, sheesh.
 
 I don't usually panic when some random company I use is acquired but goddammit! [Bandcamp is Joining Epic Games – Bandcamp Updates](https://blog.bandcamp.com/2022/03/02/bandcamp-is-joining-epic/). How can that be good? Tell me it can be good. Please?!
+
+It occurs to me that <mark>we didn't name web1 and web2 ahead of time</mark>. We just labeled them that later. Now we're inventing web3 and trying to make everything into that. It's a bad idea from the start.
 
 [//]: # "Exported with love from a post written in Org mode"
 [//]: # "- https://github.com/kaushalmodi/ox-hugo"
