@@ -1,7 +1,7 @@
 ---
 title: "Wednesday, March 2, 2022"
 date: 2022-03-02T07:12:00-05:00
-lastmod: 2022-03-02T11:23:55-05:00
+lastmod: 2022-03-02T11:39:21-05:00
 slug: 2022-03-02
 draft: false
 weight: 1
@@ -17,7 +17,7 @@ Derek Sivers says [Write plain text files](https://sive.rs/plaintext) and I most
 
 I've modified things so that the home page <mark>shows the past 30 days</mark> rather than 7. Since there's no search here yet, I figure CMD-f will let you search the past month. If it's older than that, it's probably no longer valid anyway 😆.
 
-I've removed Disqus comments from this site. No reason other than it's overhead I don't need and I rarely see any comments anyway. Whatzamatta with you people?! Send me an email or something, sheesh.
+I've <mark>removed Disqus comments</mark> from this site. No reason other than it's overhead I don't need and I rarely see any comments anyway. Whatzamatta with you people?! Send me an email or something, sheesh.
 
 [//]: # "Exported with love from a post written in Org mode"
 [//]: # "- https://github.com/kaushalmodi/ox-hugo"
