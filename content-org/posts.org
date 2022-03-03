@@ -49,6 +49,9 @@ I'm now running both [[https://alfredapp.com][Alfred]] and [[https://www.raycast
 *Wednesday*: What was I thinking? Emacs is life! \\
 *Thursday*: ???
 
+One nice feature of using Hugo for this site is that I {{{mark(haven't felt a need to futz with it)}}} in a while. I just write, save, and type "make deploy".
+
+
 ** DONE Wednesday, March 2, 2022
 CLOSED: [2022-03-02 Wed 07:12]
 :PROPERTIES:
