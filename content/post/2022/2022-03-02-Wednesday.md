@@ -1,10 +1,10 @@
 ---
 title: "Wednesday, March 2, 2022"
 date: 2022-03-02T07:12:00-05:00
-lastmod: 2022-03-02T16:49:01-05:00
+lastmod: 2022-03-03T05:24:35-05:00
 slug: 2022-03-02
 draft: false
-weight: 1
+weight: 0
 ---
 
 ☀️   Clear +22°F

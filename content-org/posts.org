@@ -29,13 +29,27 @@
 :PROPERTIES:
 :EXPORT_HUGO_SECTION: post/2022
 :END:
+** DONE Thursday, March 3, 2022
+CLOSED: [2022-03-03 Thu 05:24]
+:PROPERTIES:
+:EXPORT_FILE_NAME: 2022-03-03-Thursday
+:EXPORT_HUGO_SLUG: 2022-03-03
+:EXPORT_DESCRIPTION:
+:EXPORT_HUGO_WEIGHT: 1
+:EXPORT_DATE:
+:END:
+☀️   Clear +20°F
+
+The fact that I often cannot tell the difference between someone being smart and someone trying to sound smart gives you an idea of how smart I am.
+
+
+
 ** DONE Wednesday, March 2, 2022
 CLOSED: [2022-03-02 Wed 07:12]
 :PROPERTIES:
 :EXPORT_FILE_NAME: 2022-03-02-Wednesday
 :EXPORT_HUGO_SLUG: 2022-03-02
 :EXPORT_DESCRIPTION:
-:EXPORT_HUGO_WEIGHT: 1
 :EXPORT_DATE:
 :END:
 ☀️   Clear +22°F
