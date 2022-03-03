@@ -53,7 +53,11 @@ One nice feature of using Hugo for this site is that I {{{mark(haven't felt a ne
 
 I love having a big screen, but {{{mark(hate managing windows)}}}. I can't help but be distracted by background windows so I either fart around moving things to spaces or I hide them. As a test, I'm trying Hazeover ([[https://hazeover.com/][HazeOver: Distraction Dimmer™ for Productivity on Mac]]) to see if just auto-dimming the unfocused windows will help. Otherwise, I unplug the laptop and use the smaller screen and it's often a relief.
 
-I feel like withdrawing at a time when I should be participating.
+I feel like {{{mark(withdrawing)}}} at a time when I should be participating.
+
+{{{mark(Painting with John)}}} is a dumb, silly little miracle of a show and it's still my favorite thing.
+
+I love this blog and [[https://wiki.baty.net][wiki.baty.net]] equally.
 ** DONE Wednesday, March 2, 2022
 CLOSED: [2022-03-02 Wed 07:12]
 :PROPERTIES:
