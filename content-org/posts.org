@@ -40,7 +40,7 @@ CLOSED: [2022-03-03 Thu 05:24]
 :END:
 ☀️   Clear +20°F
 
-The fact that I often cannot tell the difference between someone being smart and someone trying to sound smart gives you an idea of how smart I am.
+The fact that I often cannot tell the {{{mark(difference between someone being smart)}}} and someone trying to sound smart gives you an idea of how smart I am.
 
 
 
