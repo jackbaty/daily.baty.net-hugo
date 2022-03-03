@@ -42,7 +42,7 @@ CLOSED: [2022-03-03 Thu 05:24]
 
 The fact that I often cannot tell the {{{mark(difference between someone being smart)}}} and someone trying to sound smart gives you an idea of how smart I am.
 
-
+I'm now running both [[https://alfredapp.com][Alfred]] and [[https://www.raycast.com][Raycast]] at the same time. I'm using Raycast for launching, clipboards, etc. and keeping Alfred running for a couple of workflows and "Universal Actions". Why not?
 
 ** DONE Wednesday, March 2, 2022
 CLOSED: [2022-03-02 Wed 07:12]
