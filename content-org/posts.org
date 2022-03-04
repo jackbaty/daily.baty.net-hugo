@@ -29,13 +29,26 @@
 :PROPERTIES:
 :EXPORT_HUGO_SECTION: post/2022
 :END:
+** DONE Friday, March 4, 2022
+CLOSED: [2022-03-04 Fri 06:30]
+:PROPERTIES:
+:EXPORT_FILE_NAME: 2022-03-04-Friday
+:EXPORT_HUGO_SLUG: 2022-03-04
+:EXPORT_DESCRIPTION:
+:EXPORT_HUGO_WEIGHT: 1
+:EXPORT_DATE:
+:END:
+☀️   Clear +16°F
+
+
+
+
 ** DONE Thursday, March 3, 2022
 CLOSED: [2022-03-03 Thu 05:24]
 :PROPERTIES:
 :EXPORT_FILE_NAME: 2022-03-03-Thursday
 :EXPORT_HUGO_SLUG: 2022-03-03
 :EXPORT_DESCRIPTION:
-:EXPORT_HUGO_WEIGHT: 1
 :EXPORT_DATE:
 :END:
 ☀️   Clear +20°F
@@ -68,6 +81,8 @@ You can't make fun of me if I'm not trying.
 Fountain pens > Pencils. But not by as much as I thought.
 
 I think we should all go back to {{{mark(Tumblr and Flickr)}}}. Who's with me!?
+
+I see they've [[https://world.hey.com/dhh/no-railsconf-faa7935e][kicked DHH off the Railsconf keynote this year.]] Part of me thinks they should have, because he's being not just being normally dickish, he's been loudly and repeatedly wrong about so many things recently. On the other hand, let him talk about Rails. Good grief, he still basically /is/ Rails. I think he's wrong, not dangerous, sheesh. There's a difference.
 ** DONE Wednesday, March 2, 2022
 CLOSED: [2022-03-02 Wed 07:12]
 :PROPERTIES:
