@@ -29,13 +29,41 @@
 :PROPERTIES:
 :EXPORT_HUGO_SECTION: post/2022
 :END:
+** DONE Sunday, March 6, 2022
+CLOSED: [2022-03-06 Sun 05:08]
+:PROPERTIES:
+:EXPORT_FILE_NAME: 2022-03-06-Sunday
+:EXPORT_HUGO_SLUG: 2022-03-06
+:EXPORT_DESCRIPTION:
+:EXPORT_HUGO_WEIGHT: 1
+:EXPORT_DATE:
+:END:
+🌦   Light rain +54°F
+
+WordPress is fine. Medium is fine. Facebook is fine. Twitter is fine. Mastodon is fine. Your self-hosted static-HTML website is fine. Instagram is fine. A typewriter in your basement is fine. Write wherever you feel like writing.
+
+
+
+** DONE Saturday, March 5, 2022
+CLOSED: [2022-03-05 Sat 05:54]
+:PROPERTIES:
+:EXPORT_FILE_NAME: 2022-03-05-Saturday
+:EXPORT_HUGO_SLUG: 2022-03-05
+:EXPORT_DESCRIPTION:
+:EXPORT_DATE:
+:END:
+
+
+☀️   Clear +33°F
+
+I fire up a new post every morning, either here or on the wiki (often in both places) and add to it (them) throughout the day. I don't really know why. It's as if I'm worried that {{{mark(I'll no longer exist)}}} if I stop publishing every passing thought.
+
 ** DONE Friday, March 4, 2022
 CLOSED: [2022-03-04 Fri 06:30]
 :PROPERTIES:
 :EXPORT_FILE_NAME: 2022-03-04-Friday
 :EXPORT_HUGO_SLUG: 2022-03-04
 :EXPORT_DESCRIPTION:
-:EXPORT_HUGO_WEIGHT: 1
 :EXPORT_DATE:
 :END:
 ☀️   Clear +16°F
@@ -43,7 +71,6 @@ CLOSED: [2022-03-04 Fri 06:30]
 I spent the morning {{{mark(reassembling the turret)}}} on the [[https://wiki.baty.net/#Leitz%20Focomat%20IIc][Focomat IIc]], then attempting to print from 6x6 negatives. It's possible, but far from ideal. The head needs to be too close to the base, making for very short exposures. I'm also struggling with the autofocus mechanism, but that's probably just me. I think I'll hold off on 6x6 printing until I have the 100mm lens issue solved for real.
 
 This makes me want to take another swing at Standard Notes: [[https://blog.standardnotes.com/33178/why-so-many-editors][Why so many editors? | Crafting Privacy]]
-
 
 ** DONE Thursday, March 3, 2022
 CLOSED: [2022-03-03 Thu 05:24]
@@ -170,7 +197,6 @@ Something {{{mark(cool about Emacs)}}} that I tend to forget about is putting co
 I wrote a post about the new IIIC: [[https://baty.net/2022/the-kodak-retina-iiic/][The Kodak Retina IIIC – Jack Baty]]
 #+caption: My new 1959 Kodak Retina IIIC
 [[/img/2022/20220226-Q1000367.jpg]]
-
 
 
 ** DONE Saturday, February 26, 2022
