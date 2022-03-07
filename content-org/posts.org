@@ -46,6 +46,13 @@ I follow [[https://flickr.com/photos/32681588@N03/][Matt Osbourne]] (aka Mr. Lei
 
 You can see below that I'm experimenting with {{{mark(subheadings within daily posts)}}}. This is for things that are more than one paragraph of text or text and images. There's a way to copy a link to the heading, but it only makes sense on an individual day's page. Not sure if I'll find it useful, but let's try it.
 
+#+begin_export html
+<blockquote class="quoteback" darkmode="" data-title="Stop making the Ukraine war about you" data-author="Dazed" cite="https://www.dazeddigital.com/politics/article/55563/1/stop-making-the-ukraine-war-about-you?utm_source=densediscovery&utm_medium=email&utm_campaign=newsletter-issue-178">
+You’re not suffering from ‘vicarious trauma’, you’re tweeting in your living room
+<footer>Dazed<cite> <a href="https://www.dazeddigital.com/politics/article/55563/1/stop-making-the-ukraine-war-about-you?utm_source=densediscovery&utm_medium=email&utm_campaign=newsletter-issue-178">https://www.dazeddigital.com/politics/article/55563/1/stop-making-the-ukraine-war-about-you?utm_source=densediscovery&utm_medium=email&utm_campaign=newsletter-issue-178</a></cite></footer>
+</blockquote><script note="" src="https://cdn.jsdelivr.net/gh/Blogger-Peer-Review/quotebacks@1/quoteback.js"></script>
+#+end_export
+
 *** Silver gelatin fiber prints
 I'm not sure {{{mark(darkroom printing on fiber paper)}}} is worth the trouble. I love the way fiber prints look and feel, but they take twice as long to develop and an hour to wash, then this happens when they dry.
 
