@@ -40,7 +40,7 @@ CLOSED: [2022-03-07 Mon 05:09]
 :END:
 ☁️   Overcast +35°F
 
-Writing in Emacs is great. Static websites are great. Using Emacs to manage and deal with content for a static website exhausts me eventually. Doesn't bode well for this site.
+Writing in Emacs is great. Static websites are great. Using Emacs to manage and deal with content for a static website exhausts me eventually. Doesn't bode well for this site, although it's probably just my mood today.
 
 I follow [[https://flickr.com/photos/32681588@N03/][Matt Osbourne]] (aka Mr. Leica) on Flickr because he plays with just about every combination of lens and camera you could think of. Also, the lovely models don't hurt. Thing is, with all the fuss about camera/lens combinations, all {{{mark(the images look basically the same)}}}. The biggest difference is film vs digital but otherwise I'd be hard-pressed to tell one from the other.
 
