@@ -35,7 +35,6 @@ CLOSED: [2022-03-07 Mon 05:09]
 :EXPORT_FILE_NAME: 2022-03-07-Monday
 :EXPORT_HUGO_SLUG: 2022-03-07
 :EXPORT_DESCRIPTION:
-:EXPORT_HUGO_WEIGHT: 1
 :EXPORT_DATE:
 :END:
 ☁️   Overcast +35°F
@@ -73,8 +72,6 @@ WordPress is fine. Medium is fine. Facebook is fine. Twitter is fine. Mastodon i
 There's nothing like {{{mark(an open Emacs frame)}}} narrowed to today's post here. I write, save, export, and done. Repeat as needed throughout the day.
 
 One day, if I'm lucky, I'll be busy actually /doing something/ and won't have time to write here all day.
-
-
 
 
 ** DONE Saturday, March 5, 2022
@@ -230,7 +227,6 @@ Something {{{mark(cool about Emacs)}}} that I tend to forget about is putting co
 I wrote a post about the new IIIC: [[https://baty.net/2022/the-kodak-retina-iiic/][The Kodak Retina IIIC – Jack Baty]]
 #+caption: My new 1959 Kodak Retina IIIC
 [[/img/2022/20220226-Q1000367.jpg]]
-
 
 ** DONE Saturday, February 26, 2022
 CLOSED: [2022-02-26 Sat 05:46]
