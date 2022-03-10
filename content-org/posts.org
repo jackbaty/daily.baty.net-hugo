@@ -29,6 +29,19 @@
 :PROPERTIES:
 :EXPORT_HUGO_SECTION: post/2022
 :END:
+** TODO Tuesday, March 8, 2022
+:PROPERTIES:
+:EXPORT_FILE_NAME: 2022-03-08-Tuesday
+:EXPORT_HUGO_SLUG: 2022-03-08
+:EXPORT_DESCRIPTION:
+:EXPORT_HUGO_WEIGHT: 1
+:EXPORT_DATE:
+:END:
+
+My tendency to write daily posts here vs the wiki is tied to how deep I am into Emacs at the moment. Right now... that's /very deep/.
+
+
+
 ** DONE Monday, March 7, 2022
 CLOSED: [2022-03-07 Mon 05:09]
 :PROPERTIES:
