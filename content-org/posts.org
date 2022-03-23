@@ -8,8 +8,6 @@
 #+category: Blog
 #+startup: overview
 #+options: broken-links:t
-#+setupfile: ~/org/_SETUP/jack-latex-journal-twocolumn.setup
-#+latex_class_options: [10pt,twocolumn]
 #+macro: mark @@html:<mark>$1</mark>@@
 
 * Drafts
@@ -29,18 +27,17 @@
 :PROPERTIES:
 :EXPORT_HUGO_SECTION: post/2022
 :END:
-** TODO Tuesday, March 8, 2022
+** DONE Wednesday, March 23, 2022
+CLOSED: [2022-03-23 Wed 07:53]
 :PROPERTIES:
-:EXPORT_FILE_NAME: 2022-03-08-Tuesday
-:EXPORT_HUGO_SLUG: 2022-03-08
+:EXPORT_FILE_NAME: 2022-03-23-Wednesday
+:EXPORT_HUGO_SLUG: 2022-03-23
 :EXPORT_DESCRIPTION:
 :EXPORT_HUGO_WEIGHT: 1
 :EXPORT_DATE:
 :END:
 
-My tendency to write daily posts here vs the wiki is tied to how deep I am into Emacs at the moment. Right now... that's /very deep/.
-
-
+My tendency to write daily posts {{{mark(here vs the wiki)}}} is tied to how deep I am into Emacs at the moment. Right now... that's /very deep/.
 
 ** DONE Monday, March 7, 2022
 CLOSED: [2022-03-07 Mon 05:09]
@@ -85,7 +82,6 @@ WordPress is fine. Medium is fine. Facebook is fine. Twitter is fine. Mastodon i
 There's nothing like {{{mark(an open Emacs frame)}}} narrowed to today's post here. I write, save, export, and done. Repeat as needed throughout the day.
 
 One day, if I'm lucky, I'll be busy actually /doing something/ and won't have time to write here all day.
-
 
 ** DONE Saturday, March 5, 2022
 CLOSED: [2022-03-05 Sat 05:54]
