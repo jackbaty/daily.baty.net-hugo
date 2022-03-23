@@ -1,9 +1,8 @@
 ---
 title: "Wednesday, March 23, 2022"
 date: 2022-03-23T07:53:00-04:00
-lastmod: 2022-03-23T09:45:19-04:00
+lastmod: 2022-03-23T14:52:44-04:00
 slug: 2022-03-23
-tags: ["ATTACH"]
 draft: false
 weight: 1
 ---
@@ -22,6 +21,10 @@ Now what!?
 {{< figure src="/ox-hugo/20220323-blog-meme.jpg" caption="<span class=\"figure-number\">Figure 1: </span>Me, at least once a month" width="800px" >}}
 
 Apparently I have too much time on my hands.
+
+I went into the darkroom to test a new safelight bulb and made a handful of 5x7 prints while I was in there. I love real photos.
+
+{{< figure src="/ox-hugo/20220323-20220323-R0002099.jpg" width="800px" >}}
 
 [//]: # "Exported with love from a post written in Org mode"
 [//]: # "- https://github.com/kaushalmodi/ox-hugo"
