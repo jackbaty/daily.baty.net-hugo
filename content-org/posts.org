@@ -27,8 +27,8 @@
 :PROPERTIES:
 :EXPORT_HUGO_SECTION: post/2022
 :END:
-** DONE Wednesday, March 23, 2022
-CLOSED: [2022-03-23 Wed 07:53]
+** DONE Wednesday, March 23, 202:2
+CLOSED [2022-03-23 Wed 07:53]
 :PROPERTIES:
 :EXPORT_FILE_NAME: 2022-03-23-Wednesday
 :EXPORT_HUGO_SLUG: 2022-03-23
@@ -64,6 +64,7 @@ I went into the darkroom to test a new safelight bulb and made a handful of 5x7 
 #+attr_org: :width 800px
 [[attachment:20220323-20220323-R0002099.jpg]]
 
+Ordered a book:  [[https://bookshop.org/books/no-one-is-talking-about-this/9780593189580][No One Is Talking about This - a book by Patricia Lockwood]]
 
 
 ** DONE Monday, March 7, 2022
