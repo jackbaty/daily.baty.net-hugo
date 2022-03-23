@@ -27,7 +27,7 @@
 :PROPERTIES:
 :EXPORT_HUGO_SECTION: post/2022
 :END:
-** DONE Wednesday, March 23, 2022
+** DONE Wednesday, March 23, 2022 :ATTACH:
 CLOSED: [2022-03-23 Wed 07:53]
 :PROPERTIES:
 :EXPORT_FILE_NAME: 2022-03-23-Wednesday
@@ -35,10 +35,20 @@ CLOSED: [2022-03-23 Wed 07:53]
 :EXPORT_DESCRIPTION:
 :EXPORT_HUGO_WEIGHT: 1
 :EXPORT_DATE:
+:DIR:      attach/
 :END:
 
 My tendency to write daily posts {{{mark(here vs the wiki)}}} is tied to how deep I am into Emacs at the moment. Right now... that's /very deep/.
 
+
+I've spent hours configuring my [[https://www.orgroam.com][Org-roam]] setup so I can {{{mark(publish certain notes as a website)}}}. It's so cool, but in the end I'm not sure it offers clear advantages over this wiki other than that I can make some of my roam notes public without needing to rewrite them in TiddlyWiki. WIP is here: notes.baty.net
+
+#+caption: Me, at least once a month
+#+attr_html: :width 800px
+#+attr_org: :width 800px
+[[attachment:20220323-blog-meme.jpg]]
+
+Apparently I have too much time on my hands.
 ** DONE Monday, March 7, 2022
 CLOSED: [2022-03-07 Mon 05:09]
 :PROPERTIES:
