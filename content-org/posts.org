@@ -44,7 +44,9 @@ All of our smoke detectors started chirping at the same time last night. No smok
 
 The conflict for me happens when I can't decide if it matters to me {{{mark(how things are done)}}}. For example, film photographs mean more to me than digital photographs, so I tend to prefer using film because of /how/ the photos are made. Otherwise, digital gets the job done and is 1,000% easier. Similarly, using Emacs for notes and tasks and blogging is, for me, the correct way to handle things. Plain text, consistent environment, free and open source. On the other hand, using Things and DEVONthink and WordPress sure is pretty and easy.
 
+I {{{mark(updated this site's RSS feed)}}} to only include type "post". By default everything is included and this meant things like the About page were in the RSS feed.
 
+I used to love programming and computers because I could make them /do/ things. I still probably could, but I no longer know what I want them to do.
 ** DONE Wednesday, March 23, 2022
 CLOSED: [2022-03-23 Wed 20:29]
 :PROPERTIES:
@@ -1451,9 +1453,12 @@ What if I used this for personal journaling? I could publish a local website wit
 
 I created this site as a place to capture the things I’m thinking about throughout each day.
 
-There isn’t a specific topic, or trend, or brand, or goal here.
+There isn’t a specific topic, or trend, or brand, or goal here. It can be pretty mundane.
 
-💌 Reach out via email: [[mailto:jack@baty.net][jack@baty.net]]
+💌 Reach out via *email*: [[mailto:jack@baty.net][jack@baty.net]]
+
+My primary *blog* is at [[https://baty.net][baty.net]] \\
+The *wiki* is at [[https://wiki.baty.net][wiki.baty.net]]
 
 *Do not expect consistency*.
 
@@ -1461,11 +1466,12 @@ There isn’t a specific topic, or trend, or brand, or goal here.
 <br clear="all">
 #+end_export
 
-There's a "landing page" at [[https://www.baty.net/][baty.net]] (thanks to [[https://omg.lol][omg.lol]]), but I'm mostly either here or:
+** Other things
+- [[/index.xml][RSS Feed]]
+- [[/changelog][Changelog]] of changes to this site's structure, behavior, etc.
 
-My wiki is [[https://rudimentarylathe.wiki][rudimentarylathe.wiki]]
 
-I post photos and write about photography at [[https://copingmechanism.com/][copingmechanism.com]]
+
 
 
 * Changelog
@@ -1476,6 +1482,7 @@ I post photos and write about photography at [[https://copingmechanism.com/][cop
 
 Changes to this site
 
+- 2022-03-24 RSS feed now only includes type "post"
 - 2022-01-28 Fixed Disqus comments (short name should be "baty")
 - 2022-01-24 Added redirect from /rss to /index.xml. Was seeing a lot of 404s.
 - 2022-01-19 Removed plausible.io due to slow load times
