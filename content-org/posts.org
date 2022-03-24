@@ -1445,7 +1445,6 @@ What if I used this for personal journaling? I could publish a local website wit
 :EXPORT_FILE_NAME: index
 :END:
 
-
 #+attr_html: :class imgRightMargin
 #+caption: Your host, Jack Baty
 [[./jack-headshot-500.jpg]]
