@@ -1,5 +1,6 @@
 module github.com/jackbaty/baty.blog
 
+// uncomment the following line for local development
 //replace "github.com/jackbaty/daily-jane" => "/Users/jbaty/dev/daily-jane"
 
 go 1.17
