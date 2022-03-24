@@ -26,25 +26,38 @@
 * 2022
 :PROPERTIES:
 :EXPORT_HUGO_SECTION: post/2022
+:DIR:  attach/
 :END:
+** DONE Thursday, March 24, 2022
+CLOSED: [2022-03-24 Thu 05:35]
+:PROPERTIES:
+:EXPORT_FILE_NAME: 2022-03-24-Thursday
+:EXPORT_HUGO_SLUG: 2022-03-24
+:EXPORT_DESCRIPTION:
+:EXPORT_HUGO_WEIGHT: 1
+:EXPORT_DATE:
+:END:
+
+☁️   Overcast +47°F
+
+All of our smoke detectors started chirping at the same time last night. No smoke or fire. After an hour of walking around with that ear-piercing shrill, we noticed water coming out of one of the detectors in the basement. The one directly below the kitchen sink. {{{mark(Leaky garbage disposal)}}}. I removed the detector, which had shorted out (causing the ruckus). Turned off the water supply to the sink, and went to bed. Today is garbage disposal replacement day.
+
+The conflict for me happens when I can't decide if it matters to me {{{mark(how things are done)}}}. For example, film photographs mean more to me than digital photographs, so I tend to prefer using film because of /how/ the photos are made. Otherwise, digital gets the job done and is 1,000% easier. Similarly, using Emacs for notes and tasks and blogging is, for me, the correct way to handle things. Plain text, consistent environment, free and open source. On the other hand, using Things and DEVONthink and WordPress sure is pretty and easy.
+
+
 ** DONE Wednesday, March 23, 2022
 CLOSED: [2022-03-23 Wed 20:29]
 :PROPERTIES:
 :EXPORT_FILE_NAME: 2022-03-23-Wednesday
 :EXPORT_HUGO_SLUG: 2022-03-23
 :EXPORT_DESCRIPTION:
-:EXPORT_HUGO_WEIGHT: 1
-:DIR: attach/
 :EXPORT_DATE:
 :END:
-
-
-
 
 My tendency to write daily posts {{{mark(here vs the wiki)}}} is tied to how deep I am into Emacs at the moment. Right now... that's /very deep/.
 
 
-I've spent hours configuring my [[https://www.orgroam.com][Org-roam]] setup so I can {{{mark(publish certain notes as a website)}}}. It's so cool, but in the end I'm not sure it offers clear advantages over this wiki other than that I can make some of my roam notes public without needing to rewrite them in TiddlyWiki. WIP is here: notes.baty.net. *Later*: now I've realized that I can simply add some [[https://ox-hugo.scripter.co][ox-hugo]] metadata to any of my Org files and have them publish to this daily notes blog. Like so...
+I've spent hours configuring my [[https://www.orgroam.com][Org-roam]] setup so I can {{{mark(publish certain notes as a website)}}}. It's so cool, but in the end I'm not sure it offers clear advantages over the wiki other than that I can make some of my roam notes public without needing to rewrite them in TiddlyWiki. WIP is here: notes.baty.net. *Later*: now I've realized that I can simply add some [[https://ox-hugo.scripter.co][ox-hugo]] metadata to any of my Org files and have them publish to this daily notes blog. Like so...
 
 #+begin_src org
 #+hugo_base_dir: ~/sites/daily.baty.net/
@@ -70,7 +83,6 @@ I went into the darkroom to test a new safelight bulb and made a handful of 5x7 
 Ordered a book:  [[https://bookshop.org/books/no-one-is-talking-about-this/9780593189580][No One Is Talking about This - a book by Patricia Lockwood]]
 
 "Computational Photography" can fuck right off.
-
 
 ** DONE Monday, March 7, 2022
 CLOSED: [2022-03-07 Mon 05:09]
