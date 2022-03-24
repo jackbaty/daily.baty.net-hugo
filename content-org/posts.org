@@ -27,16 +27,19 @@
 :PROPERTIES:
 :EXPORT_HUGO_SECTION: post/2022
 :END:
-** DONE Wednesday, March 23, 202:2
-CLOSED [2022-03-23 Wed 07:53]
+** DONE Wednesday, March 23, 2022
+CLOSED: [2022-03-23 Wed 20:29]
 :PROPERTIES:
 :EXPORT_FILE_NAME: 2022-03-23-Wednesday
 :EXPORT_HUGO_SLUG: 2022-03-23
 :EXPORT_DESCRIPTION:
 :EXPORT_HUGO_WEIGHT: 1
+:DIR: attach/
 :EXPORT_DATE:
-:DIR:      attach/
 :END:
+
+
+
 
 My tendency to write daily posts {{{mark(here vs the wiki)}}} is tied to how deep I am into Emacs at the moment. Right now... that's /very deep/.
 
@@ -67,7 +70,6 @@ I went into the darkroom to test a new safelight bulb and made a handful of 5x7 
 Ordered a book:  [[https://bookshop.org/books/no-one-is-talking-about-this/9780593189580][No One Is Talking about This - a book by Patricia Lockwood]]
 
 "Computational Photography" can fuck right off.
-
 
 
 ** DONE Monday, March 7, 2022

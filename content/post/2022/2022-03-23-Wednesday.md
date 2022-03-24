@@ -1,7 +1,7 @@
 ---
 title: "Wednesday, March 23, 2022"
-date: 2022-03-23T07:53:00-04:00
-lastmod: 2022-03-23T14:52:44-04:00
+date: 2022-03-23T20:29:00-04:00
+lastmod: 2022-03-23T20:29:56-04:00
 slug: 2022-03-23
 draft: false
 weight: 1
@@ -22,9 +22,13 @@ Now what!?
 
 Apparently I have too much time on my hands.
 
-I went into the darkroom to test a new safelight bulb and made a handful of 5x7 prints while I was in there. I love real photos.
+I went into the darkroom to test a new safelight bulb and made a handful of 5x7 prints while I was in there. I love real photos. <mark>The decision to print a photo</mark> automatically makes that photo special.
 
 {{< figure src="/ox-hugo/20220323-20220323-R0002099.jpg" width="800px" >}}
+
+Ordered a book:  [No One Is Talking about This - a book by Patricia Lockwood](https://bookshop.org/books/no-one-is-talking-about-this/9780593189580)
+
+"Computational Photography" can fuck right off.
 
 [//]: # "Exported with love from a post written in Org mode"
 [//]: # "- https://github.com/kaushalmodi/ox-hugo"
