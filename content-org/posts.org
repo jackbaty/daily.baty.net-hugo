@@ -28,13 +28,25 @@
 :EXPORT_HUGO_SECTION: post/2022
 :DIR:  attach/
 :END:
+** DONE Friday, March 25, 2022
+CLOSED: [2022-03-25 Fri 04:14]
+:PROPERTIES:
+:EXPORT_FILE_NAME: 2022-03-25-Friday
+:EXPORT_HUGO_SLUG: 2022-03-25
+:EXPORT_DESCRIPTION:
+:EXPORT_HUGO_WEIGHT: 1
+:EXPORT_DATE:
+:END:
+🌨  Light snow +34°F
+
+So far this morning I've written notes in Emacs, Roam, TiddlyWiki, and Logseq. JFC what's wrong with me?
+
 ** DONE Thursday, March 24, 2022
 CLOSED: [2022-03-24 Thu 05:35]
 :PROPERTIES:
 :EXPORT_FILE_NAME: 2022-03-24-Thursday
 :EXPORT_HUGO_SLUG: 2022-03-24
 :EXPORT_DESCRIPTION:
-:EXPORT_HUGO_WEIGHT: 1
 :EXPORT_DATE:
 :END:
 
