@@ -39,11 +39,15 @@ CLOSED: [2022-04-01 Fri 05:55]
 :END:
 ☁️   Overcast +32°F
 
-I just happened to already in Emacs so I thought I'd write here for a spell. It's no joke 😉. Which reminds me that today is the best day to stay off the internet.
+I just happened to already in Emacs so I thought I'd {{{mark(write here for a spell)}}}. It's no joke 😉. Which reminds me that today is the best day to stay off the internet.
+
+
+#+attr_html: :class imgRightMargin
+[[/img/small/org-roam.png]]
 
 I've been publishing a few of the notes from my Org-roam database over at [[https://notes.baty.net][notes.baty.net]] just in case they might be useful to someone somewhere. I also like to browse them as decent-looking (read-only) HTML files instead of from within Emacs all the time. I'm using a version of the same "CodeIt" theme I used to use for baty.net. Ideally I'd list the categories on the home page rather than a list of recent posts, but Hugo's templating system is completely unfathomable to me so I'm leaving it alone for now.
 
-
+After I don't even know how many years, I've {{{mark(canceled my Dropbox account)}}}
 ** DONE Friday, March 25, 2022
 CLOSED: [2022-03-25 Fri 04:14]
 :PROPERTIES:
