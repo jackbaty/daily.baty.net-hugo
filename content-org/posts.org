@@ -49,6 +49,7 @@ I realize I'm partially to blame, and regret it.
 [[https://twitter.com/jack/status/1510314535671922689][Jack Dorsey]]
 #+end_quote
 
+I'm feeling the {{{mark(need for convenience today)}}}. Also feeling very pointy-clicky. This doesn't bode well for my current setup. It'll pass.
 
 *** DONE Saturday, April  2, 2022
 CLOSED: [2022-04-02 Sat 06:29]
