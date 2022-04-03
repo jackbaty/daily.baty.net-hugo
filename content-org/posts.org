@@ -28,26 +28,77 @@
 :EXPORT_HUGO_SECTION: post/2022
 :DIR:  attach/
 :END:
+** DONE Sunday, April  3, 2022
+CLOSED: [2022-04-03 Sun 05:32]
+:PROPERTIES:
+:EXPORT_FILE_NAME: 2022-04-03-Sunday
+:EXPORT_HUGO_SLUG: 2022-04-03
+:EXPORT_DESCRIPTION:
+:EXPORT_HUGO_WEIGHT: 1
+:EXPORT_DATE:
+:END:
+
+#+begin_quote
+the days of usenet, irc, the web...even email (w PGP)...were amazing. centralizing discovery and identity into corporations really damaged the internet.
+
+I realize I'm partially to blame, and regret it.
+
+[[https://twitter.com/jack/status/1510314535671922689][Jack Dorsey]]
+#+end_quote
+
+** DONE Saturday, April  2, 2022
+CLOSED: [2022-04-02 Sat 06:29]
+:PROPERTIES:
+:EXPORT_FILE_NAME: 2022-04-02-Saturday
+:EXPORT_HUGO_SLUG: 2022-04-02
+:EXPORT_DESCRIPTION:
+:EXPORT_DATE:
+:END:
+☀️   Clear +24°F
+
+I just need to remind anyone using Org mode and Hugo that [[https://ox-hugo.scripter.co/][ox-hugo - Org to Hugo exporter]] is the absolute bee's knees.
+
+There's something I'm eating that doesn't agree with me. Probably ice cream. My {{{mark(stomach is a mess)}}} this morning.
+
+I want to make one of these [[http://penkesu.computer/][Penkesu Computer - A Homebrew Retro-style Handheld PC | penkesu]]
+
 ** DONE Friday, April  1, 2022
 CLOSED: [2022-04-01 Fri 05:55]
 :PROPERTIES:
 :EXPORT_FILE_NAME: 2022-04-01-Friday
 :EXPORT_HUGO_SLUG: 2022-04-01
 :EXPORT_DESCRIPTION:
-:EXPORT_HUGO_WEIGHT: 1
 :EXPORT_DATE:
 :END:
 ☁️   Overcast +32°F
 
-I just happened to already in Emacs so I thought I'd {{{mark(write here for a spell)}}}. It's no joke 😉. Which reminds me that today is the best day to stay off the internet.
-
+I just happened to already be in Emacs so I thought I'd {{{mark(write here for a spell)}}}. It's no joke 😉. Which reminds me that today is the best day to stay off the internet.
 
 #+attr_html: :class imgRightMargin
 [[/img/small/org-roam.png]]
 
-I've been publishing a few of the notes from my Org-roam database over at [[https://notes.baty.net][notes.baty.net]] just in case they might be useful to someone somewhere. I also like to browse them as decent-looking (read-only) HTML files instead of from within Emacs all the time. I'm using a version of the same "CodeIt" theme I used to use for baty.net. Ideally I'd list the categories on the home page rather than a list of recent posts, but Hugo's templating system is completely unfathomable to me so I'm leaving it alone for now.
+I've been publishing a few of the notes from my Org-roam database over at [[https://notes.baty.net][notes.baty.net]] just in case they might be useful to someone somewhere. I also like to browse them as decent-looking (read-only) HTML files instead of from within Emacs all the time. I'm using a version of the same "CodeIt" theme I used to use for baty.net. Ideally I'd list the categories on the home page rather than a list of recent posts, but Hugo's templating system is completely unfathomable to me so I'm leaving it alone for now. Another thing I'm doing "wrong" is putting the theme's git repo right in the themes folder. No submodules, no hugo modules. I'm just editing in place. Hell, I might just stop keeping it as a separate repo :).
 
 After I don't even know how many years, I've {{{mark(canceled my Dropbox account)}}}
+
+I thought I'd lost my {{{mark(entire archive of posts)}}} from the [[https://archive.baty.net][original baty.net]]  but accidentally ran into it [[https://github.com/jackbaty/archive.baty.net][on Github]] yesterday. Whew!
+
+#+attr_html: :class imgRightMargin
+[[/img/small/leica.png]]
+
+Don't tell anyone, but I'm thinking about {{{mark(selling the M10-R)}}} again. That would put me at a 4-month period of buying and selling two of them. I just can't get over feeling guilty about having so much money tied up in a camera that I'm hardly using. It worries me that something could go wrong with it or it would get broken or stolen and I'd be out all that money. I don't like feeling this way. Still noodling on it.
+
+#+begin_quote
+You’re you, and your pictures are yours, and what you bring to a photograph is not separate from it.
+
+[[https://www.newyorker.com/culture/culture-desk/your-camera-roll-contains-a-masterpiece][Your Camera Roll Contains a Masterpiece | The New Yorker]]
+#+end_quote
+
+
+[[https://maccy.app/][Maccy - macOS clipboard manager]]
+
+
+
 ** DONE Friday, March 25, 2022
 CLOSED: [2022-03-25 Fri 04:14]
 :PROPERTIES:
@@ -59,7 +110,6 @@ CLOSED: [2022-03-25 Fri 04:14]
 🌨  Light snow +34°F
 
 So far this morning I've written notes in Emacs, Roam, TiddlyWiki, and Logseq. JFC what's wrong with me? This is after spending a good part of the last few days dialing in my Emacs config for capturing, writing, publishing, etc. UWYH (Use What You Have), remember? I do, but I /have/ everything.
-
 
 ** DONE Thursday, March 24, 2022
 CLOSED: [2022-03-24 Thu 05:35]

@@ -43,13 +43,18 @@ blockquote cite, blockquote figcaption {
 
 }
 
+blockquote p:last-of-type a, blockquote p:last-of-type {
+    font-size: 0.9em;
+    text-align: right;
+}
+blockquote p:last-of-type a, blockquote p:last-of-type::before {
+    content: "\2014 ";
+}
+
 /* Hide figure numbers in captions */
 .figure-number {
   display: none;
 }
-
-
-
 
 
 .tweet-card {
