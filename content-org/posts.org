@@ -27,16 +27,30 @@
 * 2022
 :PROPERTIES:
 :EXPORT_HUGO_SECTION: post/2022
-:DIR:  attach/
+:DIR:  ~/sites/daily.baty.net/static/img/2022/
 :END:
 ** April 2022
+*** DONE Monday, April  4, 2022
+CLOSED: [2022-04-04 Mon 04:39]
+:PROPERTIES:
+:EXPORT_FILE_NAME: 2022-04-04-Monday
+:EXPORT_HUGO_SLUG: 2022-04-04
+:EXPORT_DESCRIPTION:
+:EXPORT_HUGO_WEIGHT: 1
+:EXPORT_DATE:
+:END:
+☁️   Overcast +40°F
+
+I'm feeling the {{{mark(weight of WordPress)}}} pushing against the inconvenience of maintaining a static blog. The past couple of days, I have found myself happier dealing with the inconvenience. So, I've rebuilt all of baty.net using Hugo. Content has been imported and it's ready to go. All I need to do is sync it up to a virtual host on my VPS and update the DNS. But, I'm going to sit on this a bit to see how I feel. I'd hate for it to just have been my mood this morning.
+
+
+
 *** DONE Sunday, April  3, 2022
 CLOSED: [2022-04-03 Sun 05:32]
 :PROPERTIES:
 :EXPORT_FILE_NAME: 2022-04-03-Sunday
 :EXPORT_HUGO_SLUG: 2022-04-03
 :EXPORT_DESCRIPTION:
-:EXPORT_HUGO_WEIGHT: 1
 :EXPORT_DATE:
 :END:
 🌫  Mist +34°F
@@ -50,6 +64,11 @@ I realize I'm partially to blame, and regret it.
 #+end_quote
 
 I'm feeling the {{{mark(need for convenience today)}}}. Also feeling very pointy-clicky. This doesn't bode well for my current setup. It'll pass.
+
+If I were to be described as a "{{{mark(Man of letters)}}}" after I'm gone, I would consider my life to have been a success. I wonder why I've not done anything in support of that.
+
+"...takes the biscuit" is a phrase I'm definitely going to be using more.
+
 
 *** DONE Saturday, April  2, 2022
 CLOSED: [2022-04-02 Sat 06:29]
