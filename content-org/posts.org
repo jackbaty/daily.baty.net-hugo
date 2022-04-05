@@ -49,6 +49,7 @@ Tried [[https://www.obdev.at/products/launchbar/index.html][LaunchBar 6]] for a 
 
 [[https://replay.software/sleeve][Sleeve — Now playing on your Desktop]]
 
+Fixed the issue with [[https://notes.baty.net/notes/possible-workaround-for-ox-hugo-error-during-exports/][ox-hugo failing to export subtrees]] if the file has org-roam links in it.
 
 
 *** DONE Monday, April  4, 2022
