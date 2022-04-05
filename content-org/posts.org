@@ -30,13 +30,29 @@
 :DIR:  ~/sites/daily.baty.net/static/img/2022/
 :END:
 ** April 2022
+*** DONE Tuesday, April  5, 2022
+CLOSED: [2022-04-05 Tue 04:28]
+:PROPERTIES:
+:EXPORT_FILE_NAME: 2022-04-05-Tuesday
+:EXPORT_HUGO_SLUG: 2022-04-05
+:EXPORT_HUGO_WEIGHT: 1
+:END:
+🌫  Mist +39°F
+
+Good morning. It's 4:25 am and I should probably be doing something useful today, but so far it doesn't look like that's going to happen.
+
+So, I replaced [[https://baty.net][baty.net]] with a {{{mark(Hugo-based version)}}} of the blog. All the content from the WordPress site has been migrated. Well, /most/ of it. Some formatting got all blowed up. This is why I swore I'd never do it again, but here we are. I just got tired of pushing up against all the /stuff/ that is WordPress.
+
+Ordered: [[https://joemcnally.com/2022/04/04/the-real-deal-the-good-the-bad-and-the-beautiful-of-a-life-behind-the-camera/][The Real Deal: The Good, The Bad and the Beautiful of a Life Behind the Camera « Joe McNally Photography]]
+
+
+
 *** DONE Monday, April  4, 2022
 CLOSED: [2022-04-04 Mon 04:39]
 :PROPERTIES:
 :EXPORT_FILE_NAME: 2022-04-04-Monday
 :EXPORT_HUGO_SLUG: 2022-04-04
 :EXPORT_DESCRIPTION:
-:EXPORT_HUGO_WEIGHT: 1
 :EXPORT_DATE:
 :END:
 ☁️   Overcast +40°F
@@ -120,6 +136,8 @@ You’re you, and your pictures are yours, and what you bring to a photograph is
 
 
 [[https://maccy.app/][Maccy - macOS clipboard manager]]
+
+🌫  Mist +39°F
 
 
 ** March  2022
