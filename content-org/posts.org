@@ -47,6 +47,8 @@ Ordered: [[https://joemcnally.com/2022/04/04/the-real-deal-the-good-the-bad-and-
 
 Tried [[https://www.obdev.at/products/launchbar/index.html][LaunchBar 6]] for a minute, just to see what was up, as it's been years. Nah, back to [[https://www.raycast.com][Raycast]].
 
+[[https://replay.software/sleeve][Sleeve — Now playing on your Desktop]]
+
 
 
 *** DONE Monday, April  4, 2022
