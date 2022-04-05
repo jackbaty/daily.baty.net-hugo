@@ -41,7 +41,7 @@ CLOSED: [2022-04-05 Tue 04:28]
 
 Good morning. It's 4:25 am and I should probably be doing something useful today, but so far it doesn't look like that's going to happen.
 
-So, I replaced [[https://baty.net][baty.net]] with a {{{mark(Hugo-based version)}}} of the blog. All the content from the WordPress site has been migrated. Well, /most/ of it. Some formatting got all blowed up. This is why I swore I'd never do it again, but here we are. I just got tired of pushing up against all the /stuff/ that is WordPress.
+So, I replaced [[https://baty.net][baty.net]] with a {{{mark(Hugo-based version)}}} of the blog. All the content from the WordPress site has been migrated. Well, /most/ of it. Some formatting got all blowed up. This is why I swore I'd never do it again, but here we are. I just got tired of pushing up against all the /stuff/ that is WordPress. *(18 hours later)* Never mind. I just switched DNS back and you should see the original WordPress site shortly. Don't ask.
 
 Ordered: [[https://joemcnally.com/2022/04/04/the-real-deal-the-good-the-bad-and-the-beautiful-of-a-life-behind-the-camera/][The Real Deal: The Good, The Bad and the Beautiful of a Life Behind the Camera « Joe McNally Photography]]
 
