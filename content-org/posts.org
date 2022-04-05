@@ -51,6 +51,8 @@ Tried [[https://www.obdev.at/products/launchbar/index.html][LaunchBar 6]] for a 
 
 Fixed the issue with [[https://notes.baty.net/notes/possible-workaround-for-ox-hugo-error-during-exports/][ox-hugo failing to export subtrees]] if the file has org-roam links in it.
 
+I don't need a "better" terminal but [[https://www.warp.dev/blog/introducing-warp][Introducing Warp: The Terminal for the 21st Century | Warp]]
+
 
 *** DONE Monday, April  4, 2022
 CLOSED: [2022-04-04 Mon 04:39]
