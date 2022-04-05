@@ -43,7 +43,7 @@ CLOSED: [2022-04-04 Mon 04:39]
 
 I'm feeling the {{{mark(weight of WordPress)}}} pushing against the inconvenience of maintaining a static blog. The past couple of days, I have found myself happier dealing with the inconvenience. So, I've rebuilt all of baty.net using Hugo. Content has been imported and it's ready to go. All I need to do is sync it up to a virtual host on my VPS and update the DNS. But, I'm going to sit on this a bit to see how I feel. I'd hate for it to just have been my mood this morning.
 
-
+I read the headlines from the Grammys and didn't recognize any of the performers mentioned. I'm old and I guess I can officially stop caring about the Grammys.
 
 *** DONE Sunday, April  3, 2022
 CLOSED: [2022-04-03 Sun 05:32]
