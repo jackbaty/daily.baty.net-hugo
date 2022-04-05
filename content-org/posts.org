@@ -45,6 +45,8 @@ So, I replaced [[https://baty.net][baty.net]] with a {{{mark(Hugo-based version)
 
 Ordered: [[https://joemcnally.com/2022/04/04/the-real-deal-the-good-the-bad-and-the-beautiful-of-a-life-behind-the-camera/][The Real Deal: The Good, The Bad and the Beautiful of a Life Behind the Camera « Joe McNally Photography]]
 
+Tried [[https://www.obdev.at/products/launchbar/index.html][LaunchBar 6]] for a minute, just to see what was up, as it's been years. Nah, back to [[https://www.raycast.com][Raycast]].
+
 
 
 *** DONE Monday, April  4, 2022
