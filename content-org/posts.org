@@ -30,7 +30,8 @@
 :DIR:  ~/sites/daily.baty.net/static/img/2022/
 :END:
 ** April 2022
-*** TODO Wednesday, April  6, 2022
+*** DONE Wednesday, April  6, 2022
+CLOSED: [2022-04-06 Wed 05:05]
 :PROPERTIES:
 :EXPORT_FILE_NAME: 2022-04-06-Wednesday
 :EXPORT_HUGO_SLUG: 2022-04-06
