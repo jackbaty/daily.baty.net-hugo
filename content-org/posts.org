@@ -39,7 +39,9 @@ CLOSED: [2022-04-06 Wed 05:05]
 :END:
 🌫  Haze +47°F
 
-Today, I shall improve something. It doesn't matter what that something is.
+Today, I shall {{{mark(improve something)}}}. It doesn't matter what that something is.
+
+I am considering some form of {{{mark(internet hiatus)}}}. Social media, mainly. We all suspect it's not healthy, but I'm still addicted and feel like a break would do me good. Can I manage to only post on the blogs and only read my (fairly limited) set of RSS feeds? Is that enough?
 
 
 *** DONE Tuesday, April  5, 2022
