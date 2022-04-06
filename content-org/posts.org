@@ -43,6 +43,7 @@ Today, I shall {{{mark(improve something)}}}. It doesn't matter what that someth
 
 I am considering some form of {{{mark(internet hiatus)}}}. Social media, mainly. We all suspect it's not healthy, but I'm still addicted and feel like a break would do me good. Can I manage to only post on the blogs and only read my (fairly limited) set of RSS feeds? Is that enough?
 
+How many of the super-cool things I can do with Org mode are actually useful and not just super-cool things that I think are super-cool?
 
 *** DONE Tuesday, April  5, 2022
 CLOSED: [2022-04-05 Tue 04:28]
