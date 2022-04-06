@@ -47,6 +47,8 @@ How many of the super-cool things I can do with Org mode are actually useful and
 
 I wonder if this is related to the USB ports not working on my LG display? [[https://www.macrumors.com/2022/03/24/external-display-issues-reported-macos-12-3/][Users Report External Monitor Issues After Updating to macOS Monterey 12.3 - MacRumors]]
 
+[[https://www.mowglii.com/itsycal/][Mowglii - Itsycal for Mac]] - Tiny menu bar calendar. Similar to [[https://sindresorhus.com/dato][Dato]]
+
 *** DONE Tuesday, April  5, 2022
 CLOSED: [2022-04-05 Tue 04:28]
 :PROPERTIES:
