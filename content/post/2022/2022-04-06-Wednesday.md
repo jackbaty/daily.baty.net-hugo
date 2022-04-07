@@ -1,10 +1,10 @@
 ---
 title: "Wednesday, April  6, 2022"
 date: 2022-04-06T05:05:00-04:00
-lastmod: 2022-04-06T20:30:52-04:00
+lastmod: 2022-04-07T05:19:19-04:00
 slug: 2022-04-06
 draft: false
-weight: 1
+weight: 0
 ---
 
 🌫  Haze +47°F
