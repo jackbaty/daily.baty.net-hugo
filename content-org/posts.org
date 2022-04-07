@@ -1,4 +1,4 @@
-;; -*- eval: (writeroom-mode) -*-
+# -*- eval: (writeroom-mode) -*-
 #+hugo_base_dir: ../
 #+hugo_section: ./
 #+hugo_weight: nil
@@ -30,7 +30,8 @@
 :DIR:  ~/sites/daily.baty.net/static/img/2022/
 :END:
 ** April 2022
-*** TODO Thursday, April  7, 2022
+*** DONE Thursday, April  7, 2022
+CLOSED: [2022-04-07 Thu 06:31]
 :PROPERTIES:
 :EXPORT_FILE_NAME: 2022-04-07-Thursday
 :EXPORT_HUGO_SLUG: 2022-04-07
@@ -40,7 +41,20 @@
 
 I {{{mark(deleted PhotoPrism from the Synology)}}}. It was chewing up all my (4GB) of RAM and generally causing things to misbehave. I suppose Synology Photos will have to do for now.
 
+I still don't know the {{{mark(difference between my "Daybook" and "Journal")}}}. I know
+what I /think/ the difference is, but I get lost in the grey area in the middle. I suppose the Daybook is for things I want to show up in the Agenda on that day. Things for which the date is important.
 
+#+caption: My dad is back from Florida
+#+attr_html: :width 800px
+#+attr_org: :width 800px
+[[attachment:_20220407_063522Dad.jpg]]
+
+
+I {{{mark(made some prints)}}} this morning. I am trying to make at least one or two 5x7" prints from each roll (in addition to a contact sheet). I'm not fussy about it. I guess at exposure time and print. I only re-print if my guess was horribly wrong. Otherwise, they're good enough. Anything "special" gets the real treatment by printing an 8x10" print on fiber paper.
+
+#+attr_html: :width 800px
+#+attr_org: :width 800px
+[[attachment:_20220407_10590620220407-Q1000426.jpg]]
 
 *** DONE Wednesday, April  6, 2022
 CLOSED: [2022-04-06 Wed 05:05]
@@ -61,7 +75,6 @@ I wonder if this is related to the USB ports not working on my LG display? [[htt
 [[https://www.mowglii.com/itsycal/][Mowglii - Itsycal for Mac]] - Tiny menu bar calendar. Similar to [[https://sindresorhus.com/dato][Dato]]
 
 Great, I thought I'd try {{{mark(PhotoPrism on the Synology)}}} so I installed it, pointed it at a few thousand photos, and now it took down the whole synology by chewing through all its memory. Nice.
-
 
 *** DONE Tuesday, April  5, 2022
 CLOSED: [2022-04-05 Tue 04:28]
