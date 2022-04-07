@@ -56,6 +56,9 @@ I {{{mark(made some prints)}}} this morning. I am trying to make at least one or
 #+attr_org: :width 800px
 [[attachment:_20220407_10590620220407-Q1000426.jpg]]
 
+
+I added [[https://plausible.io/][Plausible]] analytics to jack.micro.blog, baty.net, and daily.baty.net. I'm already generating reports using GoAccess for my self-hosted sites, but it's hard to parse what's a real "visit" through all that noise. Plausible is great, cheap, and doesn't track anything other than hits, so it's pretty privacy-safe.
+
 *** DONE Wednesday, April  6, 2022
 CLOSED: [2022-04-06 Wed 05:05]
 :PROPERTIES:
