@@ -43,7 +43,7 @@ Severence is the best thing on TV.
 
 I should take a closer look at [[https://sr.ht/][sourcehut]]
 
-Trying [[https://github.com/jimeh/emacs-builds][jimeh/emacs-builds: Self-contained Emacs.app builds for macOS, with native-compilation support in nightly builds.]] Rather than the emacs-mac package.
+Trying [[https://github.com/jimeh/emacs-builds][jimeh/emacs-builds: Self-contained Emacs.app builds for macOS, with native-compilation support in nightly builds.]] Rather than the emacs-mac package. *UPDATE* Nope, doesn't work yet on M1 Macs.
 
 
 
