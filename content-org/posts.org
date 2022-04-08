@@ -30,12 +30,28 @@
 :DIR:  ~/sites/daily.baty.net/static/img/2022/
 :END:
 ** April 2022
+*** DONE Friday, April  8, 2022
+CLOSED: [2022-04-08 Fri 05:30]
+:PROPERTIES:
+:EXPORT_FILE_NAME: 2022-04-08-Friday
+:EXPORT_HUGO_SLUG: 2022-04-08
+:EXPORT_HUGO_WEIGHT: 1
+:END:
+🌦   Light rain +37°F
+
+Severence is the best thing on TV.
+
+I should take a closer look at [[https://sr.ht/][sourcehut]]
+
+Trying [[https://github.com/jimeh/emacs-builds][jimeh/emacs-builds: Self-contained Emacs.app builds for macOS, with native-compilation support in nightly builds.]] Rather than the emacs-mac package.
+
+
+
 *** DONE Thursday, April  7, 2022
 CLOSED: [2022-04-07 Thu 06:31]
 :PROPERTIES:
 :EXPORT_FILE_NAME: 2022-04-07-Thursday
 :EXPORT_HUGO_SLUG: 2022-04-07
-:EXPORT_HUGO_WEIGHT: 1
 :END:
 ☁️   Overcast +44°F
 
@@ -193,7 +209,6 @@ You’re you, and your pictures are yours, and what you bring to a photograph is
 [[https://maccy.app/][Maccy - macOS clipboard manager]]
 
 🌫  Mist +39°F
-
 
 ** March  2022
 *** DONE Friday, March 25, 2022
