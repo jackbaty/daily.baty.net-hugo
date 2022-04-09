@@ -1,4 +1,4 @@
-module github.com/jackbaty/baty.blog
+module github.com/jackbaty/daily.baty.net
 
 // uncomment the following line for local development
 //replace github.com/jackbaty/daily-jane => /Users/jbaty/dev/daily-jane

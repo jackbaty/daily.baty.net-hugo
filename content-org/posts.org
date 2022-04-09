@@ -39,8 +39,7 @@ CLOSED: [2022-04-09 Sat 05:12]
 :END:
 ⛅️  Partly cloudy +30°F
 
-The concern I have about {{{mark(using Doom Emacs)}}} is that I'm not really learning how to use Emacs, but rather how to use Doom. But damn it's fast and improves just about every aspect of Emacs.
-
+📌 I'm testing the idea of rolling these daily posts into my main blog at [[https://baty.net][baty.net.]]
 
 
 *** DONE Friday, April  8, 2022
