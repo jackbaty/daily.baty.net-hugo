@@ -4,13 +4,7 @@ PUBLIC_DIR=~/sites/daily.baty.net/public/
 TARGET=server01.baty.net
 
 .POSIX:
-.PHONY: help build checkpoint deploy
-
-
-.PHONY: help
-help: ## Show this help
-	@egrep -h '\s##\s' 'Makefile' | sort | awk 'BEGIN {FS = ":.*?## "}; {printf "\033[36m%-20s\033[0m %s\n", $$1, $$2}'
-	@egrep -h 'h' 'Makefile' | sort | awk 'BEGIN {FS = ":.*?## "}; {printf "\033[36m%-20s\033[0m %s\n", $$1, $$2}'
+.PHONY: build checkpoint deploy
 
 build:
 	hugo

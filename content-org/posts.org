@@ -30,12 +30,24 @@
 :DIR:  ~/sites/daily.baty.net/static/img/2022/
 :END:
 ** April 2022
+*** DONE Saturday, April  9, 2022
+CLOSED: [2022-04-09 Sat 05:12]
+:PROPERTIES:
+:EXPORT_FILE_NAME: 2022-04-09-Saturday
+:EXPORT_HUGO_SLUG: 2022-04-09
+:EXPORT_HUGO_WEIGHT: 1
+:END:
+⛅️  Partly cloudy +30°F
+
+The concern I have about {{{mark(using Doom Emacs)}}} is that I'm not really learning how to use Emacs, but rather how to use Doom. But damn it's fast and improves just about every aspect of Emacs.
+
+
+
 *** DONE Friday, April  8, 2022
 CLOSED: [2022-04-08 Fri 05:30]
 :PROPERTIES:
 :EXPORT_FILE_NAME: 2022-04-08-Friday
 :EXPORT_HUGO_SLUG: 2022-04-08
-:EXPORT_HUGO_WEIGHT: 1
 :END:
 🌦   Light rain +37°F
 
