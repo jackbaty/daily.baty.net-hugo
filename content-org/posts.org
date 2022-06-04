@@ -40,7 +40,7 @@ CLOSED: [2022-06-04 Sat 04:44]
 
 Yesterday, I posted on every site I have, just to remind myself what was what. Every site except this one, that is. See, this site is sort of hardwired at this point to require Emacs and Org mode for easy posting. There are times that I try to quit using Emacs for some reason. When that happens I stop posting my daily notes here and move to the wiki or Roam or wherever. Then, after a week or a month, I come to my senses and get back into Emacs. Of course then I want to do /everything/ in Emacs and here we are.
 
-The damn {{{mark(iPad ruins everything)}}}. For example, I finally got [[https://espanso.org][Espanso]] all configured and working perfectly for text expansion on my Mac. Espanso is powerful and free and runs on Mac and Linux (just in case). But of course it doesn't work on iOS, so I had to restart my [[https://textexpander.com][TextExpander]] subscription and change everything to accomodate the iPad.
+The damn {{{mark(iPad ruins everything)}}}. For example, I finally got [[https://espanso.org][Espanso]] all configured and working perfectly for text expansion on my Mac. Espanso is powerful and free and runs on Mac and Linux (just in case). But of course it doesn't work on iOS, so I had to restart my [[https://textexpander.com][TextExpander]] subscription and change everything to accomodate the iPad. I'm a little pissed about this, but while re-subscribing I found that I have a "lifetime" discount subscription which only ends up costing me around $1.50/month. TextExpander is good and super easy to use so I'm going to be fine.
 
 Well [[https://blog.iconfactory.com/2022/06/worldwideweb-part-2/][this is cool]]...
 
