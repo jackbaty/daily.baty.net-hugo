@@ -29,17 +29,26 @@
 :EXPORT_HUGO_SECTION: post/2022
 :DIR:  ~/sites/daily.baty.net/static/img/2022/
 :END:
+** May 2022
+*** DONE Saturday, June 04, 2022
+CLOSED: [2022-06-04 Sat 04:44]
+:PROPERTIES:
+:EXPORT_FILE_NAME: 2022-06-04-Saturday
+:EXPORT_HUGO_SLUG: 2022-06-04
+:END:
+Yesterday, I posted on every site I have, just to remind myself what was what. Everywhere except here, that is. See, this site is sort of hardwired at this point to require Emacs and Org mode for easy posting. There are times that I try to quit using Emacs for whatever reason. when that happens I stop posting my daily notes here and move to the wiki or Roam or wherever. Then, after a week or a month, I come to my senses and get back into Emacs. Of course then I want to do /everything/ in Emacs and here we are.
+
+
 ** April 2022
 *** DONE Saturday, April  9, 2022
 CLOSED: [2022-04-09 Sat 05:12]
 :PROPERTIES:
 :EXPORT_FILE_NAME: 2022-04-09-Saturday
 :EXPORT_HUGO_SLUG: 2022-04-09
-:EXPORT_HUGO_WEIGHT: 1
 :END:
 ⛅️  Partly cloudy +30°F
 
-📌 I'm testing the idea of rolling these daily posts into my main blog at [[https://baty.net][baty.net.]]
+I'm testing the idea of rolling these daily posts into my main blog at [[https://baty.net][baty.net.]]
 
 
 *** DONE Friday, April  8, 2022
