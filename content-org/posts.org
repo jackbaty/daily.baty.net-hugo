@@ -36,6 +36,8 @@ CLOSED: [2022-06-04 Sat 04:44]
 :EXPORT_FILE_NAME: 2022-06-04-Saturday
 :EXPORT_HUGO_SLUG: 2022-06-04
 :END:
+☀️   Clear +51°F
+
 Yesterday, I posted on every site I have, just to remind myself what was what. Every site except this one, that is. See, this site is sort of hardwired at this point to require Emacs and Org mode for easy posting. There are times that I try to quit using Emacs for some reason. When that happens I stop posting my daily notes here and move to the wiki or Roam or wherever. Then, after a week or a month, I come to my senses and get back into Emacs. Of course then I want to do /everything/ in Emacs and here we are.
 
 
