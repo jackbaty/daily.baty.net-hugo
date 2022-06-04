@@ -29,7 +29,7 @@
 :EXPORT_HUGO_SECTION: post/2022
 :DIR:  ~/sites/daily.baty.net/static/img/2022/
 :END:
-** May 2022
+** June 2022
 *** DONE Saturday, June 04, 2022 :ATTACH:
 CLOSED: [2022-06-04 Sat 04:44]
 :PROPERTIES:
@@ -48,6 +48,7 @@ Well [[https://blog.iconfactory.com/2022/06/worldwideweb-part-2/][this is cool]]
 #+attr_org: :width 800px
 [[attachment:_20220604_05550520220604-WorldWideWeb.png]]
 
+I've added a [[/calendar/][Post Calendar]] to the site. (Thanks to [[https://gohugohq.com/partials/activity-calendar-posts/][Activity Calendar Partial]] and [[https://yueyvettehao.netlify.app/post/2020-05-07-activitycalendar/#add-the-calendar-to-the-frontpage][How to add a calendar to Hugo website]].)
 
 ** April 2022
 *** DONE Saturday, April  9, 2022
@@ -1698,6 +1699,14 @@ The *wiki* is at [[https://wiki.baty.net][wiki.baty.net]]
 
 
 
+
+* Calendar
+:PROPERTIES:
+:EXPORT_HUGO_SECTION: /
+:EXPORT_FILE_NAME: calendar
+:END:
+
+Jump to any day using the calendar.
 
 
 * Changelog

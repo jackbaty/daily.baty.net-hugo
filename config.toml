@@ -47,6 +47,11 @@ languageCode = "en-US"
   identifier = "about"
   url = "/about/"
 [[menu.main]]
+  name = "Calendar"
+  weight = 25
+  identifier = "calendar"
+  url = "/calendar/"
+[[menu.main]]
   name = "Archives"
   weight = 30
   identifier = "archives"
@@ -134,6 +139,9 @@ languageCode = "en-US"
 [permalinks]
 post = "/:year:/:slug/"
 
+# adding taxonomy term 'archive'
+[taxonomies]
+    archive = "archive"
 
 # allow HTML
 [markup]
