@@ -30,6 +30,22 @@
 :DIR:  ~/sites/daily.baty.net/static/img/2022/
 :END:
 ** June 2022
+*** DONE Sunday, June 05, 2022
+CLOSED: [2022-06-05 Sun 05:24]
+:PROPERTIES:
+:EXPORT_FILE_NAME: 2022-06-05-Sunday
+:EXPORT_HUGO_SLUG: 2022-06-05
+:END:
+🌦   Light rain +57°F
+
+I love "Ted Lasso" and I love Roy Kent. I also feel the same way about watching horrible things happening to people in my "entertainment". I approve of the trend of people being /nice/ that Brett is contributing to.
+
+#+begin_quote
+“I do think there is so much stuff put out into the world on the internet and in art that tells you the world is bad. And the world might be bad — but the majority of people are not. Also, the older I get, the less horrible shit I want to see. I hate seeing people get hurt”
+
+Brett Goldstein (aka Roy Kent), [[https://www.thetimes.co.uk/article/ted-lassos-brett-goldstein-im-a-20-year-overnight-success-t9hvzpq2p][The Sunday Times]]
+#+end_quote
+
 *** DONE Saturday, June 04, 2022 :ATTACH:
 CLOSED: [2022-06-04 Sat 04:44]
 :PROPERTIES:
