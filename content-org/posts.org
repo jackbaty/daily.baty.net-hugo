@@ -74,6 +74,17 @@ Well [[https://blog.iconfactory.com/2022/06/worldwideweb-part-2/][this is cool]]
 I've added a [[/calendar/][Post Calendar]] to the site. (Thanks to [[https://gohugohq.com/partials/activity-calendar-posts/][Activity Calendar Partial]] and [[https://yueyvettehao.netlify.app/post/2020-05-07-activitycalendar/#add-the-calendar-to-the-frontpage][How to add a calendar to Hugo website]].)
 
 ** April 2022
+*** DONE Tuesday, June 07, 2022
+CLOSED: [2022-06-07 Tue 05:35]
+:PROPERTIES:
+:EXPORT_FILE_NAME: 2022-06-07-Tuesday
+:EXPORT_HUGO_SLUG: 2022-06-07
+:END:
+🌦   Light rain, mist +63°F
+
+I bought a {{{mark(reef tank)}}} this week. I've always admired salt-water aquariums and wondered what it would be like to keep one. I'm about to find out. I'm already learning that I have a shit-ton to learn. One of those things is patience.
+
+
 *** DONE Saturday, April  9, 2022
 CLOSED: [2022-04-09 Sat 05:12]
 :PROPERTIES:
