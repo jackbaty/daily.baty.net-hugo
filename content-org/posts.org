@@ -30,6 +30,35 @@
 :DIR:  ~/sites/daily.baty.net/static/img/2022/
 :END:
 ** June 2022
+*** DONE Tuesday, June 07, 2022
+CLOSED: [2022-06-07 Tue 05:35]
+:PROPERTIES:
+:EXPORT_FILE_NAME: 2022-06-07-Tuesday
+:EXPORT_HUGO_SLUG: 2022-06-07
+:END:
+🌦   Light rain, mist +63°F
+
+I bought a {{{mark(reef tank)}}} this week. I've always admired salt-water aquariums and wondered what it would be like to keep one. I'm about to find out. I'm already learning that I have a shit-ton to learn. One of those things is patience.
+
+Publicly {{{mark(posting every passing thought)}}} is unnecessary and uncalled for, but I can't seem to stop. At least I'm not spamming everyone's Twitter feed with them.
+
+#+attr_html: :class imgRightMargin
+[[file:/img/2022/20220607-BtI.png]]
+
+Late last year I created a {{{mark(folder on my Mac's desktop)}}} named "Beyond the Infinite". It's for dumping all the various detritus I collect on the desktop and don't know what else to do with. It's become a minor treasure. It's like a journal of things that barely matter at the time, but become valuable later. Screenshots, text snippets, URLs, etc. I love it.
+
+Prot is on a roll...
+
+#+begin_quote
+Denote is a simple note-taking tool. It is based on the idea that notes should follow a predictable and descriptive file-naming scheme. The file name must offer a clear indication of what the note is about, without reference to any other metadata. Denote basically streamlines the creation of such files.
+
+[[https://protesilaos.com/codelog/2022-06-07-denote-introduction/][Emacs: introduction to Denote (simple note-taking) | Protesilaos Stavrou]]
+#+end_quote
+
+*6:00am:* "Plain text is The Way!" \\
+*7:30am:* "Plain text is unnecessarily limiting and living there is wasted opportunity!" \\
+*5:00pm:* "It happened again today, didn't it?"
+
 *** DONE Sunday, June 05, 2022
 CLOSED: [2022-06-05 Sun 05:24]
 :PROPERTIES:
@@ -74,18 +103,6 @@ Well [[https://blog.iconfactory.com/2022/06/worldwideweb-part-2/][this is cool]]
 I've added a [[/calendar/][Post Calendar]] to the site. (Thanks to [[https://gohugohq.com/partials/activity-calendar-posts/][Activity Calendar Partial]] and [[https://yueyvettehao.netlify.app/post/2020-05-07-activitycalendar/#add-the-calendar-to-the-frontpage][How to add a calendar to Hugo website]].)
 
 ** April 2022
-*** DONE Tuesday, June 07, 2022
-CLOSED: [2022-06-07 Tue 05:35]
-:PROPERTIES:
-:EXPORT_FILE_NAME: 2022-06-07-Tuesday
-:EXPORT_HUGO_SLUG: 2022-06-07
-:END:
-🌦   Light rain, mist +63°F
-
-I bought a {{{mark(reef tank)}}} this week. I've always admired salt-water aquariums and wondered what it would be like to keep one. I'm about to find out. I'm already learning that I have a shit-ton to learn. One of those things is patience.
-
-Publicly {{{mark(posting every passing thought)}}} is unnecessary and uncalled for, but I can't seem to stop. At least I'm not spamming everyone's Twitter feed with them.
-
 
 *** DONE Saturday, April  9, 2022
 CLOSED: [2022-04-09 Sat 05:12]
