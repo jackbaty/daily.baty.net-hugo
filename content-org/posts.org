@@ -48,6 +48,8 @@ And yet, in so much modern software today, you’re placed in a drab gray cubicl
 [[https://browsercompany.substack.com/p/optimizing-for-feelings?s=r][Optimizing For Feelings]]
 #+end_quote
 
+Neat, I had a small patch accepted for [[https://protesilaos.com/emacs/denote][Denote (denote.el) | Protesilaos Stavrou]]
+
 
 *** DONE Tuesday, June 07, 2022
 CLOSED: [2022-06-07 Tue 05:35]
