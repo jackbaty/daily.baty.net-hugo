@@ -50,6 +50,10 @@ And yet, in so much modern software today, you’re placed in a drab gray cubicl
 
 Neat, I had a small patch accepted for [[https://protesilaos.com/emacs/denote][Denote (denote.el) | Protesilaos Stavrou]]
 
+Why are iPad apologists so angry all the time?
+
+[[https://www.yayzen.com/][Zen posture]] is a bandaid trying to hide the shattered life I live sitting at a computer all day.
+
 
 *** DONE Tuesday, June 07, 2022
 CLOSED: [2022-06-07 Tue 05:35]

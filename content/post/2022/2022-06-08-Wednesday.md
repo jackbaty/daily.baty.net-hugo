@@ -1,7 +1,7 @@
 ---
 title: "Wednesday, June 08, 2022"
 date: 2022-06-08T04:43:00-04:00
-lastmod: 2022-06-08T11:34:28-04:00
+lastmod: 2022-06-08T14:40:53-04:00
 slug: 2022-06-08
 draft: false
 weight: 0
@@ -18,6 +18,10 @@ There has to be a better way to <mark>search my org-roam files</mark>. Using cou
 > [Optimizing For Feelings](https://browsercompany.substack.com/p/optimizing-for-feelings?s=r)
 
 Neat, I had a small patch accepted for [Denote (denote.el) | Protesilaos Stavrou](https://protesilaos.com/emacs/denote)
+
+Why are iPad apologists so angry all the time?
+
+[Zen posture](https://www.yayzen.com/) is a bandaid trying to hide the shattered life I live sitting at a computer all day.
 
 [//]: # "Exported with love from a post written in Org mode"
 [//]: # "- https://github.com/kaushalmodi/ox-hugo"
