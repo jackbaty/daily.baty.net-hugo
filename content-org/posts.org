@@ -40,6 +40,15 @@ CLOSED: [2022-06-08 Wed 04:43]
 
 Up all night with an uncomfortable dog. Lots going on today.
 
+There has to be a better way to {{{mark(search my org-roam files)}}}. Using counsel-ripgrep or whatever is fast but the output is seriously difficult to scan/read. This is one of the things that pushes me away from using Emacs for notes.
+
+#+begin_quote
+And yet, in so much modern software today, you’re placed in a drab gray cubicle — anonymized and aggregated until you’re just a /daily active user/.
+
+[[https://browsercompany.substack.com/p/optimizing-for-feelings?s=r][Optimizing For Feelings]]
+#+end_quote
+
+
 *** DONE Tuesday, June 07, 2022
 CLOSED: [2022-06-07 Tue 05:35]
 :PROPERTIES:
