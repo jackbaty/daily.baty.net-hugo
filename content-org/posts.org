@@ -30,6 +30,14 @@
 :DIR:  ~/sites/daily.baty.net/static/img/2022/
 :END:
 ** June 2022
+*** TODO Thursday, June 09, 2022
+:PROPERTIES:
+:EXPORT_FILE_NAME: 2022-06-09-Thursday
+:EXPORT_HUGO_SLUG: 2022-06-09
+:END:
+
+You're not going to believe this, but you're totally going to believe this: [[https://baty.net/][baty.net]] is once again running Hugo and therefore my daily posts are going there, too.
+
 *** DONE Wednesday, June 08, 2022
 CLOSED: [2022-06-08 Wed 04:43]
 :PROPERTIES:
