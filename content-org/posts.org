@@ -39,6 +39,8 @@ CLOSED: [2022-06-24 Fri 11:12]
 
 In what will come as no surprise to anyone, I am considering {{{mark(moving daily notes back here to daily.baty.net)}}}. Why? Fair question. This time it's because I'm starting to feel like the theme at [[https://baty.net][baty.net]] has become a bit convoluted and therefore fragile due to trying so hard to integrate daily posts with "regular" posts. I get bored and may want to switch up my theme. This would be too much work with the current integrated theme. I'm uncomfortable having to /depend/ on everything being integrated. What if I stopped posting daily notes altogether. That would take some effort to change or it would look stupid. On the other hand, maybe I should just wait and see if any of those what-ifs pan out.
 
+The {{{mark(bad guys keep winning)}}}. How are we letting this happen over and over?
+
 
 *** DONE Thursday, June 09, 2022
 CLOSED: [2022-06-09 Thu 09:12]
