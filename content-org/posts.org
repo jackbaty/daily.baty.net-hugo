@@ -30,7 +30,18 @@
 :DIR:  ~/sites/daily.baty.net/static/img/2022/
 :END:
 ** June 2022
-*** TODO Thursday, June 09, 2022
+*** DONE Friday, June 24, 2022
+CLOSED: [2022-06-24 Fri 11:12]
+:PROPERTIES:
+:EXPORT_FILE_NAME: 2022-06-24-Friday
+:EXPORT_HUGO_SLUG: 2022-06-24
+:END:
+
+In what will come as no surprise to anyone, I am considering {{{mark(moving daily notes back here to daily.baty.net)}}}. Why? Fair question. This time it's because I'm starting to feel like the theme at [[https://baty.net][baty.net]] has become a bit convoluted and therefore fragile due to trying so hard to integrate daily posts with "regular" posts. I get bored and may want to switch up my theme. This would be too much work with the current integrated theme.
+
+
+*** DONE Thursday, June 09, 2022
+CLOSED: [2022-06-09 Thu 09:12]
 :PROPERTIES:
 :EXPORT_FILE_NAME: 2022-06-09-Thursday
 :EXPORT_HUGO_SLUG: 2022-06-09
