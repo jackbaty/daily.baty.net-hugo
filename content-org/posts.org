@@ -29,7 +29,18 @@
 :EXPORT_HUGO_SECTION: post/2022
 :DIR:  ~/sites/daily.baty.net/static/img/2022/
 :END:
+** July 2022
+*** DONE Friday, July 01, 2022
+CLOSED: [2022-07-01 Fri 14:44]
+:PROPERTIES:
+:EXPORT_FILE_NAME: 2022-07-01-Friday
+:EXPORT_HUGO_SLUG: 2022-07-01
+:END:
+
+I miss Emacs already. Don't tell [[https://baty.net/2022/c-x-c-c/][myself from three days ago]].
+
 ** June 2022
+
 *** DONE Friday, June 24, 2022
 CLOSED: [2022-06-24 Fri 11:12]
 :PROPERTIES:
