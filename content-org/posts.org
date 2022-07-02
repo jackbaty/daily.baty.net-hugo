@@ -30,6 +30,20 @@
 :DIR:  ~/sites/daily.baty.net/static/img/2022/
 :END:
 ** July 2022
+*** DONE Saturday, July 02, 2022
+CLOSED: [2022-07-02 Sat 10:16]
+:PROPERTIES:
+:EXPORT_FILE_NAME: 2022-07-02-Saturday
+:EXPORT_HUGO_SLUG: 2022-07-02
+:END:
+
+#+begin_quote
+...the pressure to declare our feelings in public is turning us into gushing adolescents
+
+[[https://www.wsj.com/articles/the-age-of-emotional-overstatement-11654874678?st=hc4viy2l1nbbfwy&reflink=desktopwebshare_permalink][The Age of Emotional Overstatement - WSJ]]
+#+end_quote
+
+
 *** DONE Friday, July 01, 2022
 CLOSED: [2022-07-01 Fri 14:44]
 :PROPERTIES:
