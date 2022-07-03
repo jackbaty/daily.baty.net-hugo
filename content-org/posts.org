@@ -41,7 +41,7 @@ Let's face it, I prefer {{{mark(writing in Org-mode)}}}.
 
 Thing is, I structure my system around {{{mark(tools that I'm interested in at the time)}}}. Since I'm always trying different tools, my systems change regularly and cannot be trusted 😀.
 
-I'm dealing with the decision on {{{mark(how far in I should go with)}}} [[https://www.thebrain.com][TheBrain]]. I'm convinced that, long-term, TheBrain is a good, possibly /best/, solution for extended memory and notes. I can jump into any project, topic, or event and immediately see everything related to that "thought". And this isn't driven only via random linking. TheBrain's "Plex" is created entirely from deliberate linking. It's not a cool-but-nearly-useless explosion of linked notes (see Obsidian). But, it's an app and not a nice, safe, comfortable folder full of plain text files.
+I'm thinking about {{{mark(how far in I should go with)}}} [[https://www.thebrain.com][TheBrain]]. I'm convinced that, long-term, TheBrain is a good, possibly the /best/, solution for extended memory and notes. I can jump into any project, topic, or event and immediately see everything related to that "thought". And this isn't driven only via random linking. TheBrain's "Plex" is created entirely from deliberate linking. It's not a cool-but-nearly-useless explosion of linked notes (see Obsidian). But, it's an app and not a nice, safe, comfortable folder full of plain text files.
 
 
 
