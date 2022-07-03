@@ -30,6 +30,23 @@
 :DIR:  ~/sites/daily.baty.net/static/img/2022/
 :END:
 ** July 2022
+*** DONE Sunday, July 03, 2022
+CLOSED: [2022-07-03 Sun 05:26]
+:PROPERTIES:
+:EXPORT_FILE_NAME: 2022-07-03-Sunday
+:EXPORT_HUGO_SLUG: 2022-07-03
+:END:
+
+Let's face it, I prefer {{{mark(writing in Org-mode)}}}.
+
+Thing is, I structure my system around {{{mark(tools that I'm interested in at the time)}}}. Since I'm always trying different tools, my systems change regularly and cannot be trusted 😀.
+
+I'm dealing with the decision on {{{mark(how far in I should go with)}}} [[https://www.thebrain.com][TheBrain]]. I'm convinced that, long-term, TheBrain is a good, possibly /best/, solution for extended memory and notes. I can jump into any project, topic, or event and immediately see everything related to that "thought". And this isn't driven only via random linking. TheBrain's "Plex" is created entirely from deliberate linking. It's not a cool-but-nearly-useless explosion of linked notes (see Obsidian). But, it's an app and not a nice, safe, comfortable folder full of plain text files.
+
+
+
+
+
 *** DONE Saturday, July 02, 2022
 CLOSED: [2022-07-02 Sat 10:16]
 :PROPERTIES:
@@ -38,7 +55,7 @@ CLOSED: [2022-07-02 Sat 10:16]
 :END:
 
 #+begin_quote
-...the pressure to declare our feelings in public is turning us into gushing adolescents
+..  .the pressure to declare our feelings in public is turning us into gushing adolescents
 
 [[https://www.wsj.com/articles/the-age-of-emotional-overstatement-11654874678?st=hc4viy2l1nbbfwy&reflink=desktopwebshare_permalink][The Age of Emotional Overstatement - WSJ]]
 #+end_quote
