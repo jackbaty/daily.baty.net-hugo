@@ -30,6 +30,18 @@
 :DIR:  ~/sites/daily.baty.net/static/img/2022/
 :END:
 ** July 2022
+*** DONE Tuesday, July 05, 2022
+CLOSED: [2022-07-05 Tue 05:10]
+:PROPERTIES:
+:EXPORT_FILE_NAME: 2022-07-05-Tuesday
+:EXPORT_HUGO_SLUG: 2022-07-05
+:END:
+
+I decided not to continue my [[https://feedbin.com/][Feedbin]] subscription. It has some nice features but [[https://netnewswire.com][NetNewsWire]] suits me just fine, for free.
+
+Remember when [[https://baty.net/2022/c-x-c-c/][I quit using Emacs]]? Now alluvasuddin I'm toying with the idea of going with a custom config again using [[https://github.com/systemcrafters/rational-emacs][Rational Emacs]].
+
+
 *** DONE Sunday, July 03, 2022 :ATTACH:
 CLOSED: [2022-07-03 Sun 05:26]
 :PROPERTIES:
@@ -58,7 +70,6 @@ Look what I got today. My first fish! 👇
 
 
 
-
 *** DONE Saturday, July 02, 2022
 CLOSED: [2022-07-02 Sat 10:16]
 :PROPERTIES:
@@ -71,7 +82,6 @@ CLOSED: [2022-07-02 Sat 10:16]
 
 [[https://www.wsj.com/articles/the-age-of-emotional-overstatement-11654874678?st=hc4viy2l1nbbfwy&reflink=desktopwebshare_permalink][The Age of Emotional Overstatement - WSJ]]
 #+end_quote
-
 
 *** DONE Friday, July 01, 2022
 CLOSED: [2022-07-01 Fri 14:44]
