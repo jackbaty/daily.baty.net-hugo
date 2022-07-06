@@ -54,7 +54,8 @@ LinkedIn is a {{{mark(hellhole of self-aggrandizement)}}} and ego stroking and I
 
 I was looking at Deno but Bun looks interesting, too: [[https://bun.sh/][Bun is a fast all-in-one JavaScript runtime]]
 
-[[https://irreal.org/blog/?p=10649][Additional Emphasis Markers in Org Mode | Irreal]] Fancy!
+[[https://irreal.org/blog/?p=10649][Additional Emphasis Markers in Org Mode | Irreal]] Fancy! ([[https://emacsnotes.wordpress.com/2022/06/29/use-org-extra-emphasis-when-you-need-more-emphasis-markers-in-emacs-org-mode/][Linked article]]
+)
 *** DONE Tuesday, July 05, 2022
 CLOSED: [2022-07-05 Tue 05:10]
 :PROPERTIES:

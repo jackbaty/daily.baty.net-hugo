@@ -1,7 +1,7 @@
 ---
 title: "Wednesday, July 06, 2022"
 date: 2022-07-06T05:44:00-04:00
-lastmod: 2022-07-06T17:49:56-04:00
+lastmod: 2022-07-06T18:00:45-04:00
 slug: 2022-07-06
 draft: false
 weight: 0
@@ -19,7 +19,8 @@ LinkedIn is a <mark>hellhole of self-aggrandizement</mark> and ego stroking and 
 
 I was looking at Deno but Bun looks interesting, too: [Bun is a fast all-in-one JavaScript runtime](https://bun.sh/)
 
-[Additional Emphasis Markers in Org Mode | Irreal](https://irreal.org/blog/?p=10649) Fancy!
+[Additional Emphasis Markers in Org Mode | Irreal](https://irreal.org/blog/?p=10649) Fancy! ([Linked article](https://emacsnotes.wordpress.com/2022/06/29/use-org-extra-emphasis-when-you-need-more-emphasis-markers-in-emacs-org-mode/)
+)
 
 [//]: # "Exported with love from a post written in Org mode"
 [//]: # "- https://github.com/kaushalmodi/ox-hugo"
