@@ -30,6 +30,19 @@
 :DIR:  ~/sites/daily.baty.net/static/img/2022/
 :END:
 ** July 2022
+:PROPERTIES:
+:VISIBILITY: content
+:END:
+*** DONE Wednesday, July 06, 2022
+CLOSED: [2022-07-06 Wed 05:44]
+:PROPERTIES:
+:EXPORT_FILE_NAME: 2022-07-06-Wednesday
+:EXPORT_HUGO_SLUG: 2022-07-06
+:END:
+
+I've given up on configuring my Emacs setup using [[https://github.com/SystemCrafters/rational-emacs][Rational Emacs]] and gone back to [[https://github.com/doomemacs/doomemacs][Doom]]. As much as building my own config interests me, I'll never in a million years get close to the level of refinement that Doom offers. I'm better off just riding along with a "bloated" framework and focusing on /using/ Emacs instead of playing with it.
+
+
 *** DONE Tuesday, July 05, 2022
 CLOSED: [2022-07-05 Tue 05:10]
 :PROPERTIES:
@@ -39,8 +52,8 @@ CLOSED: [2022-07-05 Tue 05:10]
 
 I decided not to continue my [[https://feedbin.com/][Feedbin]] subscription. It has some nice features but [[https://netnewswire.com][NetNewsWire]] suits me just fine, for free.
 
-Remember when [[https://baty.net/2022/c-x-c-c/][I quit using Emacs]]? Now alluvasuddin I'm toying with the idea of going with a custom config again using [[https://github.com/systemcrafters/rational-emacs][Rational Emacs]].
-
+Remember when [[https://baty.net/2022/c-x-c-c/][I quit using Emacs]]? Now alluvasuddin I'm toying with the
+idea of going with a custom config again using [[https://github.com/systemcrafters/rational-emacs][Rational Emacs]]. Which is weird because one of the reasons I quit emacs was because I was tired of configuring things myself.
 
 *** DONE Sunday, July 03, 2022 :ATTACH:
 CLOSED: [2022-07-03 Sun 05:26]
@@ -67,8 +80,6 @@ Look what I got today. My first fish! 👇
 #+attr_html: :width 800px
 #+attr_org: :width 800px
 [[file:~/sites/daily.baty.net/static/img/2022/20220703-clownfish.jpg]]
-
-
 
 *** DONE Saturday, July 02, 2022
 CLOSED: [2022-07-02 Sat 10:16]
@@ -1829,6 +1840,8 @@ What if I used this for personal journaling? I could publish a local website wit
 > Altogether, America has too much venting and not enough inventing
 >
 > <cite>Derek Thompson, [[https://www.theatlantic.com/ideas/archive/2022/01/scarcity-crisis-college-housing-health-care/621221/][A Simple Plan to Solve All of America’s Problems]]</cite>
+
+
 
 * About
 :PROPERTIES:
