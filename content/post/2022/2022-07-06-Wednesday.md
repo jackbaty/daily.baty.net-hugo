@@ -1,7 +1,7 @@
 ---
 title: "Wednesday, July 06, 2022"
 date: 2022-07-06T05:44:00-04:00
-lastmod: 2022-07-06T17:28:19-04:00
+lastmod: 2022-07-06T17:49:56-04:00
 slug: 2022-07-06
 draft: false
 weight: 0
@@ -18,6 +18,8 @@ LinkedIn is a <mark>hellhole of self-aggrandizement</mark> and ego stroking and 
 [rgcr/m-cli:  Swiss Army Knife for macOS](https://github.com/rgcr/m-cli) looks worth checking out. (/ht [macosguru](http://bicycleforyourmind.com/quick_bites_008))
 
 I was looking at Deno but Bun looks interesting, too: [Bun is a fast all-in-one JavaScript runtime](https://bun.sh/)
+
+[Additional Emphasis Markers in Org Mode | Irreal](https://irreal.org/blog/?p=10649) Fancy!
 
 [//]: # "Exported with love from a post written in Org mode"
 [//]: # "- https://github.com/kaushalmodi/ox-hugo"

@@ -53,6 +53,8 @@ LinkedIn is a {{{mark(hellhole of self-aggrandizement)}}} and ego stroking and I
 [[https://github.com/rgcr/m-cli][rgcr/m-cli:  Swiss Army Knife for macOS]] looks worth checking out. (/ht [[http://bicycleforyourmind.com/quick_bites_008][macosguru]])
 
 I was looking at Deno but Bun looks interesting, too: [[https://bun.sh/][Bun is a fast all-in-one JavaScript runtime]]
+
+[[https://irreal.org/blog/?p=10649][Additional Emphasis Markers in Org Mode | Irreal]] Fancy!
 *** DONE Tuesday, July 05, 2022
 CLOSED: [2022-07-05 Tue 05:10]
 :PROPERTIES:
