@@ -1,7 +1,7 @@
 ---
 title: "Wednesday, July 06, 2022"
 date: 2022-07-06T05:44:00-04:00
-lastmod: 2022-07-06T10:57:31-04:00
+lastmod: 2022-07-06T14:46:55-04:00
 slug: 2022-07-06
 draft: false
 weight: 0
@@ -13,7 +13,7 @@ No one gets to decide whether <mark>my subjects are "worthy"</mark> of the camer
 
 LinkedIn is a <mark>hellhole of self-aggrandizement</mark> and ego stroking and I don't think I can participate.
 
-[The Grug Brained Developer](https://grugbrain.dev/). Grug agrees.
+[The Grug Brained Developer](https://grugbrain.dev/). This Grug agrees.
 
 [//]: # "Exported with love from a post written in Org mode"
 [//]: # "- https://github.com/kaushalmodi/ox-hugo"
