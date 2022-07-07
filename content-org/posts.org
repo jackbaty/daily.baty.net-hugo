@@ -35,6 +35,29 @@
 :PROPERTIES:
 :VISIBILITY: content
 :END:
+*** DONE Thursday, July 07, 2022
+CLOSED: [2022-07-07 Thu 05:11]
+:PROPERTIES:
+:EXPORT_FILE_NAME: 2022-07-07-Thursday
+:EXPORT_HUGO_SLUG: 2022-07-07
+:END:
+
+#+begin_quote
+Consent-O-Matic is a browser extension that recognizes CMP (Consent Management Provider) pop-ups that have become ubiquitous on the web and automatically fills them out based on your preferences – even if you meet a dark pattern design.
+
+[[https://consentomatic.au.dk/][Consent-O-Matic]]
+#+end_quote
+
+If something you're not sure about is considered "table stakes" maybe you're {{{mark(sitting at the wrong table)}}}.
+
+Every day I wake up and {{{mark(decide to do things the opposite)}}} of the way I decided to do them yesterday.
+
+
+
+
+
+
+
 *** DONE Wednesday, July 06, 2022
 CLOSED: [2022-07-06 Wed 05:44]
 :PROPERTIES:
@@ -56,6 +79,9 @@ I was looking at Deno but Bun looks interesting, too: [[https://bun.sh/][Bun is 
 
 [[https://irreal.org/blog/?p=10649][Additional Emphasis Markers in Org Mode | Irreal]] Fancy! ([[https://emacsnotes.wordpress.com/2022/06/29/use-org-extra-emphasis-when-you-need-more-emphasis-markers-in-emacs-org-mode/][Linked article]]
 )
+
+
+
 *** DONE Tuesday, July 05, 2022
 CLOSED: [2022-07-05 Tue 05:10]
 :PROPERTIES:
