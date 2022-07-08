@@ -35,6 +35,15 @@
 :PROPERTIES:
 :VISIBILITY: content
 :END:
+*** DONE Friday, July 08, 2022
+CLOSED: [2022-07-08 Fri 05:43]
+:PROPERTIES:
+:EXPORT_FILE_NAME: 2022-07-08-Friday
+:EXPORT_HUGO_SLUG: 2022-07-08
+:END:
+
+I'm trying a {{{mark(new WordPress theme)}}} on [[https://baty.net][baty.net]]. I was looking for something as lightweight as possible, without also being useless. I saw that [[https://andersnoren.se/][Anders Norén]] rewrote his Davis theme to take advantage of WordPress' new full-site editing features. It's called [[https://andersnoren.se/introducing-davis-blocks/][Davis Blocks]]. There are a few rough edges but I like how simple it is. I'll live with it for a minute to see how it feels.
+
 *** DONE Thursday, July 07, 2022
 CLOSED: [2022-07-07 Thu 05:11]
 :PROPERTIES:
@@ -51,13 +60,6 @@ Consent-O-Matic is a browser extension that recognizes CMP (Consent Management P
 If something you're not sure about is considered "table stakes" maybe you're {{{mark(sitting at the wrong table)}}}.
 
 Every day I wake up and {{{mark(decide to do things the opposite)}}} of the way I decided to do them yesterday.
-
-
-
-
-
-
-
 *** DONE Wednesday, July 06, 2022
 CLOSED: [2022-07-06 Wed 05:44]
 :PROPERTIES:
@@ -79,7 +81,6 @@ I was looking at Deno but Bun looks interesting, too: [[https://bun.sh/][Bun is 
 
 [[https://irreal.org/blog/?p=10649][Additional Emphasis Markers in Org Mode | Irreal]] Fancy! ([[https://emacsnotes.wordpress.com/2022/06/29/use-org-extra-emphasis-when-you-need-more-emphasis-markers-in-emacs-org-mode/][Linked article]]
 )
-
 
 
 *** DONE Tuesday, July 05, 2022
