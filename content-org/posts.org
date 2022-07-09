@@ -35,6 +35,16 @@
 :PROPERTIES:
 :VISIBILITY: content
 :END:
+*** DONE Saturday, July 09, 2022
+CLOSED: [2022-07-09 Sat 05:49]
+:PROPERTIES:
+:EXPORT_FILE_NAME: 2022-07-09-Saturday
+:EXPORT_HUGO_SLUG: 2022-07-09
+:END:
+
+I think it's time for YouTubers to {{{mark(calm down with the production values)}}}. I never trust a video that looks too good.
+
+
 *** DONE Friday, July 08, 2022
 CLOSED: [2022-07-08 Fri 05:43]
 :PROPERTIES:
@@ -45,6 +55,8 @@ CLOSED: [2022-07-08 Fri 05:43]
 I'm trying a {{{mark(new WordPress theme)}}} on [[https://baty.net][baty.net]]. I was looking for something as lightweight as possible, without also being useless. I saw that [[https://andersnoren.se/][Anders Norén]] rewrote his Davis theme to take advantage of WordPress' new full-site editing features. It's called [[https://andersnoren.se/introducing-davis-blocks/][Davis Blocks]]. There are a few rough edges but I like how simple it is. I'll live with it for a minute to see how it feels. I still hate editing themes in WordPress, though.
 
 It's time to go {{{mark(back to work)}}}. I wish I knew what I wanted to do. Any ideas?
+
+New Post: [[https://baty.net/2022/my-first-salt-water-aquarium/][My first salt-water aquarium – Jack Baty]]
 
 *** DONE Thursday, July 07, 2022
 CLOSED: [2022-07-07 Thu 05:11]
