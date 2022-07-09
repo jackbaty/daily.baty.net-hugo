@@ -46,9 +46,11 @@ I think it's time for YouTubers to {{{mark(calm down with the production values)
 
 One thing I've noticed when using TheBrain is the tendency to {{{mark(get lost in the links)}}}. I become lost in thoughts, as it were. I find this to be both a blessing and curse for someone as easily distracted as me.
 
-Fun fact about me: I almost always cry in museums.
+Fun fact about me: {{{mark(I almost always cry in museums)}}}.
 
-Someone recently added me to a Twitter list named "Miscellaneous" and nothing could be more appropriate.
+Someone recently added me to a Twitter list named "{{{mark(Miscellaneous)}}}" and nothing could be more appropriate.
+
+I wonder who cares more about which camera was used, {{{mark(film people or digital people)}}}? I swear it's a draw.
 
 
 *** DONE Friday, July 08, 2022
