@@ -35,6 +35,17 @@
 :PROPERTIES:
 :VISIBILITY: content
 :END:
+*** DONE Sunday, July 10, 2022
+CLOSED: [2022-07-10 Sun 05:37]
+:PROPERTIES:
+:EXPORT_FILE_NAME: 2022-07-10-Sunday
+:EXPORT_HUGO_SLUG: 2022-07-10
+:END:
+
+The fancier my to-do system, the less I get done.
+
+"Reliability, above all else" --Smokey Yunick
+
 *** DONE Saturday, July 09, 2022
 CLOSED: [2022-07-09 Sat 05:49]
 :PROPERTIES:
