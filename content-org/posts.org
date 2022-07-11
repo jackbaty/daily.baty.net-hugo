@@ -35,6 +35,23 @@
 :PROPERTIES:
 :VISIBILITY: content
 :END:
+*** DONE Monday, July 11, 2022
+CLOSED: [2022-07-11 Mon 05:46]
+:PROPERTIES:
+:EXPORT_FILE_NAME: 2022-07-11-Monday
+:EXPORT_HUGO_SLUG: 2022-07-11
+:END:
+
+#+begin_quote
+Instead, Joe Pera is like stepping out on a break from work, taking a deep breath, and having a stranger say to you, “Nice out, isn’t it?” You register this as an intrusion, an annoying solicitation for conversation, before noticing that it is, indeed, nice out. It doesn’t change your life, but then again it doesn’t need to. These moments accrete and build into something resembling a life of intention and curiosity. That’s the hope anyway. That’s what Joe Pera Talks With You is like.
+
+[[https://www.gawker.com/culture/rip-joe-pera-talks-with-you][R.I.P. 'Joe Pera Talks With You']]
+#+end_quote
+
+"Joe Pera Talks With You" is (was) one of the greatest things on television. I hope it comes back.
+
+
+
 *** DONE Sunday, July 10, 2022
 CLOSED: [2022-07-10 Sun 05:37]
 :PROPERTIES:
