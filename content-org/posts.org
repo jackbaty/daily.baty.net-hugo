@@ -35,12 +35,23 @@
 :PROPERTIES:
 :VISIBILITY: content
 :END:
+*** DONE Tuesday, July 12, 2022
+CLOSED: [2022-07-12 Tue 05:59]
+:PROPERTIES:
+:EXPORT_FILE_NAME: 2022-07-12-Tuesday
+:EXPORT_HUGO_SLUG: 2022-07-12
+:END:
+
+There's a point at which "content creators" {{{mark(go from sharing stuff to selling stuff)}}} and it's around that point that I lose interest.
+
 *** DONE Monday, July 11, 2022
 CLOSED: [2022-07-11 Mon 05:46]
 :PROPERTIES:
 :EXPORT_FILE_NAME: 2022-07-11-Monday
 :EXPORT_HUGO_SLUG: 2022-07-11
 :END:
+
+Quick! Throw me the keys!
 
 #+begin_quote
 Instead, Joe Pera is like stepping out on a break from work, taking a deep breath, and having a stranger say to you, “Nice out, isn’t it?” You register this as an intrusion, an annoying solicitation for conversation, before noticing that it is, indeed, nice out. It doesn’t change your life, but then again it doesn’t need to. These moments accrete and build into something resembling a life of intention and curiosity. That’s the hope anyway. That’s what Joe Pera Talks With You is like.
