@@ -35,6 +35,14 @@
 :PROPERTIES:
 :VISIBILITY: content
 :END:
+*** DONE Wednesday, July 13, 2022
+CLOSED: [2022-07-13 Wed 05:55]
+:PROPERTIES:
+:EXPORT_FILE_NAME: 2022-07-13-Wednesday
+:EXPORT_HUGO_SLUG: 2022-07-13
+:END:
+[[https://coachtony.medium.com/hello-medium-readers-authors-editors-and-publishers-65bb728de2d8][Hello Medium readers, authors, editors and publishers | by Tony Stubblebine]]. I still kind of root for [[https://medium.com][Medium]]. It seems that Stubblebine is pretty well-liked by people I like, so that's encouraging. Who knows, maybe I'll go back to cross-posting there.
+
 *** DONE Tuesday, July 12, 2022
 CLOSED: [2022-07-12 Tue 05:59]
 :PROPERTIES:
@@ -51,7 +59,8 @@ Reef tank update: {{{mark(3 fish and 3 corals)}}}. We now have the black Clownfi
 #+caption: Reef tank on July 12, 2022
 [[/img/2022/20220712-tank.jpg]]
 
-One of the last things I need is my "Weekly TextExpander Report"
+One of the last things I need is a "Weekly TextExpander Report"
+
 
 *** DONE Monday, July 11, 2022
 CLOSED: [2022-07-11 Mon 05:46]
