@@ -47,7 +47,7 @@ I don't know if I should think of [[https://glass.photo/jbaty][Glass]] as a soci
 
 I {{{mark(withdrew the M10-R listing)}}} again, after re-listing (again) it a couple days ago.
 
-Complexity is OK as long as it's {{{mark(hidden, remains hidden, and never fails)}}}. Those three things are almost never true at the same time for long.
+Complexity is OK as long as it's hidden, remains hidden, and never fails. Those three things are almost never true at the same time for long.
 *** DONE Tuesday, July 12, 2022
 CLOSED: [2022-07-12 Tue 05:59]
 :PROPERTIES:

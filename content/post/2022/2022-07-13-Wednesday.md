@@ -1,7 +1,7 @@
 ---
 title: "Wednesday, July 13, 2022"
 date: 2022-07-13T05:55:00-04:00
-lastmod: 2022-07-13T13:16:18-04:00
+lastmod: 2022-07-13T16:22:42-04:00
 slug: 2022-07-13
 draft: false
 weight: 0
@@ -13,7 +13,7 @@ I don't know if I should think of [Glass](https://glass.photo/jbaty) as a social
 
 I <mark>withdrew the M10-R listing</mark> again, after re-listing (again) it a couple days ago.
 
-Complexity is OK as long as it's <mark>hidden</mark>. Those three things are almost never true at the same time for long.
+Complexity is OK as long as it's hidden, remains hidden, and never fails. Those three things are almost never true at the same time for long.
 
 [//]: # "Exported with love from a post written in Org mode"
 [//]: # "- https://github.com/kaushalmodi/ox-hugo"
