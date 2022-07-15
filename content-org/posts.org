@@ -41,7 +41,7 @@ CLOSED: [2022-07-15 Fri 07:01]
 :EXPORT_HUGO_SLUG: 2022-07-15
 :END:
 
-ℹ️ I guess I just don't like dealing with WordPress. {{{mark(We're back in Hugo for baty.net)}}}. See you [[https://baty.net][there]].
+I really don't like dealing with WordPress. I copied all recent content from this blog and the baty.net WordPress installation and am hovering over the button to switch DNS for baty.net to the Hugo instance. Wait for it....! *Update* I changed my mind. {{{mark(Still on WordPress)}}}.
 
 
 *** DONE Thursday, July 14, 2022
