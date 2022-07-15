@@ -41,7 +41,7 @@ CLOSED: [2022-07-15 Fri 07:01]
 :EXPORT_HUGO_SLUG: 2022-07-15
 :END:
 
-I really don't like dealing with WordPress. I copied all recent content from this blog and the baty.net WordPress installation and am hovering over the button to switch DNS for baty.net to the Hugo instance. Wait for it....! *Update* I changed my mind. {{{mark(Still on WordPress)}}}.
+I really don't like dealing with WordPress. I copied all recent content from this blog and the baty.net WordPress installation and am hovering over the button to switch DNS for baty.net to the Hugo instance. Wait for it....! *Update* I changed my mind. {{{mark(Still on WordPress)}}}. This may come back, though. I bailed because after copying recent content over and looking through it, I didn't like how certain images were handled and for the life of me I couldn't figure out how to change it.  And then when proofreading, I noticed that paragraphs of text were too hard to read. It's a font or some other typography issue, but I didn't like it.  It also made me think that my theme is just a little too busy, somehow. Hugo theme changes are non-trivial and can be day-long nightmares. So, I bailed. For now.
 
 
 *** DONE Thursday, July 14, 2022
