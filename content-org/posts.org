@@ -3,7 +3,6 @@
 #+hugo_section: ./
 #+hugo_weight: nil
 #+hugo_auto_set_lastmod: t
-#+hugo_front_matter_format: yaml
 #+hugo_front_matter_key_replace: description>summary author>nil
 #+category: Blog
 #+startup: overview
@@ -35,6 +34,27 @@
 :PROPERTIES:
 :VISIBILITY: content
 :END:
+*** DONE Friday, July 15, 2022
+CLOSED: [2022-07-15 Fri 07:01]
+:PROPERTIES:
+:EXPORT_FILE_NAME: 2022-07-15-Friday
+:EXPORT_HUGO_SLUG: 2022-07-15
+:END:
+
+ℹ️ I guess I just don't like dealing with WordPress. {{{mark(We're back in Hugo for baty.net)}}}. See you [[https://baty.net][there]].
+
+
+*** DONE Thursday, July 14, 2022
+CLOSED: [2022-07-14 Thu 05:34]
+:PROPERTIES:
+:EXPORT_FILE_NAME: 2022-07-14-Thursday
+:EXPORT_HUGO_SLUG: 2022-07-14
+:END:
+⛅️  Partly cloudy +63°F
+
+I ordered a bunch of {{{mark(paraphernalia around keeping index cards)}}}. I mean, I already /have/ a lot of it, but I ordered more: storage boxes, dividers, more cards, etc. This almost guarantees that I won't be using index cards in the future.
+
+I've been testing [[https://www.dxo.com/dxo-photolab/][DxO PhotoLab 5]] and it's quite good. I used to love using "U-Point Technology" years ago in the old Nikon Capture NX app and it's fun to see how far it's come. But it's not U-Point or "Smart Lighting" that draws me to it. It's the lens profiles and the completely amazing DeepPRIME noise reduction. It's like having at least two additional stops available. I may end up buying [[https://www.dxo.com/dxo-pureraw/][DxO PureRAW]] so I can have just the good bits of PhotoLab as a plugin.
 *** DONE Wednesday, July 13, 2022
 CLOSED: [2022-07-13 Wed 05:55]
 :PROPERTIES:
@@ -66,7 +86,6 @@ Reef tank update: {{{mark(3 fish and 3 corals)}}}. We now have the black Clownfi
 
 One of the last things I need is a "Weekly TextExpander Report"
 
-
 *** DONE Monday, July 11, 2022
 CLOSED: [2022-07-11 Mon 05:46]
 :PROPERTIES:
@@ -83,8 +102,6 @@ Instead, Joe Pera is like stepping out on a break from work, taking a deep breat
 #+end_quote
 
 "Joe Pera Talks With You" is (was) one of the greatest things on television. I hope it comes back.
-
-
 
 *** DONE Sunday, July 10, 2022
 CLOSED: [2022-07-10 Sun 05:37]
@@ -165,7 +182,6 @@ I was looking at Deno but Bun looks interesting, too: [[https://bun.sh/][Bun is 
 
 [[https://irreal.org/blog/?p=10649][Additional Emphasis Markers in Org Mode | Irreal]] Fancy! ([[https://emacsnotes.wordpress.com/2022/06/29/use-org-extra-emphasis-when-you-need-more-emphasis-markers-in-emacs-org-mode/][Linked article]]
 )
-
 
 *** DONE Tuesday, July 05, 2022
 CLOSED: [2022-07-05 Tue 05:10]
