@@ -41,10 +41,11 @@ CLOSED: [2022-07-17 Sun 05:57]
 :EXPORT_HUGO_SLUG: 2022-07-17
 :END:
 
-My wife and I strolled around the lakefront in Saugatuck yesterday. I took only the M10-R with 35mm Summilux. There were people, dogs, boats, and water everywhere. {{{mark(I took fewer than 20 photos and maybe 2 don't suck)}}}. I'm not sure why I bother. And I'm especially unsure why I bother with an expensive digital rangefinder. So, with some regret, I've [[https://www.fredmiranda.com/forum/topic/1762243][relisted the M10-R for sale]].
+My wife and I strolled around the lakefront in Saugatuck yesterday. I took only the M10-R with 35mm Summilux. There were people, dogs, boats, and water everywhere. {{{mark(I took fewer than 20 photos and maybe 2 don't suck)}}}. I'm not sure why I bother. And I'm especially unsure why I bother with an expensive digital rangefinder. What's worse, is that I'm having a difficult time focusing the rangefinder. So, with some regret, I've [[https://www.fredmiranda.com/forum/topic/1762243][relisted the M10-R for sale]].
 
 I've used many {{{mark(film emulation "presets")}}} over the years. Since I've recently been testing DxO PhotoLab I thought I'd also test their set of presets: [[https://www.dxo.com/dxo-filmpack/][DxO FilmPack - Magic of analog in the age of digital]]. As with most presets, they do a nice job of helping digital photos pretend to be film photos. The fatal flaw with all of these, of course, is that they are /not/ film photos. And that's why I can never get comfortable using them.
 
+The "Notch" is a minor nuisance and certainly not a hill I'd choose to die on. [[http://morrick.me/archives/9621][The notch is wrong | Riccardo Mori]].
 *** DONE Saturday, July 16, 2022
 CLOSED: [2022-07-16 Sat 11:48]
 :PROPERTIES:
