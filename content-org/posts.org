@@ -34,6 +34,16 @@
 :PROPERTIES:
 :VISIBILITY: content
 :END:
+*** DONE Monday, July 18, 2022
+CLOSED: [2022-07-18 Mon 05:19]
+:PROPERTIES:
+:EXPORT_FILE_NAME: 2022-07-18-Monday
+:EXPORT_HUGO_SLUG: 2022-07-18
+:END:
+
+I'm not indecisive. I make {{{mark(many decisions every day)}}}. It's just that quite often those decisions are the opposite of what I'd decided the day before.
+
+
 *** DONE Sunday, July 17, 2022
 CLOSED: [2022-07-17 Sun 05:57]
 :PROPERTIES:
@@ -46,6 +56,13 @@ My wife and I strolled around the lakefront in Saugatuck yesterday. I took only 
 I've used many {{{mark(film emulation "presets")}}} over the years. Since I've recently been testing DxO PhotoLab I thought I'd also test their set of presets: [[https://www.dxo.com/dxo-filmpack/][DxO FilmPack - Magic of analog in the age of digital]]. As with most presets, they do a nice job of helping digital photos pretend to be film photos. The fatal flaw with all of these, of course, is that they are /not/ film photos. And that's why I can never get comfortable using them.
 
 The "Notch" is a minor nuisance and certainly not a hill I'd choose to die on. [[http://morrick.me/archives/9621][The notch is wrong | Riccardo Mori]].
+
+#+begin_quote
+Here's the moral of this story: always photograph with the camera that's going to give you the raw material you want to have in case you get a great shot. Even if it's a pain to carry or a pain to use. Because if you photograph regularly, you will get a great shot once in a while. Even if you're not trying. And you need to be ready for that.
+
+[[https://theonlinephotographer.typepad.com/the_online_photographer/2022/07/doh-.html][The Online Photographer: D'Oh! Saying No (iPhone 13)]]
+#+end_quote
+
 *** DONE Saturday, July 16, 2022
 CLOSED: [2022-07-16 Sat 11:48]
 :PROPERTIES:
@@ -71,7 +88,6 @@ All I am ever trying to do is avoid spending any time with myself at all — no 
 #+end_quote
 
 [[https://scaachi.substack.com/][A List Of People I Am Mad At]] might be my favorite newsletter of them all.
-
 
 *** DONE Thursday, July 14, 2022
 CLOSED: [2022-07-14 Thu 05:34]
