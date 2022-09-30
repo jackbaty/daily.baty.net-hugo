@@ -1,4 +1,4 @@
-# -*- eval: (writeroom-mode) -*-
+# -*- eval: (olivetti-mode) -*-
 #+hugo_base_dir: ../
 #+hugo_section: ./
 #+hugo_weight: nil
@@ -30,19 +30,20 @@
 :EXPORT_HUGO_SECTION: post/2022
 :DIR:  ~/sites/daily.baty.net/static/img/2022/
 :END:
-** July 2022
+** September 2022
 :PROPERTIES:
 :VISIBILITY: content
 :END:
-*** TODO Wednesday, July 20, 2022
+*** DONE Friday, September 30, 2022
+CLOSED: [2022-09-30 Fri 05:44]
 :PROPERTIES:
-:EXPORT_FILE_NAME: 2022-07-20-Wednesday
-:EXPORT_HUGO_SLUG: 2022-07-20
+:EXPORT_FILE_NAME: 2022-09-30-Friday
+:EXPORT_HUGO_SLUG: 2022-09-30
 :END:
 
-I've been writing my daily notes over on a slightly reorganized [[https://baty.net][baty.net]] the past few days. While I like having everything in one place, I still dislike writing in WordPress. Not sure what I'm going to do about it.
+I'm having second thoughts about writing my daily posts over on [[https://baty.net][baty.net]]. They don't belong in the RSS feed. Or at least I don't like them there. So, I thought I'd go back to putting them on [[https://rudimentarylathe.org][the wiki]], but I'm not sure why. Maybe because it's so easy to post there. Perhaps they belong here. After all, it's called "Jack Baty Daily" right? Let's see how it feels.
 
-
+** July 2022
 *** DONE Tuesday, July 19, 2022
 CLOSED: [2022-07-19 Tue 06:14]
 :PROPERTIES:
