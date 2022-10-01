@@ -7,7 +7,7 @@ TARGET=server01.baty.net
 .PHONY: build checkpoint deploy
 
 build:
-	hugo
+	/opt/homebrew/bin/hugo
 
 checkpoint:
 	git add .
