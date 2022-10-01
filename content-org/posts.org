@@ -8,9 +8,6 @@
 #+startup: overview
 #+options: broken-links:t
 #+macro: mark @@html:<mark>$1</mark>@@
-
-
-
 * Drafts
 ** TODO One moment, please...
 :PROPERTIES:
@@ -24,12 +21,22 @@
 
 👉 [[https://rl.baty.net][In the meantime]]...
 
-
 * 2022
 :PROPERTIES:
 :EXPORT_HUGO_SECTION: post/2022
 :DIR:  ~/sites/daily.baty.net/static/img/2022/
 :END:
+** October 2022
+*** DONE Saturday, October 01, 2022
+CLOSED: [2022-10-01 Sat 05:16]
+:PROPERTIES:
+:EXPORT_FILE_NAME: 2022-10-01-Saturday
+:EXPORT_HUGO_SLUG: 2022-10-01
+:END:
+Well, it's October now, I guess. Each new month begins with promise and another empty page. I get to {{{mark(choose how to fill the pages)}}}. Recently, it feels like too many of them remain empty. I need to fix that.
+
+The {{{mark(Paper vs Digital debate)}}} continues apace. One nice thing about notes on paper is that I'm not tempted, nor do I feel obligated, to share them.
+
 ** September 2022
 :PROPERTIES:
 :VISIBILITY: content
@@ -42,6 +49,22 @@ CLOSED: [2022-09-30 Fri 05:44]
 :END:
 
 I'm having second thoughts about writing my daily posts over on [[https://baty.net][baty.net]]. They don't belong in the RSS feed. Or at least I don't like them there. So, I thought I'd go back to putting them on [[https://rudimentarylathe.org][the wiki]], but I'm not sure why. Maybe because it's so easy to post there. Perhaps they belong here. After all, it's called "Jack Baty Daily" right? Let's see how it feels.
+
+#+begin_quote
+Thinking about how I think is, by hours spent, my number one favourite hobby. As hobbies go it fits somewhere between self-flagellation and NFTs.
+
+[[https://supergranular.substack.com/p/49-serenity-now][49. Serenity now - by Thom Wong - Supergranular]]
+#+end_quote
+
+I love this piece from Will Rees.
+
+#+begin_quote
+But here is the strangest, and possibly the saddest, thing about my long and so far unsuccessful attempts to keep a diary: although I can say with complete certainty that I have never disposed of a notebook, as I write this today, on August 27, 2022, with my current, slightly torn black notebook on the table beside me, I have absolutely no idea where its predecessors have got to, nor what they contained, and when I turn my mind to this, as I repeatedly do, the feeling of loss is immeasurable.
+
+[[https://astra-mag.com/articles/i-do-not-keep-a-diary/?src=longreads][I Do Not Keep a Diary | Will Rees]]
+#+end_quote
+
+
 
 ** July 2022
 *** DONE Tuesday, July 19, 2022
