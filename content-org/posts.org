@@ -35,7 +35,7 @@ CLOSED: [2022-10-01 Sat 05:16]
 :END:
 Well, it's October now, I guess. Each new month begins with promise and another empty page. I get to {{{mark(choose how to fill the pages)}}}. Recently, it feels like too many of them remain empty. I need to fix that.
 
-The {{{mark(Paper vs Digital debate)}}} continues apace. One nice thing about notes on paper is that I'm not tempted, nor do I feel obligated, to share them.
+The {{{mark(Paper vs Digital debate)}}} continues apace. One nice thing about notes on paper is that I'm not tempted, nor do I feel obligated, to share them. On the other hand, what if I /do/ want to share them?
 
 ** September 2022
 :PROPERTIES:
