@@ -81,7 +81,7 @@ languageCode = "en-US"
   dateFormatToUseArchives = "2006-01-02"
   dateFormatToUseTaxonomy = "2006-01-02"
 
-  showAuthorInfo = false # show author info below the article
+  showAuthorInfo = true # show author info below the article
 
 
   # paginate of archives, tags and categories             # 归档、标签、分类每页显示的文章数目，建议修改为一个较大的值

@@ -38,7 +38,7 @@ Hello? I don't know what's happening, but after spending too much time yesterday
 
 @@html:
 {{< blockquote author="Jack Baty" link="https://baty.net" >}}
-Imagine my surprise when I noticed that the Jane theme used here includes fancy blockquote shortcodes that do exactly what I was trying to do manually via fancy CSS.
+Imagine my surprise when I noticed that the Jane theme used here includes fancy blockquote shortcodes that do exactly what I was trying to do manually via markup and fancy CSS.
 {{< /blockquote >}}
 @@
 
@@ -53,7 +53,7 @@ Imagine my surprise when I noticed that the Jane theme used here includes fancy 
 
 #+attr_html: :class imgRightMargin
 #+caption: Your host, Jack Baty
-[[./jack-headshot-500.jpg]]
+[[file:self-portrait-with-m3-300.jpg]]
 
 I created this site as a place to capture the things I’m thinking about throughout each day.
 

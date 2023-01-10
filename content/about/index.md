@@ -1,11 +1,11 @@
----
-title: "About"
-lastmod: 2022-03-24T08:02:39-04:00
-draft: false
-weight: 0
----
++++
+title = "About"
+lastmod = 2023-01-10T15:45:46-05:00
+draft = false
+weight = 0
++++
 
-{{< figure src="./jack-headshot-500.jpg" caption="<span class=\"figure-number\">Figure 1: </span>Your host, Jack Baty" class="imgRightMargin" >}}
+{{< figure src="self-portrait-with-m3-300.jpg" caption="<span class=\"figure-number\">Figure 1: </span>Your host, Jack Baty" class="imgRightMargin" >}}
 
 I created this site as a place to capture the things I’m thinking about throughout each day.
 
@@ -25,6 +25,7 @@ The **wiki** is at [wiki.baty.net](https://wiki.baty.net)
 
 -   [RSS Feed](/index.xml)
 -   [Changelog](/changelog) of changes to this site's structure, behavior, etc.
+
 
 [//]: # "Exported with love from a post written in Org mode"
 [//]: # "- https://github.com/kaushalmodi/ox-hugo"
