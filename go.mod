@@ -5,4 +5,4 @@ module github.com/jackbaty/daily.baty.net
 
 go 1.17
 
-require github.com/jackbaty/daily-jane v0.0.0-20230110122800-12e306735c9c // indirect
+require github.com/jackbaty/daily-jane v0.0.0-20230110145520-a663fa0715e0 // indirect

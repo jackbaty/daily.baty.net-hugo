@@ -73,7 +73,7 @@ languageCode = "en-US"
 
   # site info (optional)                                  # 站点信息（可选，不需要的可以直接注释掉）
   logoTitle = "Jack Baty Daily"        # default: the title value    # 默认值: 上面设置的title值
-  keywords = ["Photography", "Writing","Nerd"]
+  keywords = ["Photography", "Writing","Emacs"]
   description = "I already spent the money"
 
   # The date format to use; for a list of valid formats, see https://gohugo.io/functions/format/
@@ -81,7 +81,7 @@ languageCode = "en-US"
   dateFormatToUseArchives = "2006-01-02"
   dateFormatToUseTaxonomy = "2006-01-02"
 
-  showAuthorInfo = true # show author info below the article
+  showAuthorInfo = false # show author info below the article
 
 
   # paginate of archives, tags and categories             # 归档、标签、分类每页显示的文章数目，建议修改为一个较大的值
@@ -98,7 +98,8 @@ languageCode = "en-US"
   # Some global options, you can also close or open something in front matter for a single post, see more information from `archetypes/default.md`.
   toc = false                                                                            # 是否开启目录
   photoswipe = true         # see https://github.com/dimsemenov/PhotoSwipe            # 是否启用PhotoSwipe（图片可点击）
-  contentCopyright = '<a rel="license noopener" href="https://creativecommons.org/licenses/by-nc-nd/4.0/" target="_blank">CC BY-NC-ND 4.0</a>'
+  contentCopyright = false
+  # contentCopyright = '<a rel="license noopener" href="https://creativecommons.org/licenses/by-nc-nd/4.0/" target="_blank">CC BY-NC-ND 4.0</a>'
 
   # Link custom CSS and JS assets
   #   (relative to /static/css and /static/js respectively)
@@ -109,7 +110,7 @@ languageCode = "en-US"
   [params.social]                                         # 社交链接
     a-email = "mailto:jack@baty.net"
     b-stack-overflow = ""
-    c-twitter = "https://twitter.com/jackbaty"
+    c-twitter = ""
     d-facebook = ""
     e-linkedin = ""
     f-google = ""
@@ -125,7 +126,7 @@ languageCode = "en-US"
     p-coding = ""
     q-bilibili = ""
     r-codeforces = ""
-    s-mastodon = "https://mastodon.technology/@jackbaty"
+    s-mastodon = "https://social.baty.net/@jack"
     t-youtube = ""
     u-twitch = ""
     v-flickr = "https://flickr.com/photos/jbaty"
