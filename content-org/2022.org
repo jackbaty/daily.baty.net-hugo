@@ -1,0 +1,2153 @@
+# -*- eval: (writeroom-mode) -*-
+#+hugo_base_dir: ../
+#+hugo_section: ./
+#+hugo_weight: nil
+#+hugo_auto_set_lastmod: t
+#+hugo_front_matter_key_replace: description>summary author>nil
+#+category: Blog
+#+startup: overview
+#+options: broken-links:t
+#+macro: mark @@html:<mark>$1</mark>@@
+* Drafts
+** TODO One moment, please...
+:PROPERTIES:
+:EXPORT_FILE_NAME: 2022-02-18-Friday
+:EXPORT_HUGO_SLUG: 2022-02-18
+:EXPORT_DESCRIPTION:
+:EXPORT_DATE:
+:END:
+
+[[/img/WillReturnAt.png]]
+
+👉 [[https://rl.baty.net][In the meantime]]...
+
+
+* 2022
+:PROPERTIES:
+:EXPORT_HUGO_SECTION: post/2022
+:DIR:  ~/sites/daily.baty.net/static/img/2022/
+:END:
+** October 2022
+*** DONE Saturday, October 01, 2022
+CLOSED: [2022-10-01 Sat 05:16]
+:PROPERTIES:
+:EXPORT_FILE_NAME: 2022-10-01-Saturday
+:EXPORT_HUGO_SLUG: 2022-10-01
+:END:
+Well, it's October now, I guess. Each new month begins with promise and another empty page. I get to {{{mark(choose how to fill the pages)}}}. Recently, it feels like too many of them remain empty. I need to fix that.
+
+The {{{mark(Paper vs Digital debate)}}} continues apace. One nice thing about notes on paper is that I'm not tempted, nor do I feel obligated, to share them. On the other hand, what if I /do/ want to share them?
+
+#+attr_org: :width 600px
+#+attr_html: :width 600px
+#+caption: Scrintal's home page
+[[attachment:_20221001_06050720220930-scrintal.png]]
+
+[[https://www.scrintal.com/][Scrintal]] opened up their waitlist for anyone willing to pay an introductory annual subscription fee, so I jumped on it. Then after 10 minutes I realized I have no need for yet another note-taking app so I wrote them asking for a refund. It looks like a fine tool, but I need to pass.
+
+
+** September 2022
+:PROPERTIES:
+:VISIBILITY: content
+:END:
+*** DONE Friday, September 30, 2022
+CLOSED: [2022-09-30 Fri 05:44]
+:PROPERTIES:
+:EXPORT_FILE_NAME: 2022-09-30-Friday
+:EXPORT_HUGO_SLUG: 2022-09-30
+:END:
+
+I'm having second thoughts about writing my daily posts over on [[https://baty.net][baty.net]]. They don't belong in the RSS feed. Or at least I don't like them there. So, I thought I'd go back to putting them on [[https://rudimentarylathe.org][the wiki]], but I'm not sure why. Maybe because it's so easy to post there. Perhaps they belong here. After all, it's called "Jack Baty Daily" right? Let's see how it feels.
+
+#+begin_quote
+Thinking about how I think is, by hours spent, my number one favourite hobby. As hobbies go it fits somewhere between self-flagellation and NFTs.
+
+[[https://supergranular.substack.com/p/49-serenity-now][49. Serenity now - by Thom Wong - Supergranular]]
+#+end_quote
+
+I love this piece from Will Rees.
+
+#+begin_quote
+But here is the strangest, and possibly the saddest, thing about my long and so far unsuccessful attempts to keep a diary: although I can say with complete certainty that I have never disposed of a notebook, as I write this today, on August 27, 2022, with my current, slightly torn black notebook on the table beside me, I have absolutely no idea where its predecessors have got to, nor what they contained, and when I turn my mind to this, as I repeatedly do, the feeling of loss is immeasurable.
+
+[[https://astra-mag.com/articles/i-do-not-keep-a-diary/?src=longreads][I Do Not Keep a Diary | Will Rees]]
+#+end_quote
+
+
+
+** July 2022
+*** DONE Tuesday, July 19, 2022
+CLOSED: [2022-07-19 Tue 06:14]
+:PROPERTIES:
+:EXPORT_FILE_NAME: 2022-07-19-Tuesday
+:EXPORT_HUGO_SLUG: 2022-07-19
+:END:
+
+#+begin_quote
+Whatever it is, Twitter is not a social network. It isn’t even social media — it is a personalized propaganda network. 
+
+[[https://om.co/2022/05/25/twitter-is-garbage/][Garbage – On my Om]]
+#+end_quote
+
+*** DONE Monday, July 18, 2022
+CLOSED: [2022-07-18 Mon 05:19]
+:PROPERTIES:
+:EXPORT_FILE_NAME: 2022-07-18-Monday
+:EXPORT_HUGO_SLUG: 2022-07-18
+:END:
+
+I'm not indecisive. I make {{{mark(many decisions every day)}}}. It's just that quite often those decisions are the opposite of what I'd decided the day before.
+
+I was using the iPad most of today, which means {{{mark(I can't post here)}}}. I don't like it, but I don't want to take the steps necessary to enable it.
+
+#+begin_quote
+With family pictures, it’s what they mean that counts
+
+[[https://www.newyorker.com/culture/annals-of-inquiry/family-photos][The Secret Art of the Family Photo | The New Yorker]]
+#+end_quote
+
+*** DONE Sunday, July 17, 2022
+CLOSED: [2022-07-17 Sun 05:57]
+:PROPERTIES:
+:EXPORT_FILE_NAME: 2022-07-17-Sunday
+:EXPORT_HUGO_SLUG: 2022-07-17
+:END:
+
+My wife and I strolled around the lakefront in Saugatuck yesterday. I took only the M10-R with 35mm Summilux. There were people, dogs, boats, and water everywhere. {{{mark(I took fewer than 20 photos and maybe 2 don't suck)}}}. I'm not sure why I bother. And I'm especially unsure why I bother with an expensive digital rangefinder. What's worse, is that I'm having a difficult time focusing the rangefinder. So, with some regret, I've [[https://www.fredmiranda.com/forum/topic/1762243][relisted the M10-R for sale]].
+
+I've used many {{{mark(film emulation "presets")}}} over the years. Since I've recently been testing DxO PhotoLab I thought I'd also test their set of presets: [[https://www.dxo.com/dxo-filmpack/][DxO FilmPack - Magic of analog in the age of digital]]. As with most presets, they do a nice job of helping digital photos pretend to be film photos. The fatal flaw with all of these, of course, is that they are /not/ film photos. And that's why I can never get comfortable using them.
+
+The "Notch" is a minor nuisance and certainly not a hill I'd choose to die on. [[http://morrick.me/archives/9621][The notch is wrong | Riccardo Mori]].
+
+#+begin_quote
+Here's the moral of this story: always photograph with the camera that's going to give you the raw material you want to have in case you get a great shot. Even if it's a pain to carry or a pain to use. Because if you photograph regularly, you will get a great shot once in a while. Even if you're not trying. And you need to be ready for that.
+
+[[https://theonlinephotographer.typepad.com/the_online_photographer/2022/07/doh-.html][The Online Photographer: D'Oh! Saying No (iPhone 13)]]
+#+end_quote
+
+*** DONE Saturday, July 16, 2022
+CLOSED: [2022-07-16 Sat 11:48]
+:PROPERTIES:
+:EXPORT_FILE_NAME: 2022-07-16-Saturday
+:EXPORT_HUGO_SLUG: 2022-07-16
+:END:
+
+Spent the morning watching YouTube videos about {{{mark(working with corals)}}}. I can't tell if it's easier or more difficult than I thought. One thing for sure is that there are way too many options. Mine, so far, seem to be doing well.
+
+*** DONE Friday, July 15, 2022
+CLOSED: [2022-07-15 Fri 07:01]
+:PROPERTIES:
+:EXPORT_FILE_NAME: 2022-07-15-Friday
+:EXPORT_HUGO_SLUG: 2022-07-15
+:END:
+
+I really don't like dealing with WordPress. I copied all recent content from this blog and the baty.net WordPress installation and am hovering over the button to switch DNS for baty.net to the Hugo instance. Wait for it....! *Update* I changed my mind. {{{mark(Still on WordPress)}}}. This may come back, though. I bailed because after copying recent content over and looking through it, I didn't like how certain images were handled and for the life of me I couldn't figure out how to change it.  And then when proofreading, I noticed that paragraphs of text were too hard to read. It's a font or some other typography issue, but I didn't like it.  It also made me think that my theme is just a little too busy, somehow. Hugo theme changes are non-trivial and can be day-long nightmares. So, I bailed. For now.
+
+#+begin_quote
+All I am ever trying to do is avoid spending any time with myself at all — no thoughts, just cacophonous sounds — and inexplicably, we’ve all decided to allow Apple to slowly but painfully put their dicks in our ears and tell us it’s what we preferred. Do you know how bad it has to be that I would opt for the indignity of getting tangled up in a headphone cord, tripping and yanking them out of my phone and having everyone hear that I’m just listening to “Hook” by Blues Traveler over and over again??
+
+[[https://scaachi.substack.com/p/a-list-of-people-i-am-mad-at-71522?utm_source=substack&utm_medium=email][A List Of People I Am Mad At, 7/15/22]]
+#+end_quote
+
+[[https://scaachi.substack.com/][A List Of People I Am Mad At]] might be my favorite newsletter of them all.
+
+*** DONE Thursday, July 14, 2022
+CLOSED: [2022-07-14 Thu 05:34]
+:PROPERTIES:
+:EXPORT_FILE_NAME: 2022-07-14-Thursday
+:EXPORT_HUGO_SLUG: 2022-07-14
+:END:
+⛅️  Partly cloudy +63°F
+
+I ordered a bunch of {{{mark(paraphernalia around keeping index cards)}}}. I mean, I already /have/ a lot of it, but I ordered more: storage boxes, dividers, more cards, etc. This almost guarantees that I won't be using index cards in the future.
+
+I've been testing [[https://www.dxo.com/dxo-photolab/][DxO PhotoLab 5]] and it's quite good. I used to love using "U-Point Technology" years ago in the old Nikon Capture NX app and it's fun to see how far it's come. But it's not U-Point or "Smart Lighting" that draws me to it. It's the lens profiles and the completely amazing DeepPRIME noise reduction. It's like having at least two additional stops available. I may end up buying [[https://www.dxo.com/dxo-pureraw/][DxO PureRAW]] so I can have just the good bits of PhotoLab as a plugin.
+*** DONE Wednesday, July 13, 2022
+CLOSED: [2022-07-13 Wed 05:55]
+:PROPERTIES:
+:EXPORT_FILE_NAME: 2022-07-13-Wednesday
+:EXPORT_HUGO_SLUG: 2022-07-13
+:END:
+[[https://coachtony.medium.com/hello-medium-readers-authors-editors-and-publishers-65bb728de2d8][Hello Medium readers, authors, editors and publishers | by Tony Stubblebine]]. I still kind of root for [[https://medium.com][Medium]]. It seems that Stubblebine is pretty well-liked by people I like, so that's encouraging. Who knows, maybe I'll go back to cross-posting there.
+
+I don't know if I should think of [[https://glass.photo/jbaty][Glass]] as a social network or portfolio.
+
+I {{{mark(withdrew the M10-R listing)}}} again, after re-listing (again) it a couple days ago.
+
+Complexity is OK as long as it's hidden, remains hidden, and never fails. Those three things are almost never true at the same time for long.
+*** DONE Tuesday, July 12, 2022
+CLOSED: [2022-07-12 Tue 05:59]
+:PROPERTIES:
+:EXPORT_FILE_NAME: 2022-07-12-Tuesday
+:EXPORT_HUGO_SLUG: 2022-07-12
+:END:
+
+There's a point at which "content creators" {{{mark(go from sharing stuff to selling stuff)}}} and it's around that point that I lose interest.
+
+Installed the {{{mark(Ventura public beta)}}} on my MBP. I assume things will start breaking soon.
+
+Reef tank update: {{{mark(3 fish and 3 corals)}}}. We now have the black Clownfish, a Bi-color Blenny, and a Royal Gramma. The corals are all soft corals for now while I dip my toes in. Two of the three are doing well. Not sure about the third.
+
+#+caption: Reef tank on July 12, 2022
+[[/img/2022/20220712-tank.jpg]]
+
+One of the last things I need is a "Weekly TextExpander Report"
+
+*** DONE Monday, July 11, 2022
+CLOSED: [2022-07-11 Mon 05:46]
+:PROPERTIES:
+:EXPORT_FILE_NAME: 2022-07-11-Monday
+:EXPORT_HUGO_SLUG: 2022-07-11
+:END:
+
+Quick! Throw me the keys!
+
+#+begin_quote
+Instead, Joe Pera is like stepping out on a break from work, taking a deep breath, and having a stranger say to you, “Nice out, isn’t it?” You register this as an intrusion, an annoying solicitation for conversation, before noticing that it is, indeed, nice out. It doesn’t change your life, but then again it doesn’t need to. These moments accrete and build into something resembling a life of intention and curiosity. That’s the hope anyway. That’s what Joe Pera Talks With You is like.
+
+[[https://www.gawker.com/culture/rip-joe-pera-talks-with-you][R.I.P. 'Joe Pera Talks With You']]
+#+end_quote
+
+"Joe Pera Talks With You" is (was) one of the greatest things on television. I hope it comes back.
+
+*** DONE Sunday, July 10, 2022
+CLOSED: [2022-07-10 Sun 05:37]
+:PROPERTIES:
+:EXPORT_FILE_NAME: 2022-07-10-Sunday
+:EXPORT_HUGO_SLUG: 2022-07-10
+:END:
+
+The fancier my to-do system, the less I get done.
+
+"Reliability, above all else" --Smokey Yunick
+
+*** DONE Saturday, July 09, 2022
+CLOSED: [2022-07-09 Sat 05:49]
+:PROPERTIES:
+:EXPORT_FILE_NAME: 2022-07-09-Saturday
+:EXPORT_HUGO_SLUG: 2022-07-09
+:END:
+
+I think it's time for YouTubers to {{{mark(calm down with the production values)}}}. I never trust a video that looks too good.
+
+One thing I've noticed when using TheBrain is the tendency to {{{mark(get lost in the links)}}}. I become lost in thoughts, as it were. I find this to be both a blessing and curse for someone as easily distracted as me.
+
+Fun fact about me: {{{mark(I almost always cry in museums)}}}.
+
+Someone recently added me to a Twitter list named "{{{mark(Miscellaneous)}}}" and nothing could be more appropriate.
+
+I wonder who cares more about which camera was used, {{{mark(film people or digital people)}}}? I swear it's a draw.
+
+Burned through a roll of {{{mark(HP5 with the Nikon F100)}}} and every frame is in-focus and properly exposed and now I'm mad.
+*** DONE Friday, July 08, 2022
+CLOSED: [2022-07-08 Fri 05:43]
+:PROPERTIES:
+:EXPORT_FILE_NAME: 2022-07-08-Friday
+:EXPORT_HUGO_SLUG: 2022-07-08
+:END:
+
+I'm trying a {{{mark(new WordPress theme)}}} on [[https://baty.net][baty.net]]. I was looking for something as lightweight as possible, without also being useless. I saw that [[https://andersnoren.se/][Anders Norén]] rewrote his Davis theme to take advantage of WordPress' new full-site editing features. It's called [[https://andersnoren.se/introducing-davis-blocks/][Davis Blocks]]. There are a few rough edges but I like how simple it is. I'll live with it for a minute to see how it feels. I still hate editing themes in WordPress, though.
+
+It's time to go {{{mark(back to work)}}}. I wish I knew what I wanted to do. Any ideas?
+
+New Post: [[https://baty.net/2022/my-first-salt-water-aquarium/][My first salt-water aquarium – Jack Baty]]
+
+*** DONE Thursday, July 07, 2022
+CLOSED: [2022-07-07 Thu 05:11]
+:PROPERTIES:
+:EXPORT_FILE_NAME: 2022-07-07-Thursday
+:EXPORT_HUGO_SLUG: 2022-07-07
+:END:
+
+#+begin_quote
+Consent-O-Matic is a browser extension that recognizes CMP (Consent Management Provider) pop-ups that have become ubiquitous on the web and automatically fills them out based on your preferences – even if you meet a dark pattern design.
+
+[[https://consentomatic.au.dk/][Consent-O-Matic]]
+#+end_quote
+
+If something you're not sure about is considered "table stakes" maybe you're {{{mark(sitting at the wrong table)}}}.
+
+Every day I wake up and {{{mark(decide to do things the opposite)}}} of the way I decided to do them yesterday.
+*** DONE Wednesday, July 06, 2022
+CLOSED: [2022-07-06 Wed 05:44]
+:PROPERTIES:
+:EXPORT_FILE_NAME: 2022-07-06-Wednesday
+:EXPORT_HUGO_SLUG: 2022-07-06
+:END:
+
+I've given up on configuring my Emacs setup using [[https://github.com/SystemCrafters/rational-emacs][Rational Emacs]] and gone back to [[https://github.com/doomemacs/doomemacs][Doom]]. As much as building my own config interests me, I'll never in a million years get close to the level of refinement that Doom offers. I'm better off just riding along with a "bloated" framework and focusing on /using/ Emacs instead of playing with it.
+
+No one gets to decide whether {{{mark(my subjects are "worthy")}}} of the cameras I use to photograph them.
+
+LinkedIn is a {{{mark(hellhole of self-aggrandizement)}}} and ego stroking and I don't think I can participate.
+
+[[https://grugbrain.dev/][The Grug Brained Developer]]. This Grug agrees.
+
+[[https://github.com/rgcr/m-cli][rgcr/m-cli:  Swiss Army Knife for macOS]] looks worth checking out. (/ht [[http://bicycleforyourmind.com/quick_bites_008][macosguru]])
+
+I was looking at Deno but Bun looks interesting, too: [[https://bun.sh/][Bun is a fast all-in-one JavaScript runtime]]
+
+[[https://irreal.org/blog/?p=10649][Additional Emphasis Markers in Org Mode | Irreal]] Fancy! ([[https://emacsnotes.wordpress.com/2022/06/29/use-org-extra-emphasis-when-you-need-more-emphasis-markers-in-emacs-org-mode/][Linked article]]
+)
+
+*** DONE Tuesday, July 05, 2022
+CLOSED: [2022-07-05 Tue 05:10]
+:PROPERTIES:
+:EXPORT_FILE_NAME: 2022-07-05-Tuesday
+:EXPORT_HUGO_SLUG: 2022-07-05
+:END:
+
+I decided not to continue my [[https://feedbin.com/][Feedbin]] subscription. It has some nice features but [[https://netnewswire.com][NetNewsWire]] suits me just fine, for free.
+
+Remember when [[https://baty.net/2022/c-x-c-c/][I quit using Emacs]]? Now alluvasuddin I'm toying with the
+idea of going with a custom config again using [[https://github.com/systemcrafters/rational-emacs][Rational Emacs]]. Which is weird because one of the reasons I quit emacs was because I was tired of configuring things myself.
+
+*** DONE Sunday, July 03, 2022 :ATTACH:
+CLOSED: [2022-07-03 Sun 05:26]
+:PROPERTIES:
+:EXPORT_FILE_NAME: 2022-07-03-Sunday
+:EXPORT_HUGO_SLUG: 2022-07-03
+:END:
+
+Let's face it, I prefer {{{mark(writing in Org-mode)}}}.
+
+Thing is, I structure my system around {{{mark(tools that I'm interested in at the time)}}}. Since I'm always trying different tools, my systems change regularly and cannot be trusted 😀.
+
+I'm thinking about {{{mark(how far in I should go with)}}} [[https://www.thebrain.com][TheBrain]]. I'm convinced that, long-term, TheBrain is a good, possibly the /best/, solution for extended memory and notes. I can jump into any project, topic, or event and immediately see everything related to that "thought". And this isn't driven only via random linking. TheBrain's "Plex" is created entirely from deliberate linking. It's not a cool-but-nearly-useless explosion of linked notes (see Obsidian). But, it's an app and not a nice, safe, comfortable folder full of plain text files.
+
+Writing here feels like I'm {{{mark(standing on my porch quietly handing out pamphlets)}}}. This is better than social media which is more like me walking down the street yelling at everyone.
+
+Someone said "He's godless" in a conversation and I felt I had to remind them that {{{mark(everyone is godless)}}}. Some just pretend otherwise.
+
+"Backlinks"? More like "DistractionLinks" amirite?
+
+Look what I got today. My first fish! 👇
+
+
+#+attr_html: :width 800px
+#+attr_org: :width 800px
+[[file:~/sites/daily.baty.net/static/img/2022/20220703-clownfish.jpg]]
+
+*** DONE Saturday, July 02, 2022
+CLOSED: [2022-07-02 Sat 10:16]
+:PROPERTIES:
+:EXPORT_FILE_NAME: 2022-07-02-Saturday
+:EXPORT_HUGO_SLUG: 2022-07-02
+:END:
+
+#+begin_quote
+..  .the pressure to declare our feelings in public is turning us into gushing adolescents
+
+[[https://www.wsj.com/articles/the-age-of-emotional-overstatement-11654874678?st=hc4viy2l1nbbfwy&reflink=desktopwebshare_permalink][The Age of Emotional Overstatement - WSJ]]
+#+end_quote
+
+*** DONE Friday, July 01, 2022
+CLOSED: [2022-07-01 Fri 14:44]
+:PROPERTIES:
+:EXPORT_FILE_NAME: 2022-07-01-Friday
+:EXPORT_HUGO_SLUG: 2022-07-01
+:END:
+
+I miss Emacs already. Don't tell [[https://baty.net/2022/c-x-c-c/][myself from three days ago]].
+
+** June 2022
+
+*** DONE Friday, June 24, 2022
+CLOSED: [2022-06-24 Fri 11:12]
+:PROPERTIES:
+:EXPORT_FILE_NAME: 2022-06-24-Friday
+:EXPORT_HUGO_SLUG: 2022-06-24
+:END:
+
+In what will come as no surprise to anyone, I am considering {{{mark(moving daily notes back here to daily.baty.net)}}}. Why? Fair question. This time it's because I'm starting to feel like the theme at [[https://baty.net][baty.net]] has become a bit convoluted and therefore fragile due to trying so hard to integrate daily posts with "regular" posts. I get bored and may want to switch up my theme. This would be too much work with the current integrated theme. I'm uncomfortable having to /depend/ on everything being integrated. What if I stopped posting daily notes altogether. That would take some effort to change or it would look stupid. On the other hand, maybe I should just wait and see if any of those what-ifs pan out.
+
+The {{{mark(bad guys keep winning)}}}. How are we letting this happen over and over?
+
+
+*** DONE Thursday, June 09, 2022
+CLOSED: [2022-06-09 Thu 09:12]
+:PROPERTIES:
+:EXPORT_FILE_NAME: 2022-06-09-Thursday
+:EXPORT_HUGO_SLUG: 2022-06-09
+:END:
+
+You're not going to believe this, but you're totally going to believe this: [[https://baty.net/][baty.net]] is once again running Hugo and therefore my daily posts are going there, too.
+
+*** DONE Wednesday, June 08, 2022
+CLOSED: [2022-06-08 Wed 04:43]
+:PROPERTIES:
+:EXPORT_FILE_NAME: 2022-06-08-Wednesday
+:EXPORT_HUGO_SLUG: 2022-06-08
+:END:
+☀️   Clear +57°F
+
+Up all night with an uncomfortable dog. Lots going on today.
+
+There has to be a better way to {{{mark(search my org-roam files)}}}. Using counsel-ripgrep or whatever is fast but the output is seriously difficult to scan/read. This is one of the things that pushes me away from using Emacs for notes.
+
+#+begin_quote
+And yet, in so much modern software today, you’re placed in a drab gray cubicle — anonymized and aggregated until you’re just a /daily active user/.
+
+[[https://browsercompany.substack.com/p/optimizing-for-feelings?s=r][Optimizing For Feelings]]
+#+end_quote
+
+Neat, I had a small patch accepted for [[https://protesilaos.com/emacs/denote][Denote (denote.el) | Protesilaos Stavrou]]
+
+Why are iPad apologists so angry all the time?
+
+[[https://www.yayzen.com/][Zen posture]] is a bandaid trying to hide the shattered life I live sitting at a computer all day.
+
+
+*** DONE Tuesday, June 07, 2022
+CLOSED: [2022-06-07 Tue 05:35]
+:PROPERTIES:
+:EXPORT_FILE_NAME: 2022-06-07-Tuesday
+:EXPORT_HUGO_SLUG: 2022-06-07
+:END:
+🌦   Light rain, mist +63°F
+
+I bought a {{{mark(reef tank)}}} this week. I've always admired salt-water aquariums and wondered what it would be like to keep one. I'm about to find out. I'm already learning that I have a shit-ton to learn. One of those things is patience.
+
+Publicly {{{mark(posting every passing thought)}}} is unnecessary and uncalled for, but I can't seem to stop. At least I'm not spamming everyone's Twitter feed with them.
+
+#+attr_html: :class imgRightMargin
+[[file:/img/2022/20220607-BtI.png]]
+
+Late last year I created a {{{mark(folder on my Mac's desktop)}}} named "Beyond the Infinite". It's for dumping all the various detritus I collect on the desktop and don't know what else to do with. It's become a minor treasure. It's like a journal of things that barely matter at the time, but become valuable later. Screenshots, text snippets, URLs, etc. I love it.
+
+Prot is on a roll...
+
+#+begin_quote
+Denote is a simple note-taking tool. It is based on the idea that notes should follow a predictable and descriptive file-naming scheme. The file name must offer a clear indication of what the note is about, without reference to any other metadata. Denote basically streamlines the creation of such files.
+
+[[https://protesilaos.com/codelog/2022-06-07-denote-introduction/][Emacs: introduction to Denote (simple note-taking) | Protesilaos Stavrou]]
+#+end_quote
+
+*6:00am:* "Plain text is The Way!" \\
+*7:30am:* "Plain text is unnecessarily limiting and living there is wasted opportunity!" \\
+*5:00pm:* "It happened again today, didn't it?"
+
+*** DONE Sunday, June 05, 2022
+CLOSED: [2022-06-05 Sun 05:24]
+:PROPERTIES:
+:EXPORT_FILE_NAME: 2022-06-05-Sunday
+:EXPORT_HUGO_SLUG: 2022-06-05
+:END:
+🌦   Light rain +57°F
+
+I love "Ted Lasso" and I love Roy Kent. I also feel the same way about watching horrible things happening to people in my "entertainment". I approve of the {{{mark(trend of "Nice TV")}}} that Brett is contributing to.
+
+#+begin_quote
+"I do think there is so much stuff put out into the world on the internet and in art that tells you the world is bad. And the world might be bad — but the majority of people are not. Also, the older I get, the less horrible shit I want to see. I hate seeing people get hurt"
+
+Brett Goldstein (aka Roy Kent), [[https://www.thetimes.co.uk/article/ted-lassos-brett-goldstein-im-a-20-year-overnight-success-t9hvzpq2p][The Sunday Times]]
+#+end_quote
+
+
+Asking about the "business model" is one way to signal that you don't know much about business.
+
+What if I just closed all my browser tabs? What if I quit the browser altogether? Hell, what if I {{{mark(stepped away from the computer)}}} for more than 10 minutes?
+
+And what if I {{{mark(stopped doing this)}}} in public all the time? Would it not be more productive and healthy to simply journal privately? Maybe I should just be quiet for a while.
+
+*** DONE Saturday, June 04, 2022 :ATTACH:
+CLOSED: [2022-06-04 Sat 04:44]
+:PROPERTIES:
+:EXPORT_FILE_NAME: 2022-06-04-Saturday
+:EXPORT_HUGO_SLUG: 2022-06-04
+:END:
+☀️   Clear +51°F
+
+Yesterday, I {{{mark(posted on every site I have)}}}, just to remind myself what was what. Every site except this one, that is. See, this site is sort of hardwired at this point to require Emacs and Org mode for easy posting. There are times that I try to quit using Emacs for some reason. When that happens I stop posting my daily notes here and move to the wiki or Roam or wherever. Then, after a week or a month, I come to my senses and get back into Emacs. Of course then I want to do /everything/ in Emacs and here we are.
+
+The damn {{{mark(iPad ruins everything)}}}. For example, I finally got [[https://espanso.org][Espanso]] all configured and working perfectly for text expansion on my Mac. Espanso is powerful and free and runs on Mac and Linux (just in case). But of course it doesn't work on iOS, so I had to restart my [[https://textexpander.com][TextExpander]] subscription and change everything to accomodate the iPad. I'm a little pissed about this, but while re-subscribing I found that I have a "lifetime" discount subscription which only ends up costing me around $1.50/month. TextExpander is good and super easy to use so I'm going to be fine.
+
+Well [[https://blog.iconfactory.com/2022/06/worldwideweb-part-2/][this is cool]]...
+
+#+attr_html: :width 800px
+#+attr_org: :width 800px
+[[attachment:_20220604_05550520220604-WorldWideWeb.png]]
+
+I've added a [[/calendar/][Post Calendar]] to the site. (Thanks to [[https://gohugohq.com/partials/activity-calendar-posts/][Activity Calendar Partial]] and [[https://yueyvettehao.netlify.app/post/2020-05-07-activitycalendar/#add-the-calendar-to-the-frontpage][How to add a calendar to Hugo website]].)
+
+** April 2022
+
+*** DONE Saturday, April  9, 2022
+CLOSED: [2022-04-09 Sat 05:12]
+:PROPERTIES:
+:EXPORT_FILE_NAME: 2022-04-09-Saturday
+:EXPORT_HUGO_SLUG: 2022-04-09
+:END:
+⛅️  Partly cloudy +30°F
+
+I'm testing the idea of rolling these daily posts into my main blog at [[https://baty.net][baty.net.]]
+
+
+*** DONE Friday, April  8, 2022
+CLOSED: [2022-04-08 Fri 05:30]
+:PROPERTIES:
+:EXPORT_FILE_NAME: 2022-04-08-Friday
+:EXPORT_HUGO_SLUG: 2022-04-08
+:END:
+🌦   Light rain +37°F
+
+Severence is the best thing on TV.
+
+I should take a closer look at [[https://sr.ht/][sourcehut]]
+
+Trying [[https://github.com/jimeh/emacs-builds][jimeh/emacs-builds: Self-contained Emacs.app builds for macOS, with native-compilation support in nightly builds.]] Rather than the emacs-mac package. *UPDATE* Nope, doesn't work yet on M1 Macs.
+
+
+
+*** DONE Thursday, April  7, 2022
+CLOSED: [2022-04-07 Thu 06:31]
+:PROPERTIES:
+:EXPORT_FILE_NAME: 2022-04-07-Thursday
+:EXPORT_HUGO_SLUG: 2022-04-07
+:END:
+☁️   Overcast +44°F
+
+I {{{mark(deleted PhotoPrism from the Synology)}}}. It was chewing up all my (4GB) of RAM and generally causing things to misbehave. I suppose Synology Photos will have to do for now.
+
+I still don't know the {{{mark(difference between my "Daybook" and "Journal")}}}. I know
+what I /think/ the difference is, but I get lost in the grey area in the middle. I suppose the Daybook is for things I want to show up in the Agenda on that day. Things for which the date is important.
+
+#+caption: My dad is back from Florida
+#+attr_html: :width 800px
+#+attr_org: :width 800px
+[[attachment:_20220407_063522Dad.jpg]]
+
+
+I {{{mark(made some prints)}}} this morning. I am trying to make at least one or two 5x7" prints from each roll (in addition to a contact sheet). I'm not fussy about it. I guess at exposure time and print. I only re-print if my guess was horribly wrong. Otherwise, they're good enough. Anything "special" gets the real treatment by printing an 8x10" print on fiber paper.
+
+#+attr_html: :width 800px
+#+attr_org: :width 800px
+[[attachment:_20220407_10590620220407-Q1000426.jpg]]
+
+
+I added [[https://plausible.io/][Plausible]] analytics to [[https://jack.micro.blog][jack.micro.blog]], [[https://baty.net][baty.net]], and [[https://daily.baty.net][daily.baty.net]]. I'm already generating reports using GoAccess for my self-hosted sites, but it's hard to parse what's a real "visit" through all that noise. Plausible is great, cheap, and doesn't track anything other than hits, so it's pretty privacy-safe.
+
+Upgraded Emacs to 28.1. [[https://www.masteringemacs.org/article/whats-new-in-emacs-28-1][Here's a nice summary of changes]].
+
+*** DONE Wednesday, April  6, 2022
+CLOSED: [2022-04-06 Wed 05:05]
+:PROPERTIES:
+:EXPORT_FILE_NAME: 2022-04-06-Wednesday
+:EXPORT_HUGO_SLUG: 2022-04-06
+:END:
+🌫  Haze +47°F
+
+Today, I shall {{{mark(improve something)}}}. It doesn't matter what that something is.
+
+I am considering some form of {{{mark(internet hiatus)}}}. Social media, mainly. We all suspect it's not healthy, but I'm still addicted and feel like a break would do me good. Can I manage to only post on the blogs and only read my (fairly limited) set of RSS feeds? Is that enough?
+
+How many of the super-cool things I can do with Org mode are actually useful and not just super-cool things that I think are super-cool?
+
+I wonder if this is related to the USB ports not working on my LG display? [[https://www.macrumors.com/2022/03/24/external-display-issues-reported-macos-12-3/][Users Report External Monitor Issues After Updating to macOS Monterey 12.3 - MacRumors]]. I don't think so. I unplugged the monitor and plugged it back in and it all works again :).
+
+[[https://www.mowglii.com/itsycal/][Mowglii - Itsycal for Mac]] - Tiny menu bar calendar. Similar to [[https://sindresorhus.com/dato][Dato]]
+
+Great, I thought I'd try {{{mark(PhotoPrism on the Synology)}}} so I installed it, pointed it at a few thousand photos, and now it took down the whole synology by chewing through all its memory. Nice.
+
+*** DONE Tuesday, April  5, 2022
+CLOSED: [2022-04-05 Tue 04:28]
+:PROPERTIES:
+:EXPORT_FILE_NAME: 2022-04-05-Tuesday
+:EXPORT_HUGO_SLUG: 2022-04-05
+:END:
+🌫  Mist +39°F
+
+Good morning. It's 4:25 am and I should probably be doing something useful today, but so far it doesn't look like that's going to happen.
+
+So, I replaced [[https://baty.net][baty.net]] with a {{{mark(Hugo-based version)}}} of the blog. All the content from the WordPress site has been migrated. Well, /most/ of it. Some formatting got all blowed up. This is why I swore I'd never do it again, but here we are. I just got tired of pushing up against all the /stuff/ that is WordPress. *(18 hours later)* . I just switched DNS back and forth twice today. I honestly don't know which site I want to use.
+
+Ordered: [[https://joemcnally.com/2022/04/04/the-real-deal-the-good-the-bad-and-the-beautiful-of-a-life-behind-the-camera/][The Real Deal: The Good, The Bad and the Beautiful of a Life Behind the Camera « Joe McNally Photography]]
+
+Tried [[https://www.obdev.at/products/launchbar/index.html][LaunchBar 6]] for a minute, just to see what was up, as it's been years. Nah, back to [[https://www.raycast.com][Raycast]].
+
+[[https://replay.software/sleeve][Sleeve — Now playing on your Desktop]]
+
+Fixed the issue with [[https://notes.baty.net/notes/possible-workaround-for-ox-hugo-error-during-exports/][ox-hugo failing to export subtrees]] if the file has org-roam links in it.
+
+I don't need a "better" terminal but [[https://www.warp.dev/blog/introducing-warp][Introducing Warp: The Terminal for the 21st Century | Warp]]
+
+*** DONE Monday, April  4, 2022
+CLOSED: [2022-04-04 Mon 04:39]
+:PROPERTIES:
+:EXPORT_FILE_NAME: 2022-04-04-Monday
+:EXPORT_HUGO_SLUG: 2022-04-04
+:EXPORT_DESCRIPTION:
+:EXPORT_DATE:
+:END:
+☁️   Overcast +40°F
+
+I'm feeling the {{{mark(weight of WordPress)}}} pushing against the inconvenience of maintaining a static blog. The past couple of days, I have found myself happier dealing with the inconvenience. So, I've rebuilt all of baty.net using Hugo. Content has been imported and it's ready to go. All I need to do is sync it up to a virtual host on my VPS and update the DNS. But, I'm going to sit on this a bit to see how I feel. I'd hate for it to just have been my mood this morning.
+
+I read the headlines from the Grammys and didn't recognize any of the performers mentioned. I'm old and I guess I can officially stop caring about the Grammys.
+
+*** DONE Sunday, April  3, 2022
+CLOSED: [2022-04-03 Sun 05:32]
+:PROPERTIES:
+:EXPORT_FILE_NAME: 2022-04-03-Sunday
+:EXPORT_HUGO_SLUG: 2022-04-03
+:EXPORT_DESCRIPTION:
+:EXPORT_DATE:
+:END:
+🌫  Mist +34°F
+
+#+begin_quote
+the days of usenet, irc, the web...even email (w PGP)...were amazing. centralizing discovery and identity into corporations really damaged the internet.
+
+I realize I'm partially to blame, and regret it.
+
+[[https://twitter.com/jack/status/1510314535671922689][Jack Dorsey]]
+#+end_quote
+
+I'm feeling the {{{mark(need for convenience today)}}}. Also feeling very pointy-clicky. This doesn't bode well for my current setup. It'll pass.
+
+If I were to be described as a "{{{mark(Man of letters)}}}" after I'm gone, I would consider my life to have been a success. I wonder why I've not done anything in support of that.
+
+"...takes the biscuit" is a phrase I'm definitely going to be using more.
+
+*** DONE Saturday, April  2, 2022
+CLOSED: [2022-04-02 Sat 06:29]
+:PROPERTIES:
+:EXPORT_FILE_NAME: 2022-04-02-Saturday
+:EXPORT_HUGO_SLUG: 2022-04-02
+:EXPORT_DESCRIPTION:
+:EXPORT_DATE:
+:END:
+☀️   Clear +24°F
+
+I just need to remind anyone using Org mode and Hugo that [[https://ox-hugo.scripter.co/][ox-hugo - Org to Hugo exporter]] is the absolute bee's knees.
+
+There's something I'm eating that doesn't agree with me. Probably ice cream. My {{{mark(stomach is a mess)}}} this morning.
+
+I want to make one of these [[http://penkesu.computer/][Penkesu Computer - A Homebrew Retro-style Handheld PC | penkesu]]
+
+*** DONE Friday, April  1, 2022
+CLOSED: [2022-04-01 Fri 05:55]
+:PROPERTIES:
+:EXPORT_FILE_NAME: 2022-04-01-Friday
+:EXPORT_HUGO_SLUG: 2022-04-01
+:EXPORT_DESCRIPTION:
+:EXPORT_DATE:
+:END:
+☁️   Overcast +32°F
+
+I just happened to already be in Emacs so I thought I'd {{{mark(write here for a spell)}}}. It's no joke 😉. Which reminds me that today is the best day to stay off the internet.
+
+#+attr_html: :class imgRightMargin
+[[/img/small/org-roam.png]]
+
+I've been publishing a few of the notes from my Org-roam database over at [[https://notes.baty.net][notes.baty.net]] just in case they might be useful to someone somewhere. I also like to browse them as decent-looking (read-only) HTML files instead of from within Emacs all the time. I'm using a version of the same "CodeIt" theme I used to use for baty.net. Ideally I'd list the categories on the home page rather than a list of recent posts, but Hugo's templating system is completely unfathomable to me so I'm leaving it alone for now. Another thing I'm doing "wrong" is putting the theme's git repo right in the themes folder. No submodules, no hugo modules. I'm just editing in place. Hell, I might just stop keeping it as a separate repo :).
+
+After I don't even know how many years, I've {{{mark(canceled my Dropbox account)}}}
+
+I thought I'd lost my {{{mark(entire archive of posts)}}} from the [[https://archive.baty.net][original baty.net]]  but accidentally ran into it [[https://github.com/jackbaty/archive.baty.net][on Github]] yesterday. Whew!
+
+#+attr_html: :class imgRightMargin
+[[/img/small/leica.png]]
+
+Don't tell anyone, but I'm thinking about {{{mark(selling the M10-R)}}} again. That would put me at a 4-month period of buying and selling two of them. I just can't get over feeling guilty about having so much money tied up in a camera that I'm hardly using. It worries me that something could go wrong with it or it would get broken or stolen and I'd be out all that money. I don't like feeling this way. Still noodling on it.
+
+#+begin_quote
+You’re you, and your pictures are yours, and what you bring to a photograph is not separate from it.
+
+[[https://www.newyorker.com/culture/culture-desk/your-camera-roll-contains-a-masterpiece][Your Camera Roll Contains a Masterpiece | The New Yorker]]
+#+end_quote
+
+
+[[https://maccy.app/][Maccy - macOS clipboard manager]]
+
+🌫  Mist +39°F
+
+** March  2022
+*** DONE Friday, March 25, 2022
+CLOSED: [2022-03-25 Fri 04:14]
+:PROPERTIES:
+:EXPORT_FILE_NAME: 2022-03-25-Friday
+:EXPORT_HUGO_SLUG: 2022-03-25
+:EXPORT_DESCRIPTION:
+:EXPORT_DATE:
+:END:
+🌨  Light snow +34°F
+
+So far this morning I've written notes in Emacs, Roam, TiddlyWiki, and Logseq. JFC what's wrong with me? This is after spending a good part of the last few days dialing in my Emacs config for capturing, writing, publishing, etc. UWYH (Use What You Have), remember? I do, but I /have/ everything.
+
+*** DONE Thursday, March 24, 2022
+CLOSED: [2022-03-24 Thu 05:35]
+:PROPERTIES:
+:EXPORT_FILE_NAME: 2022-03-24-Thursday
+:EXPORT_HUGO_SLUG: 2022-03-24
+:EXPORT_DESCRIPTION:
+:EXPORT_DATE:
+:END:
+
+☁️   Overcast +47°F
+
+All of our smoke detectors started chirping at the same time last night. No smoke or fire. After an hour of walking around with that ear-piercing shrill, we noticed water coming out of one of the detectors in the basement. The one directly below the kitchen sink. {{{mark(Leaky garbage disposal)}}}. I removed the detector, which had shorted out (causing the ruckus). Turned off the water supply to the sink, and went to bed. Today is garbage disposal replacement day.
+
+The conflict for me happens when I can't decide if it matters to me {{{mark(how things are done)}}}. For example, film photographs mean more to me than digital photographs, so I tend to prefer using film because of /how/ the photos are made. Otherwise, digital gets the job done and is 1,000% easier. Similarly, using Emacs for notes and tasks and blogging is, for me, the correct way to handle things. Plain text, consistent environment, free and open source. On the other hand, using Things and DEVONthink and WordPress sure is pretty and easy.
+
+I {{{mark(updated this site's RSS feed)}}} to only include type "post". By default everything is included and this meant things like the About page were in the RSS feed.
+
+I used to love programming and computers because I could make them /do/ things. I still probably could, but I no longer know what I want them to do.
+*** DONE Wednesday, March 23, 2022
+CLOSED: [2022-03-23 Wed 20:29]
+:PROPERTIES:
+:EXPORT_FILE_NAME: 2022-03-23-Wednesday
+:EXPORT_HUGO_SLUG: 2022-03-23
+:EXPORT_DESCRIPTION:
+:EXPORT_DATE:
+:END:
+
+My tendency to write daily posts {{{mark(here vs the wiki)}}} is tied to how deep I am into Emacs at the moment. Right now... that's /very deep/.
+
+
+I've spent hours configuring my [[https://www.orgroam.com][Org-roam]] setup so I can {{{mark(publish certain notes as a website)}}}. It's so cool, but in the end I'm not sure it offers clear advantages over the wiki other than that I can make some of my roam notes public without needing to rewrite them in TiddlyWiki. WIP is here: notes.baty.net. *Later*: now I've realized that I can simply add some [[https://ox-hugo.scripter.co][ox-hugo]] metadata to any of my Org files and have them publish to this daily notes blog. Like so...
+
+#+begin_src org
+#+hugo_base_dir: ~/sites/daily.baty.net/
+#+hugo_section: ./notes/
+#+end_src
+
+Now what!?
+
+#+caption: Me, at least once a month
+#+attr_html: :width 800px
+#+attr_org: :width 800px
+[[attachment:20220323-blog-meme.jpg]]
+
+Apparently I have too much time on my hands.
+
+I went into the darkroom to test a new safelight bulb and made a handful of 5x7 prints while I was in there. I love real photos. {{{mark(The decision to print a photo)}}} automatically makes that photo special.
+
+
+#+attr_html: :width 800px
+#+attr_org: :width 800px
+[[attachment:20220323-20220323-R0002099.jpg]]
+
+Ordered a book:  [[https://bookshop.org/books/no-one-is-talking-about-this/9780593189580][No One Is Talking about This - a book by Patricia Lockwood]]
+
+"Computational Photography" can fuck right off.
+
+*** DONE Monday, March 7, 2022
+CLOSED: [2022-03-07 Mon 05:09]
+:PROPERTIES:
+:EXPORT_FILE_NAME: 2022-03-07-Monday
+:EXPORT_HUGO_SLUG: 2022-03-07
+:EXPORT_DESCRIPTION:
+:EXPORT_DATE:
+:END:
+☁️   Overcast +35°F
+
+Writing in Emacs is great. Static websites are great. Using Emacs to manage and deal with content for a static website exhausts me eventually. Doesn't bode well for this site, although it's probably just my mood today.
+
+I follow [[https://flickr.com/photos/32681588@N03/][Matt Osbourne]] (aka Mr. Leica) on Flickr because he plays with just about every combination of lens and camera you could think of. Also, the lovely models don't hurt. Thing is, with all the fuss about camera/lens combinations, all {{{mark(the images look basically the same)}}}. The biggest difference is film vs digital but otherwise I'd be hard-pressed to tell one from the other.
+
+You can see below that I'm experimenting with {{{mark(subheadings within daily posts)}}}. This is for things that are more than one paragraph of text or text and images. There's a way to copy a link to the heading, but it only makes sense on an individual day's page. Not sure if I'll find it useful, but let's try it.
+
+#+begin_export html
+<blockquote class="quoteback" darkmode="" data-title="Stop making the Ukraine war about you" data-author="Dazed" cite="https://www.dazeddigital.com/politics/article/55563/1/stop-making-the-ukraine-war-about-you?utm_source=densediscovery&utm_medium=email&utm_campaign=newsletter-issue-178">
+You’re not suffering from ‘vicarious trauma’, you’re tweeting in your living room
+<footer>Dazed<cite> <a href="https://www.dazeddigital.com/politics/article/55563/1/stop-making-the-ukraine-war-about-you?utm_source=densediscovery&utm_medium=email&utm_campaign=newsletter-issue-178">https://www.dazeddigital.com/politics/article/55563/1/stop-making-the-ukraine-war-about-you?utm_source=densediscovery&utm_medium=email&utm_campaign=newsletter-issue-178</a></cite></footer>
+</blockquote><script note="" src="https://cdn.jsdelivr.net/gh/Blogger-Peer-Review/quotebacks@1/quoteback.js"></script>
+#+end_export
+
+**** Silver gelatin fiber prints
+I'm not sure {{{mark(darkroom printing on fiber paper)}}} is worth the trouble. I love the way fiber prints look and feel, but they take twice as long to develop and an hour to wash, then this happens when they dry.
+
+[[/img/2022/20220307-CurledPrint.jpeg]]
+
+*** DONE Sunday, March 6, 2022
+CLOSED: [2022-03-06 Sun 05:08]
+:PROPERTIES:
+:EXPORT_FILE_NAME: 2022-03-06-Sunday
+:EXPORT_HUGO_SLUG: 2022-03-06
+:EXPORT_DESCRIPTION:
+:EXPORT_DATE:
+:END:
+🌦   Light rain +54°F
+
+WordPress is fine. Medium is fine. Facebook is fine. Twitter is fine. Mastodon is fine. Your self-hosted static-HTML website is fine. Instagram is fine. A typewriter in your basement is fine. {{{mark(Write wherever you feel like writing)}}}. Me? I like writing everywhere. Today, I'm here. Or perhaps more precisely, /this morning/, I'm here.
+
+There's nothing like {{{mark(an open Emacs frame)}}} narrowed to today's post here. I write, save, export, and done. Repeat as needed throughout the day.
+
+One day, if I'm lucky, I'll be busy actually /doing something/ and won't have time to write here all day.
+
+*** DONE Saturday, March 5, 2022
+CLOSED: [2022-03-05 Sat 05:54]
+:PROPERTIES:
+:EXPORT_FILE_NAME: 2022-03-05-Saturday
+:EXPORT_HUGO_SLUG: 2022-03-05
+:EXPORT_DESCRIPTION:
+:EXPORT_DATE:
+:END:
+
+
+☀️   Clear +33°F
+
+I fire up a new post every morning, either here or on the wiki (often in both places) and add to it (them) throughout the day. I don't really know why. It's as if I'm worried that {{{mark(I'll no longer exist)}}} if I stop publishing every passing thought.
+
+*** DONE Friday, March 4, 2022
+CLOSED: [2022-03-04 Fri 06:30]
+:PROPERTIES:
+:EXPORT_FILE_NAME: 2022-03-04-Friday
+:EXPORT_HUGO_SLUG: 2022-03-04
+:EXPORT_DESCRIPTION:
+:EXPORT_DATE:
+:END:
+☀️   Clear +16°F
+
+I spent the morning {{{mark(reassembling the turret)}}} on the [[https://wiki.baty.net/#Leitz%20Focomat%20IIc][Focomat IIc]], then attempting to print from 6x6 negatives. It's possible, but far from ideal. The head needs to be too close to the base, making for very short exposures. I'm also struggling with the autofocus mechanism, but that's probably just me. I think I'll hold off on 6x6 printing until I have the 100mm lens issue solved for real.
+
+This makes me want to take another swing at Standard Notes: [[https://blog.standardnotes.com/33178/why-so-many-editors][Why so many editors? | Crafting Privacy]]
+
+*** DONE Thursday, March 3, 2022
+CLOSED: [2022-03-03 Thu 05:24]
+:PROPERTIES:
+:EXPORT_FILE_NAME: 2022-03-03-Thursday
+:EXPORT_HUGO_SLUG: 2022-03-03
+:EXPORT_DESCRIPTION:
+:EXPORT_DATE:
+:END:
+☀️   Clear +20°F
+
+The fact that I often cannot tell the {{{mark(difference between someone being smart)}}} and someone trying to sound smart gives you an idea of how smart I am.
+
+I'm now running both [[https://alfredapp.com][Alfred]] and [[https://www.raycast.com][Raycast]] at the same time. I'm using Raycast for launching, clipboards, etc. and keeping Alfred running for a couple of workflows and "Universal Actions". Why not? Although I may decide to reverse their roles at some point.
+
+*Monday*: Ima use TiddlyWiki for everything! \\
+*Tuesday*: Logseq! I need to put everything into Logseq! \\
+*Wednesday*: What was I thinking? Emacs is life! \\
+*Thursday*: ???
+
+One nice feature of using Hugo for this site is that I {{{mark(haven't felt a need to futz with it)}}} in a while. I just write, save, and type "make deploy".
+
+I love having a big screen, but {{{mark(hate managing windows)}}}. I can't help but be distracted by background windows so I either fart around moving things to spaces or I hide them. As a test, I'm trying Hazeover ([[https://hazeover.com/][HazeOver: Distraction Dimmer™ for Productivity on Mac]]) to see if just auto-dimming the unfocused windows will help. Otherwise, I unplug the laptop and use the smaller screen and it's often a relief.
+
+I find myself {{{mark(withdrawing)}}} at a time when I should be participating.
+
+{{{mark(Painting with John)}}} is a dumb, silly little miracle of a show and it's still my favorite thing.
+
+I love this blog and [[https://wiki.baty.net][wiki.baty.net]] equally.
+
+Looking at my baty.net stats. Is this what they mean by "trending"?
+
+[[/img/2022/20220303-trending.png]]
+
+You can't make fun of me if I'm not trying.
+
+Fountain pens > Pencils. But not by as much as I thought.
+
+I think we should all go back to {{{mark(Tumblr and Flickr)}}}. Who's with me!?
+
+I see they've [[https://world.hey.com/dhh/no-railsconf-faa7935e][kicked DHH off the Railsconf keynote this year.]] Part of me thinks they should have, because he's being not just being normally dickish, he's been loudly and repeatedly wrong about so many things recently. On the other hand, let him talk about Rails. Good grief, he still basically /is/ Rails. I think he's wrong, not dangerous, sheesh. There's a difference.
+*** DONE Wednesday, March 2, 2022
+CLOSED: [2022-03-02 Wed 07:12]
+:PROPERTIES:
+:EXPORT_FILE_NAME: 2022-03-02-Wednesday
+:EXPORT_HUGO_SLUG: 2022-03-02
+:EXPORT_DESCRIPTION:
+:EXPORT_DATE:
+:END:
+☀️   Clear +22°F
+
+"Book of Boba Fett" is terrible. He should've been left as a cool, mysterious background character.
+
+It seems I've settled on [[https://wiki.baty.net][wiki.baty.net]] as the wiki domain. "rl.baty.net" still works, but is discouraged.
+
+Derek Sivers says [[https://sive.rs/plaintext][Write plain text files]] and I mostly agree with him. Except if the plain text format makes what you're actually doing more difficult, then don't. I'd rather have a {{{mark(useful document now)}}} even if there's a chance that one day, maybe, possibly, it could become unreadable. Future-proof-but-shitty is not my first choice.
+
+I've modified things so that the home page {{{mark(shows the past 30 days)}}} rather than 7. Since there's no search here yet, I figure CMD-f will let you search the past month. If it's older than that, it's probably no longer valid anyway 😆.
+
+I've {{{mark(removed Disqus comments)}}} from this site. No reason other than it's overhead I don't need and I rarely see any comments anyway. Whatzamatta with you people?! Send me an email or something, sheesh.
+
+I don't usually panic when some random company I use is acquired but goddammit! [[https://blog.bandcamp.com/2022/03/02/bandcamp-is-joining-epic/][Bandcamp is Joining Epic Games – Bandcamp Updates]]. How can that be good? Tell me it can be good. Please?!
+
+It occurs to me that {{{mark(we didn't name web1 and web2 ahead of time)}}}. We just labeled them that later. Now we're inventing web3 and trying to make everything into that. It's a bad idea from the start.
+
+Speaking of Web3, there's now [[https://blogchain.app/home][Blogchain.app]]. I read [[https://blogchain.app/post/bafyreig4eykbszu3czz7crfcqm5saavgqhoaqrgqhsoh5qjeqhz5xg7rc4][How Blogchain is different by capsule on Blogchain]] and I don't see how it's meaningfully better or solves actual problems in any unique way. It's what, WordPress with backups and a social element? Big whoop.
+
+I don't want to waste time watching a movie that I don't like but I have {{{mark(no problem just browsing the trailers for an hour)}}} and never watching anything
+
+[[https://simonwillison.net][Simon]] is right: [[https://news.ycombinator.com/item?id=30533473][Don't default to building an SPA]]
+
+*** DONE Tuesday, March 1, 2022
+CLOSED: [2022-03-01 Tue 04:24]
+:PROPERTIES:
+:EXPORT_FILE_NAME: 2022-03-01-Tuesday
+:EXPORT_HUGO_SLUG: 2022-03-01
+:EXPORT_DESCRIPTION:
+:EXPORT_DATE:
+:END:
+
+Hooboy, it's March.
+
+Looking at the server analytics (I use [[https://goaccess.io/][GoAccess - Visual Web Log Analyzer]]) for this site shows that a large majority of "hits" are to the RSS feed. This makes me feel a little bad about posting so much over on [[https://wiki.baty.net][the wiki]]. I know I keep saying that my daily notes are "for me" but that guilt I feel makes me think otherwise.
+
+Oh cool, I posted on [[https://jackbaty.tumblr.com][my Tumblr]] this morning.
+
+I put a roll through the IIIC. It was fun. It's a nice lens.
+#+caption: Self-portrait with Retina IIIC
+[[/img/2022/2022-Roll-59_04.jpg]]
+
+My subscription to [[https://www.reidreviews.com][Reid Reviews]] has expired. I'm off subscriptions right now so I'm not going to renew yet. It's a great resource, but focuses so much on the micro-differences between lenses and sensors and I'm not really interested in that lately.
+
+Am I thinking about Ukraine? Of course I'm thinking about Ukraine. I'm terrified.
+
+I am, slowly but surely, becoming bored. Not having a job is great, but I'll need to feel useful eventually.
+
+** February 2022
+*** DONE Monday, February 28, 2022
+CLOSED: [2022-02-28 Mon 04:42]
+:PROPERTIES:
+:EXPORT_FILE_NAME: 2022-02-28-Monday
+:EXPORT_HUGO_SLUG: 2022-02-28
+:EXPORT_DESCRIPTION:
+:EXPORT_DATE:
+:END:
+☀️   Clear +22°F
+
+Good morning. Today should be "finish taxes day" but I hate doing taxes so it
+may be another "find a new place to blog" and "read about cameras" day.
+
+*** DONE Sunday, February 27, 2022
+CLOSED: [2022-02-27 Sun 04:06]
+:PROPERTIES:
+:EXPORT_FILE_NAME: 2022-02-27-Sunday
+:EXPORT_HUGO_SLUG: 2022-02-27
+:EXPORT_DESCRIPTION:
+:EXPORT_DATE:
+:END:
+☀️   Clear +30°F
+
+Good morning. It's 4:03 am and I'm already at my desk. Why?
+
+Something {{{mark(cool about Emacs)}}} that I tend to forget about is putting code right in my notes and executing it from there. I don't have to remember commands or switches, because they're right there. I just hit C-c C-c and the command's output is rendered right in the file .
+
+I wrote a post about the new IIIC: [[https://baty.net/2022/the-kodak-retina-iiic/][The Kodak Retina IIIC – Jack Baty]]
+#+caption: My new 1959 Kodak Retina IIIC
+[[/img/2022/20220226-Q1000367.jpg]]
+
+*** DONE Saturday, February 26, 2022
+CLOSED: [2022-02-26 Sat 05:46]
+:PROPERTIES:
+:EXPORT_FILE_NAME: 2022-02-26-Saturday
+:EXPORT_HUGO_SLUG: 2022-02-26
+:EXPORT_DESCRIPTION:
+:EXPORT_DATE:
+:END:
+
+☁️   Overcast +22°F
+
+It's cool that I [[https://baty.net/2022/domain-consolidation-continued/][consolidated a bunch of blogs]] and reorganized my domain names. That meant I could be down to just a couple (few?) sites. Except I don't enjoy writing in TiddlyWiki nearly as much as I do in Emacs. And this blog looks a lot better than [[https://rl.baty.net][the wiki]], so I switched. More in [[https://baty.net/2022/the-daily-notes-dilemma/][this post]] .
+
+#+caption: My favorite drink: The "Ultimate Margharita"
+[[/img/2022/20220225-Q1000357.jpg]]
+
+I'm going to try setting up the [[https://rl.baty.net/#Leitz%20Focomat%20IIc][Focomat IIc]] today. It's been in storage for a couple of years. I never did get the longer lens mounted properly, so it's 35mm only for now. I'm hoping I can fit both the IIc and the V35 in at the same time. I'd like to do some side-by-side (condensor vs diffusor head) comparisons. And then eventually figure out the problem with the longer lens so I can also make prints from the Hasselblad (6x6) negatives.
+
+This looks nice for timelines: [[https://github.com/kochrt/cascade.page][kochrt/cascade.page: Make a cascading timeline from markdown-like text.]]
+
+Half-way into the season and I sti  ll don't give a shit about Boba Fett. It's cool seeing Tatooine, though.
+
+*** DONE Monday, February 14, 2022
+CLOSED: [2022-02-14 Mon 09:37]
+:PROPERTIES:
+:EXPORT_FILE_NAME: 2022-02-14-Monday
+:EXPORT_HUGO_SLUG: 2022-02-14
+:EXPORT_DESCRIPTION:
+:EXPORT_DATE:
+:END:
+
+#+attr_html: :class imgRightMargin
+[[/img/small/meta-splat.png]]
+
+You may have noticed that I've been posting daily notes both here and on [[https://rudimentarylathe.wiki][the wiki]]. This is because I like writing in both places and I can't find a path to choosing one of them. The wiki is just so easy and I like that it's right next to most of my other notes. When I don't write here regularly, the rest of the information languishes. It loses its "wikiness". On the other hand, with baty.blog I get to write in Emacs using Org-mode and publish a good-looking "normal" blog with RSS feeds and archives and all the other things that I love about blogs. I think that TiddlyWiki is the best long-term answer, but Hugo is what I prefer living with today. Still noodlin' on it. You may also have noticed that I've cross-posted this in both places. Sigh.
+
+#+caption: I used to be much cooler
+[[/img/2022/JackBeingVeryCool.jpg]]
+
+I'm having one of those days where every social media post I read is either stupid, self-serving, mean, incorrect, or wildly unnecessary. Makes me happy that I can write that here and keep it mostly to myself.
+
+*** DONE Sunday, February 13, 2022
+CLOSED: [2022-02-13 Sun 08:32]
+:PROPERTIES:
+:EXPORT_FILE_NAME: 2022-02-13-Sunday
+:EXPORT_HUGO_SLUG: 2022-02-13
+:EXPORT_DESCRIPTION:
+:EXPORT_DATE:
+:END:
+🌨  Light snow, mist +13°F
+
+I often feel that I could run my life entirely on paper. Then I remember that this is because there's nothing much to run.
+
+I would like to declare Sundays to be "Stay Away From Screens Day" but I know me. Also, I've been sitting at this screen since 5:00 am with no signs of leaving.
+
+Just write a goddamn blog post instead: [[https://twitter.com/G_S_Bhogal/status/1225561131122597896][MEGATHREAD TIME: In 40 tweets I will ...]]
+
+Browsing through one of my [[https://www.amazon.com/Henri-Cartier-Bresson-Image-World-Retrospective/dp/0500542678/][Henri Cartier-Bresson books]], the thing that always stands out is that none of his photographs would have been improved by using a high-resolution digital sensor.
+
+*** DONE RSS Feed update (UPDATE: Never mind)
+CLOSED: [2022-02-10 Thu 08:17]
+:PROPERTIES:
+:EXPORT_FILE_NAME: 20220210-rss-feed-update
+:EXPORT_DESCRIPTION:
+:EXPORT_DATE:
+:END:
+
+**Update** I've changed my mind. I keep breaking links and pulling the RSS rug out from everyone. Plus, making all these changes all the time is exhausting. Leaving things as-is here for now.
+
+It's happening again. I am going to experiment with using the baty.blog domain for my new Write.as blog.
+
+This means that the RSS feed here will change to https://baty.blog/feed/. If you'd like to follow along, this change will take place shortly, so you'll need to update the URL in your reader. I'll move this blog to daily.baty.blog, just in case I want to keep using it.
+
+*** DONE Write.as
+CLOSED: [2022-02-09 Wed 07:16]
+:PROPERTIES:
+:EXPORT_FILE_NAME: 2022-02-09-Writeas
+:EXPORT_HUGO_SLUG: write-as
+:EXPORT_DESCRIPTION:
+:EXPORT_DATE:
+:END:
+
+I'm going to try blogging with [[https://write.as][Write.as]] for a bit. I'm at [[https://write.as/jackbaty][write.as/jackbaty]].
+
+*** DONE Tuesday, February 8, 2022
+CLOSED: [2022-02-08 Tue 05:03]
+:PROPERTIES:
+:EXPORT_FILE_NAME: 2022-02-08-Tuesday
+:EXPORT_HUGO_SLUG: 2022-02-08
+:EXPORT_DESCRIPTION:
+:EXPORT_DATE:
+:END:
+☁️   Overcast +22°F
+
+I spent yesterday over at [[https://rudimentarylathe.wiki][the wiki]] because I missed how easy it is to post there and how it tied all of my thoughts together so nicely. But, {{{mark(who wants to write in a little HTML text area)}}} in a browser all day when I could be in Emacs using Org mode with Vim bindings. Plus, here I have an RSS feed, better archives, and it /looks/ better, IMO. One problem is that with this blog it feels like I'm just throwing everything onto a pile, where in TiddlyWiki it feels organized and linked up nicely right out of the box. The dilemma remains.
+
+
+Why do people assume that {{{mark( whatever "early" humans did)}}} was somehow more "natural" than what we do today? More likely, it was their only option, and they'd kill to have what we have and would do it our way in a heartbeat. And they'd be better for it.
+
+Thing is, I {{{mark( don't feel much like capital-B "Blogging")}}} but I do like writing things down, in public. Is there a difference?
+
+Learning how to make custom mattes today:
+
+[[/img/2022/20220208-M10R0043.jpg]]
+
+*** DONE Sunday, February 6, 2022
+CLOSED: [2022-02-06 Sun 07:31]
+:PROPERTIES:
+:EXPORT_FILE_NAME: 2022-02-06-Sunday
+:EXPORT_HUGO_SLUG: 2022-02-06
+:EXPORT_DESCRIPTION:
+:EXPORT_DATE:
+:END:
+☀️   Clear +18°F
+
+I'm tired this morning.
+
+There are several apps that make me never want to leave macOS, and one of those is [[https://www.zengobi.com/curio/][Curio]].
+
+My paper journal morphs regularly, but I'm really liking this most recent layout:
+
+#+caption: Paper Journal
+[[/img/2022/20220206-Journal.jpg]]
+
+I'm feeling a little bored, and after a Hugo hiccup this morning I'm looking
+longingly at [[https://rudimentarylathe.wiki][my wiki]]. Don't be surprised if some daily posts show up there
+instead.
+
+*** DONE Saturday, February 5, 2022
+CLOSED: [2022-02-05 Sat 05:31]
+:PROPERTIES:
+:EXPORT_FILE_NAME: 2022-02-05-Saturday
+:EXPORT_HUGO_SLUG: 2022-02-05
+:EXPORT_DESCRIPTION:
+:EXPORT_DATE:
+:END:
+☁️   Overcast +12°F
+
+#+caption: The last photo I took with the Leica SL2-S
+[[/img/2022/20220201-L1010087.jpg]]
+
+My favorite recent system change has been naming files using {{{mark( CamelCase for filenames)}}}. snake_case was the worst, but using-hypens-wasn't-much-better. The easiest combination of typing ease and readability is CamelCase. So from now on it's PhotoOfMyDog.jpg. OK that's not true since I also prefix most files with a datestamp. How about 20220205-PhotoOfMyDog.jpg. Keyboard Maestro handles the YYYYMMDD- part so it's not has painful to type as it looks.
+
+Looking forward to [[https://discourse.doomemacs.org/login#welcome][Doom Emacs Discourse]] opening up. I hate Discord or other
+"chat" UIs for learning or communication beyond "Hey guys, what's up?"
+
+I had to update my {{{mark(Leica camera timeline)}}}, due to recent events:
+
+#+caption: Updated Leica Camera Timeline
+[[/img/2022/20220205-LeicaCameraTimeline.png]]
+
+#+begin_export html
+<blockquote class="quoteback" darkmode="" data-title="Apple's boastful robot, day 2" data-author="@davewiner" cite="http://scripting.com/2022/02/03/133000.html?title=applesBoastfulRobotDay2#a134956">
+I remain an Apple shareholder. I hope they can fix this. It really needs to be redone from top to bottom. If they can't handle a $1300 sale for a phone and get it delivered without incident in seven days then they should shut down everything until they can do it. Start over. Fire everyone. It's just not worth continuing if this is how you're going to do business.
+<footer>@davewiner<cite> <a href="http://scripting.com/2022/02/03/133000.html?title=applesBoastfulRobotDay2#a134956">http://scripting.com/2022/02/03/133000.html?title=applesBoastfulRobotDay2#a134956</a></cite></footer>
+</blockquote><script note="" src="https://cdn.jsdelivr.net/gh/Blogger-Peer-Review/quotebacks@1/quoteback.js"></script>
+#+end_export
+
+Right. Apple sells about 500 phones every minute of every day. I don't think your anecdotal issue with a single iPhone delivery is justification for Apple to "shut down everything".
+
+
+I need to reread some of these. What a fun list: [[https://medium.com/@cassidybeevemorris/determining-best-science-fiction-fantasy-novels-since-1970-e232ecbdc34d][Determining the best scifi/fantasy books since 1970 | Medium]]
+
+#+begin_export html
+<blockquote class="quoteback" darkmode="" data-title="Determining the greatest science fiction & fantasy novels since 1970" data-author="Cassidy Beeve-Morris" cite="https://medium.com/@cassidybeevemorris/determining-best-science-fiction-fantasy-novels-since-1970-e232ecbdc34d">
+When the Goodreads reviews suggest that <a class="au kk" href="https://www.goodreads.com/book/show/345627.Vampire_Academy" rel="noopener" target="_blank"><em class="kd">Vampire Academy</em></a> (4.11 rating) is better than <em class="kd">Fahrenheit 451</em>, it’s time to look elsewhere for our source of truth.
+<footer>Cassidy Beeve-Morris<cite> <a href="https://medium.com/@cassidybeevemorris/determining-best-science-fiction-fantasy-novels-since-1970-e232ecbdc34d">https://medium.com/@cassidybeevemorris/determining-best-science-fiction-fantasy-novels-since-1970-e232ecbdc34d</a></cite></footer>
+</blockquote><script note="" src="https://cdn.jsdelivr.net/gh/Blogger-Peer-Review/quotebacks@1/quoteback.js"></script>
+#+end_export
+
+*** DONE Friday, February 4, 2022
+CLOSED: [2022-02-04 Fri 04:24]
+:PROPERTIES:
+:EXPORT_FILE_NAME: 2022-02-04-Friday
+:EXPORT_HUGO_SLUG: 2022-02-04
+:EXPORT_DESCRIPTION:
+:EXPORT_DATE:
+:END:
+☀️   Clear +5°F
+
+The Leica SL2-S was sold this morning. I was /this/ close to withdrawing it. Too late now, I guess.
+
+I wrote this back in December. Guess what I'm struggling with today:
+
+#+begin_quote
+Today I’m thinking that Logseq offers the best friction to value ratio, while still being local-first and plain text. It’s dead-simple to add notes and offers nice backlinks and graphing. The graph is unnecessary but is a free byproduct, so why not? It beats Roam for privacy, cost, and attitude. It beats TiddlyWiki for ease of use and usefulness outside of the app. Plus, the files are in Org format. What’s not to like?
+#+end_quote
+
+#+caption: Back and forth and back again.
+[[/img/2022/20220204-decisions.png]]
+
+I'll give up my AirTags due to people abusing them as soon as you give up your guns for the same reason.
+
+#+begin_quote
+Say what you like about the internet, but for a certain class of underemployed male, life has become warmer, and more hygienic.
+
+@@html:<cite>Nick Hornby,  More Baths Less Talking</cite>@@
+#+end_quote
+
+I'm supposed to be working on my resume but all I've done so far is tinker with some LaTeX templates.
+
+I wonder if I'll ever find a balance between Emacs, Curio, Tinderbox, and DEVONthink. Probably not. I could always just switch to Linux and that problem goes away.
+
+*** DONE Thursday, February 3, 2022
+CLOSED: [2022-02-03 Thu 06:38]
+:PROPERTIES:
+:EXPORT_FILE_NAME: 2022-02-03-Thursday
+:EXPORT_HUGO_SLUG: 2022-02-03
+:EXPORT_DESCRIPTION:
+:EXPORT_DATE:
+:END:
+☁️   Overcast +17°F
+
+Good morning. It's 6:30 am and I've been up since 3:30. I'm hungry.
+
+#+attr_html: :class imgRightMargin
+[[/img/small/leica.png]]
+
+Weird day. {{{mark(The Leica SL2-S is for sale and I ordered an M10-R)}}} (again). Yes, I know, I just got rid of an M10-R a month ago. What can I say, I missed it. I've also decided to focus my energy (and $$$) around the M system. Supporting two different systems was expensive and kind of exhausting. The problem is that just putting the SL2-S in the box makes me want to keep it. Still for sale, though.
+
+I continue to enjoy Leica's M cameras because they are wildly uncomplicated. Unlike everything else:
+
+#+begin_export html
+<blockquote class="quoteback" darkmode="" data-title="Cult Camera (Or: We're Just Talking)" data-author="" cite="https://theonlinephotographer.typepad.com/the_online_photographer/2022/02/cult-camera-or-were-just-talking.html">
+People who have a strong aptitude for geeky features and endless complexity simply don't see why they should be denied every possible option. And people who don't like endless features and complexity are <em>shamed</em>, in a sense, into accepting what the geeks are happy with, the assumption being that if they don't learn all the ins-and-outs of their cameras then it's <em>their own fault</em>.
+<footer><cite> <a href="https://theonlinephotographer.typepad.com/the_online_photographer/2022/02/cult-camera-or-were-just-talking.html">https://theonlinephotographer.typepad.com/the_online_photographer/2022/02/cult-camera-or-were-just-talking.html</a></cite></footer>
+</blockquote><script note="" src="https://cdn.jsdelivr.net/gh/Blogger-Peer-Review/quotebacks@1/quoteback.js"></script>
+#+end_export
+
+*** DONE Wednesday, February 2, 2022
+CLOSED: [2022-02-02 Wed 05:52]
+:PROPERTIES:
+:EXPORT_FILE_NAME: 2022-02-02-Wednesday
+:EXPORT_HUGO_SLUG: 2022-02-02
+:EXPORT_DESCRIPTION:
+:EXPORT_DATE:
+:END:
+☁️   Overcast +32°F
+
+Capture One, Lightroom, Capture One, Lightroom, Darktable, Capture One, Lightroom....
+
+One thing I'm sure I don't need is more apps.
+
+Remember when I said that committing to using only a single (Mac) machine was the greatest thing I've done for my mental health in a long time? I do, but I've still spent the last week or more unravelling that by trying to go all-in with Linux. {{{mark(I just can't. Not yet)}}}. What I have learned, though, is that when I decide the time is right, I'll be /able/ to switch without too much grief.
+
+This typewriter doesn't get enough use, but makes a nice prop at least.
+
+#+caption: Olympia SM3
+[[/img/2022/20220202-Q1000247.jpg]]
+
+OK, I've had enough. No more waffling right now. I've deleted Capture One completely. I've deleted (baby) Lightroom completely. I've shut down the ThinkPad and put it in the closet. My photos will be edited on macOS using Lightroom Classic.
+*** DONE Tuesday, February  1, 2022
+CLOSED: [2022-02-01 Tue 05:47]
+:PROPERTIES:
+:EXPORT_FILE_NAME: 2022-02-01-Tuesday
+:EXPORT_HUGO_SLUG: 2022-02-01
+:EXPORT_DESCRIPTION:
+:EXPORT_DATE:
+:END:
+☀️ Clear +27°F
+
+My Linux experiment continues, now that I've figured out how to process the Q2M files in Darktable. Printing sucks, I can tell you that. But, there's something about using Linux that makes me feel free. {{{mark(I'm not beholden to anyone)}}}. No single entity can suddenly pull the rug out from under me. That's comforting, somehow. Everything is mine to do with as I please. This is both a blessing and a curse.
+
+I just bought a decked-out MacBook Pro (M1 Pro Max) and yet I'm writing this on a 2015 ThinkPad.
+
+I got so tired of {{{mark(logging books)}}} that I just stopped reading. There, fixed!
+
+Navel gazing as high art.
+
+I read various {{{mark(Leica forums)}}} pretty regularly. I've learned which threads to avoid. For example: Is the M10 the last "Real" Leica?. Oh FFS.
+
+#+begin_quote
+Things I want to do are strange, simple, and unprofitable
+
+@@html:<cite>Paul Ford</cite>@@
+#+end_quote
+
+Too many of us spend way too much time trying to save a handful of keystrokes.
+
+I wouldn't need better window management if I didn't have so many windows to manage.
+
++Virtue signaling with+ Listening to some Neal Young on Apple Music this morning.
+
+"Is this hotel pager friendly? I'm not gettin' a sig on my beeper."
+
+I must admit that a compelling reason to switch to Linux is that I could stop paying attention to Apple-related news and speculation, which is /everywhere/ and has become boring as hell.
+
+** January 2022
+*** DONE Monday, January 31, 2022
+CLOSED: [2022-01-31 Mon 05:02]
+:PROPERTIES:
+:EXPORT_FILE_NAME: 2022-01-31-Monday
+:EXPORT_HUGO_SLUG: 2022-01-31
+:EXPORT_DESCRIPTION:
+:EXPORT_DATE:
+:END:
+🌫  Haze +24°F
+
+People who are learning are more interesting than those who claim to /know/.
+
+Darktable can't deal with the Q2 Monochrom...no lens correction. It /needs/ lens correction. Unless I'm missing something, this is a deal-breaker. UPDATE: I found that choosing the Q2/Summilux combination seems to work. I've configured Darktable to automatically apply the setting, even though the UI yells that "Camera Not Found!".
+
+I'm happy to do just about /anything/ that doesn't involve "working on my resume".
+
+Hosting my static sites on a simple VPS means I never need worry about going over some "build minutes" limitation.
+
+I started putting financial transactions in [[https://www.ledger-cli.org][Ledger]] again. Dodged a bullet and put it away quickly.
+
+*** DONE Sunday, January 30, 2022
+CLOSED: [2022-01-30 Sun 05:52]
+:PROPERTIES:
+:EXPORT_FILE_NAME: 2022-01-30-Sunday
+:EXPORT_HUGO_SLUG: 2022-01-30
+:EXPORT_DESCRIPTION:
+:EXPORT_DATE:
+:END:
+
+
+☁️   Overcast +16°F
+
+Great, this website and [[https://rudimentarylathe.wiki]]  were affected by the recent [[https://threatit.com/articles/lets-encrypt-revokes-2-million-certificates/][mass-revocation by Let's Encrypt]]. I needed to delete the existing certificates and force Caddy to renew them. (They live in =/var/lib/caddy/.local/share=). Sorry for the interruption. I'm not sure why I didn't receive the email from them warning me to renew ahead of time.
+
+I tried for 3 days to get my photo processing and management system workable on Linux. I failed. This is such a big part of my computing requirement that I'm afraid all-in Linux will have to wait.
+
+The failure of wikis is that once the rush of getting everything written down is over, we often lose interest in maintaining it, so the information becomes out of date, rendering the whole thing nearly useless.
+
+This is really nice: [[https://damonlynch.net/rapid/index.html][Rapid Photo Downloader]] for Linux.
+
+*** DONE Saturday, January 29, 2022
+CLOSED: [2022-01-29 Sat 04:37]
+:PROPERTIES:
+:EXPORT_FILE_NAME: 2022-01-29-Saturday
+:EXPORT_HUGO_SLUG: 2022-01-29
+:EXPORT_DESCRIPTION:
+:EXPORT_DATE:
+:END:
+☁️   Overcast +5°F
+
+I plugged in the Mac yesterday so I could actually enjoy working with photos. What I'm finding is that I, again, miss using i3 and workspaces the way they're set up in Regolith. I've been trying some combinations of Rectangle and Divvy and Better Touch Tool to see what I can get, but nothing works as smoothly and consistently. I'm about to plug in the ThinkPad for the day. Weird.
+
+OK, there. Back on Linux. It feels good, but at the same time, feels janky. Linux /thinks/ right, but the implementation is often spotty. So help me if I can't figure out how to consistently copy and paste between Emacs, a terminal, and the rest of the system, I'll throw the whole thing out a window.
+
+Nice article about one person's journey into Leica. Lovely photos accompanying the article, too: [[https://fcracer.com/leica-journey-unexpected-and-educational/][Leica Journey: Unexpected and Educational | fcracer]]
+
+*** DONE I'd (re)learn Ruby On Rails if it weren't for DHH
+CLOSED: [2022-01-28 Fri 11:17]
+:PROPERTIES:
+:EXPORT_FILE_NAME: 20220128-idlearnrailsbut
+:EXPORT_HUGO_SLUG: id-learn-rails-but
+:EXPORT_DATE:
+:END:
+I've been tinkering with ideas for my next career, and re-learning Ruby on Rails was on the short list.
+
+I've long admired [[https://en.wikipedia.org/wiki/David_Heinemeier_Hansson][DHH]] and [[https://rubyonrails.org][Rails]] and Basecamp (the [[https://basecamp.com/about][company]] and the [[https://basecamp.com/][product]]). I shipped my first Rails app in 2007. I envied the way they ran the company and how open they were about it. I lapped up all their books. I even agreed with the way they handled the whole "no political discussions" fiasco. I used to feel like he, although cocky and arrogant, was right more than he was wrong about most things.
+
+But after reading [[https://world.hey.com/dhh][DHH's newsletter]] lately, I think I'm out.
+
+His latest, [[https://world.hey.com/dhh/spotify-must-be-afraid-of-canceling-rogan-right-right-8fc9f1f6][Spotify must be afraid of canceling Rogan, right? Right?!]], was the final straw for me. It wasn't just the inane title, but that he keeps showing that he doesn't understand the argument and insisting that "both-sides"-ism is always OK.
+
+Neal Young doesn't want to share a platform with Rogan. Not because Rogan "hosts guests with divergent views" because he hosts guests with demonstrably incorrect and dangerous views...and seems to agree with them. DHH apparently doesn't understand science, either. Not really.
+
+Anyway, I don't want to argue with him. And I don't want to argue /about/ him. But, he makes me want to /not/ use his products. Which is a shame because I think Rails is still a valid, viable, and valuable option. I just wanted to vent a little about my disappointment with someone who used to inspire me.
+
+Maybe he'll calm down and get over this latest mood, or at least stop writing so much while feeling the way he seems to feel. I hope so.
+
+*** DONE Friday, January 28, 2022
+CLOSED: [2022-01-28 Fri 04:35]
+:PROPERTIES:
+:EXPORT_FILE_NAME: 2022-01-28-Friday
+:EXPORT_HUGO_SLUG: 2022-01-28
+:EXPORT_DESCRIPTION:
+:EXPORT_DATE:
+:END:
+☀️   Clear +15°F
+
+Got new eyeglasses yesterday. The prescription changed a bit from my previous pair. They work great, but I feel a little woozy while getting used to them.
+
+#+attr_html: :class imgRightMargin
+[[/img/small/linux.png]]
+
+There is a nicely-configured [[https://system76.com/desktops/thelio-mira][Thelio Mira]] in my shopping cart. I came close to pulling the trigger yesterday, but a clear head prevailed. So far. I know me. In 2 weeks I'll be back on my Mac and the old ThinkPad I'm typing this on will be packed up and in the closet until next time I get the Linux itch. My thinking with the Thelio is that in order to get the full Linux experience, I should work on a faster, modern machine. There could be something to that, but mostly it's just an excuse to buy a new toy. I'm going to sit on it for a month or two and if I still think I could switch to Linux, I'll buy something nice to run it on.
+
+Suddenly, Emacs is running slowly on the ThinkPad. Could it be that I need a faster machine?
+
+It's hard to virtue signal while using a paper notebook. (But /mentioning/ using paper notebooks works great.)
+
+If I could make just one photo like this one by Vivian Maier, I'd be happy:
+
+#+caption: Vivian Maier, Florida, 1957
+[[/img/2022/vivian-florida-1957.jpg]]
+
+After a morning of watching videos on [[https://www.darktable.org][Darktable]] I learn that it supports neither the SL2-S or the Q2 Monochrom. Too bad, because it's not as terrible as I remember. Rawtherapee works better, but I kind of hate using it. I'm back to feeling like iOS and macOS are the only options for seriously editing my photos.
+
+*** DONE Thursday, January 27, 2022
+CLOSED: [2022-01-27 Thu 04:29]
+:PROPERTIES:
+:EXPORT_FILE_NAME: 2022-01-27-Thursday
+:EXPORT_HUGO_SLUG: 2022-01-27
+:EXPORT_DESCRIPTION:
+:EXPORT_DATE:
+:END:
+☁️   Overcast +13°F
+
+Back on Linux this morning. I missed i3 yesterday. So far, as long as I'm not doing photo-related stuff, Regolith is working great.
+
+#+caption: Alice. (Leica M3. Summilux-M 50mm. HP5)
+[[/img/2022/20220127-alice.jpg]]
+
+My laptop is somehow (barely) picking up a local radio station and feeding it to my speakers and it's freaking me out a little.
+
+I've gotta say, I really dislike the look of the (very trendy) Cinestill Tungsten-balanced film.
+
+*** DONE Wednesday, January 26, 2022
+CLOSED: [2022-01-26 Wed 05:22]
+:PROPERTIES:
+:EXPORT_FILE_NAME: 2022-01-26-Wednesday
+:EXPORT_HUGO_SLUG: 2022-01-26
+:EXPORT_DESCRIPTION:
+:EXPORT_DATE:
+:END:
+⛅️  Partly cloudy +9°F
+
+Good morning!
+
+[[/img/2022/20220126-L1010053.jpg]]
+
+I've decided to {{{mark(work on my Mac today)}}}, after a few days on Linux. Apple people tend to complain a lot about the sorry state of macOS, but coming back after time away is a stark reminder of the sheer level of refinement in macOS. It's just...nice.
+
+The [[https://system76.com/desktops/thelio-mira][Thelio Mira]] from System76 is tempting. I'd like to try a modern, powerful desktop machine running Linux. I mean, how else can I do a fair comparison with my MBP? 😜. So far I've avoided the temptation, because, I just bought a top-spec'd MacBook Pro, remember? If it weren't for wanting to edit photos with good software, I'd be much more tempted.
+
+Living down a rabbit hole of photo editing processes, techniques, and software does nothing to improve my photography, so I'm backing off a bit and putting everything in {{{mark(baby Lightroom)}}} for a while.
+
+I've changed tagging for financially-related items in my {{{mark(Org daybook)}}} to ":money:" because I'm tired of trying to decide/remember between :finances:, :finance:, and :financial:. Now it's just :money:
+
+Just for fun, and as a fallback for 1Password, I've started using [[https://www.passwordstore.org/][Pass: The Standard Unix Password Manager]] again. It's been years. I started with a fresh .password-store/ and will fill it as needed.
+
+*** DONE Highlighting text in ox-hugo :Orgmode:
+CLOSED: [2022-01-26 Wed 09:47]
+:PROPERTIES:
+:EXPORT_FILE_NAME: 20220126-highlighting-text
+:EXPORT_DATE:
+:END:
+
+
+I've been experimenting with adding highlights to text in my daily posts. The idea is that it makes scanning easier. I pick out the important parts of each entry and add a =<mark>= HTML tag. Then I style the region like so:
+
+#+begin_src css
+mark {
+  background: rgba(255, 255, 0, 0.3);
+}
+#+end_src
+
+Recently, there's been a {{{mark(change in org that broke my markup)}}} when exporting from ox-hugo. Here's the comment by [[https://github.com/kaushalmodi][kaushalmodi]]:
+
+[[https://github.com/kaushalmodi/ox-hugo/issues/540][Issue #540]]
+#+begin_quote
+This was a recent breaking change that fixed an inconsistency in ox-hugo (compared to ox-html). If we want to export verbatim HTML, it needs to be in @@html:..@@ or in an HTML export block
+#+end_quote
+
+His suggestion to use a macro was excellent, so I did that. At the top of my posts.org file, is this:
+
+=#+macro: mark @@html:<mark>$1</mark>@@=
+
+When I want to =<mark>= some text, I add the macro inline, like so:
+
+=I would like to {{{mark(mark this text)}}} so that it is highlighted=
+
+But who has time to add all that markup by hand? To make it easier, I created the following function:
+
+#+begin_src lisp
+(defun jab/markregion ()
+  "Add a 'mark' macro to the current region (for Hugo)"
+  (interactive)
+  (if (region-active-p)
+      (progn
+        (goto-char (region-end))
+        (insert ")}}}")
+        (goto-char (region-beginning))
+        (insert "{{{mark("))))
+#+end_src
+
+Now, I select a region and run =M-x jab/markregion=. I may create a keybinding for it, too, but for now this is fast and easy.
+
+*** DONE Tuesday, January 25, 2022
+CLOSED: [2022-01-25 Tue 04:21]
+:PROPERTIES:
+:EXPORT_FILE_NAME: 2022-01-25-Tuesday
+:EXPORT_HUGO_SLUG: 2022-01-25
+:EXPORT_DESCRIPTION:
+:EXPORT_DATE:
+:END:
+☁ Overcast +17°F
+
+Installed the [[https://github.com/ibnishak/Timimi][Timimi plugin]] for Firefox again on the ThinkPad. I've not been using [[https://rudimentarylathe.wiki][the wiki]] for daily notes, but I do like having it for, well, a wiki. Since I'm using Firefox on Linux,  {{{mark(Timimi is the simplest option)}}} for saving TiddlyWiki files.
+
+I moved a lot of my synced files on the Mac {{{mark(out of iCloud Files)}}}.
+This was mainly due to wanting them available on Linux, but also because iCloud
+has been flaky lately. I'm always surprised how well [[https://syncthing.net/][Syncthing]] works, and how
+easy it is to install. Previously, I'd configured it once and it ran and ran and
+I'd forget it was there. You know, like Dropbox used to. So far, this time it
+was even easier to set up and has been running without issue.
+
+I'm thinking I'll reserve using [[https://jack.micro.blog][my micro.blog]] for posting images. Mostly.
+
+Pretty happy with [[https://www.orgroam.com/][Org-roam]]. Every day I get closer to calling it and living there for my notes.
+
+*** DONE Monday, January 24, 2022
+CLOSED: [2022-01-24 Mon 06:14]
+:PROPERTIES:
+:EXPORT_FILE_NAME: 2022-01-24-Monday
+:EXPORT_HUGO_SLUG: 2022-01-24
+:EXPORT_DESCRIPTION:
+:EXPORT_DATE:
+:END:
+
+☁️ Overcast +18°F
+
+Alice and I went for our walk at 3:15 am. It's getting ridiculous. I went back to bed when we got home and now it's 6:00 am and that feels much more reasonable. I've been running on five hours sleep a night for a while now and I don't think it's good for me. I'm not 20 years old.
+
+Interesting new Emacs package: [[https://github.com/nobiot/org-remark][nobiot/org-remark: Highlight and annotate any text file with using Org mode]]
+
+I can't believe I /still/ have to look up how to remove a git submodule every time:
+
+#+begin_src sh
+git submodule deinit -f themes/daily-jane
+rm -rf .git/modules/themes/daily-jane/
+git rm -f themes/daily-jane/
+#+end_src
+
+Listening to music on Linux. The opposite of using [[https://roonlabs.com][Roon]]:
+
+[[/img/2022/2022-01-24_09-29.png]]
+
+A week or so ago I removed the analytics (Plausible.io) script from this site and, to my amazement, I don't miss it. I didn't expect that. I've never been obsessed with site views/stats. Curious, but not obsessed. Now I'm not even that curious. However, I do like to keep an eye on overall traffic and things like 404s, so I've re-installed [[https://goaccess.io/][GoAccess]] on the server so I can pop in as needed and review. GoAccess processes the server logs directly, so no need for embedded/tracking scripts.
+
+*** DONE Sunday, January 23, 2022
+CLOSED: [2022-01-23 Sun 06:01]
+:PROPERTIES:
+:EXPORT_FILE_NAME: 2022-01-23-Sunday
+:EXPORT_HUGO_SLUG: 2022-01-23
+:EXPORT_DESCRIPTION:
+:EXPORT_DATE:
+:END:
+
+🌨  Light snow, mist +18°F
+
+I'm having thoughts about my computing environment...Deep Thoughts™. I'm (almost) seriously considing Linux on the desktop and iPad Pro/Mini for mobile. WHAT!? I'll probably get over this in an hour, but right now it's top of mind and feels reasonable. It's before 7:00 am so, no, I've not been drinking. What's going to ruin this is not limitations with Linux, but limitations in iOS.
+
+*** DONE Thursday, January 27, 2022
+CLOSED: [2022-01-27 Thu 04:29]
+:PROPERTIES:
+:EXPORT_FILE_NAME: 2022-01-27-Thursday
+:EXPORT_HUGO_SLUG: 2022-01-27
+:EXPORT_DESCRIPTION:
+:EXPORT_DATE:
+:END:
+☁️   Overcast +13°F
+
+Back on Linux this morning. I missed i3 yesterday. So far, as long as I'm not doing photo-related stuff, Regolith is working great.
+
+#+caption: Alice. (Leica M3. Summilux-M 50mm. HP5)
+[[/img/2022/20220127-alice.jpg]]
+
+My laptop is somehow (barely) picking up a local radio station and feeding it to my speakers and it's freaking me out a little.
+
+I've gotta say, I really dislike the look of the (very trendy) Cinestill Tungsten-balanced film.
+
+*** DONE Wednesday, January 26, 2022
+CLOSED: [2022-01-26 Wed 05:22]
+:PROPERTIES:
+:EXPORT_FILE_NAME: 2022-01-26-Wednesday
+:EXPORT_HUGO_SLUG: 2022-01-26
+:EXPORT_DESCRIPTION:
+:EXPORT_DATE:
+:END:
+⛅️  Partly cloudy +9°F
+
+Good morning!
+
+[[/img/2022/20220126-L1010053.jpg]]
+
+I've decided to {{{mark(work on my Mac today)}}}, after a few days on Linux. Apple people tend to complain a lot about the sorry state of macOS, but coming back after time away is a stark reminder of the sheer level of refinement in macOS. It's just...nice.
+
+The [[https://system76.com/desktops/thelio-mira][Thelio Mira]] from System76 is tempting. I'd like to try a modern, powerful desktop machine running Linux. I mean, how else can I do a fair comparison with my MBP? 😜. So far I've avoided the temptation, because, I just bought a top-spec'd MacBook Pro, remember? If it weren't for wanting to edit photos with good software, I'd be much more tempted.
+
+Living down a rabbit hole of photo editing processes, techniques, and software does nothing to improve my photography, so I'm backing off a bit and putting everything in {{{mark(baby Lightroom)}}} for a while.
+
+I've changed tagging for financially-related items in my {{{mark(Org daybook)}}} to ":money:" because I'm tired of trying to decide/remember between :finances:, :finance:, and :financial:. Now it's just :money:
+
+Just for fun, and as a fallback for 1Password, I've started using [[https://www.passwordstore.org/][Pass: The Standard Unix Password Manager]] again. It's been years. I started with a fresh .password-store/ and will fill it as needed.
+
+*** DONE Highlighting text in ox-hugo :Orgmode:
+CLOSED: [2022-01-26 Wed 09:47]
+:PROPERTIES:
+:EXPORT_FILE_NAME: 20220126-highlighting-text
+:EXPORT_DATE:
+:END:
+
+
+I've been experimenting with adding highlights to text in my daily posts. The idea is that it makes scanning easier. I pick out the important parts of each entry and add a =<mark>= HTML tag. Then I style the region like so:
+
+#+begin_src css
+mark {
+  background: rgba(255, 255, 0, 0.3);
+}
+#+end_src
+
+Recently, there's been a {{{mark(change in org that broke my markup)}}} when exporting from ox-hugo. Here's the comment by [[https://github.com/kaushalmodi][kaushalmodi]]:
+
+[[https://github.com/kaushalmodi/ox-hugo/issues/540][Issue #540]]
+#+begin_quote
+This was a recent breaking change that fixed an inconsistency in ox-hugo (compared to ox-html). If we want to export verbatim HTML, it needs to be in @@html:..@@ or in an HTML export block
+#+end_quote
+
+His suggestion to use a macro was excellent, so I did that. At the top of my posts.org file, is this:
+
+=#+macro: mark @@html:<mark>$1</mark>@@=
+
+When I want to =<mark>= some text, I add the macro inline, like so:
+
+=I would like to {{{mark(mark this text)}}} so that it is highlighted=
+
+But who has time to add all that markup by hand? To make it easier, I created the following function:
+
+#+begin_src lisp
+(defun jab/markregion ()
+  "Add a 'mark' macro to the current region (for Hugo)"
+  (interactive)
+  (if (region-active-p)
+      (progn
+        (goto-char (region-end))
+        (insert ")}}}")
+        (goto-char (region-beginning))
+        (insert "{{{mark("))))
+#+end_src
+
+Now, I select a region and run =M-x jab/markregion=. I may create a keybinding for it, too, but for now this is fast and easy.
+
+*** DONE Tuesday, January 25, 2022
+CLOSED: [2022-01-25 Tue 04:21]
+:PROPERTIES:
+:EXPORT_FILE_NAME: 2022-01-25-Tuesday
+:EXPORT_HUGO_SLUG: 2022-01-25
+:EXPORT_DESCRIPTION:
+:EXPORT_DATE:
+:END:
+☁ Overcast +17°F
+
+Installed the [[https://github.com/ibnishak/Timimi][Timimi plugin]] for Firefox again on the ThinkPad. I've not been using [[https://rudimentarylathe.wiki][the wiki]] for daily notes, but I do like having it for, well, a wiki. Since I'm using Firefox on Linux,  {{{mark(Timimi is the simplest option)}}} for saving TiddlyWiki files.
+
+I moved a lot of my synced files on the Mac {{{mark(out of iCloud Files)}}}.
+This was mainly due to wanting them available on Linux, but also because iCloud
+has been flaky lately. I'm always surprised how well [[https://syncthing.net/][Syncthing]] works, and how
+easy it is to install. Previously, I'd configured it once and it ran and ran and
+I'd forget it was there. You know, like Dropbox used to. So far, this time it
+was even easier to set up and has been running without issue.
+
+I'm thinking I'll reserve using [[https://jack.micro.blog][my micro.blog]] for posting images. Mostly.
+
+Pretty happy with [[https://www.orgroam.com/][Org-roam]]. Every day I get closer to calling it and living there for my notes.
+
+*** DONE Monday, January 24, 2022
+CLOSED: [2022-01-24 Mon 06:14]
+:PROPERTIES:
+:EXPORT_FILE_NAME: 2022-01-24-Monday
+:EXPORT_HUGO_SLUG: 2022-01-24
+:EXPORT_DESCRIPTION:
+:EXPORT_DATE:
+:END:
+
+☁️ Overcast +18°F
+
+Alice and I went for our walk at 3:15 am. It's getting ridiculous. I went back to bed when we got home and now it's 6:00 am and that feels much more reasonable. I've been running on five hours sleep a night for a while now and I don't think it's good for me. I'm not 20 years old.
+
+Interesting new Emacs package: [[https://github.com/nobiot/org-remark][nobiot/org-remark: Highlight and annotate any text file with using Org mode]]
+
+I can't believe I /still/ have to look up how to remove a git submodule every time:
+
+#+begin_src sh
+git submodule deinit -f themes/daily-jane
+rm -rf .git/modules/themes/daily-jane/
+git rm -f themes/daily-jane/
+#+end_src
+
+Listening to music on Linux. The opposite of using [[https://roonlabs.com][Roon]]:
+
+[[/img/2022/2022-01-24_09-29.png]]
+
+A week or so ago I removed the analytics (Plausible.io) script from this site and, to my amazement, I don't miss it. I didn't expect that. I've never been obsessed with site views/stats. Curious, but not obsessed. Now I'm not even that curious. However, I do like to keep an eye on overall traffic and things like 404s, so I've re-installed [[https://goaccess.io/][GoAccess]] on the server so I can pop in as needed and review. GoAccess processes the server logs directly, so no need for embedded/tracking scripts.
+
+*** DONE Sunday, January 23, 2022
+CLOSED: [2022-01-23 Sun 06:01]
+:PROPERTIES:
+:EXPORT_FILE_NAME: 2022-01-23-Sunday
+:EXPORT_HUGO_SLUG: 2022-01-23
+:EXPORT_DESCRIPTION:
+:EXPORT_DATE:
+:END:
+
+🌨  Light snow, mist +18°F
+
+I'm having thoughts about my computing environment...Deep Thoughts™. I'm (almost) seriously considing Linux on the desktop and iPad Pro/Mini for mobile. WHAT!? I'll probably get over this in an hour, but right now it's top of mind and feels reasonable. It's before 7:00 am so, no, I've not been drinking. What's going to ruin this is not limitations with Linux, but limitations in iOS.
+
+*** DONE Thursday, January 27, 2022
+CLOSED: [2022-01-27 Thu 04:29]
+:PROPERTIES:
+:EXPORT_FILE_NAME: 2022-01-27-Thursday
+:EXPORT_HUGO_SLUG: 2022-01-27
+:EXPORT_DESCRIPTION:
+:EXPORT_DATE:
+:END:
+☁️   Overcast +13°F
+
+Back on Linux this morning. I missed i3 yesterday. So far, as long as I'm not doing photo-related stuff, Regolith is working great.
+
+#+caption: Alice. (Leica M3. Summilux-M 50mm. HP5)
+[[/img/2022/20220127-alice.jpg]]
+
+My laptop is somehow (barely) picking up a local radio station and feeding it to my speakers and it's freaking me out a little.
+
+I've gotta say, I really dislike the look of the (very trendy) Cinestill Tungsten-balanced film.
+
+*** DONE Wednesday, January 26, 2022
+CLOSED: [2022-01-26 Wed 05:22]
+:PROPERTIES:
+:EXPORT_FILE_NAME: 2022-01-26-Wednesday
+:EXPORT_HUGO_SLUG: 2022-01-26
+:EXPORT_DESCRIPTION:
+:EXPORT_DATE:
+:END:
+⛅️  Partly cloudy +9°F
+
+Good morning!
+
+[[/img/2022/20220126-L1010053.jpg]]
+
+I've decided to {{{mark(work on my Mac today)}}}, after a few days on Linux. Apple people tend to complain a lot about the sorry state of macOS, but coming back after time away is a stark reminder of the sheer level of refinement in macOS. It's just...nice.
+
+The [[https://system76.com/desktops/thelio-mira][Thelio Mira]] from System76 is tempting. I'd like to try a modern, powerful desktop machine running Linux. I mean, how else can I do a fair comparison with my MBP? 😜. So far I've avoided the temptation, because, I just bought a top-spec'd MacBook Pro, remember? If it weren't for wanting to edit photos with good software, I'd be much more tempted.
+
+Living down a rabbit hole of photo editing processes, techniques, and software does nothing to improve my photography, so I'm backing off a bit and putting everything in {{{mark(baby Lightroom)}}} for a while.
+
+I've changed tagging for financially-related items in my {{{mark(Org daybook)}}} to ":money:" because I'm tired of trying to decide/remember between :finances:, :finance:, and :financial:. Now it's just :money:
+
+Just for fun, and as a fallback for 1Password, I've started using [[https://www.passwordstore.org/][Pass: The Standard Unix Password Manager]] again. It's been years. I started with a fresh .password-store/ and will fill it as needed.
+
+*** DONE Highlighting text in ox-hugo :Orgmode:
+CLOSED: [2022-01-26 Wed 09:47]
+:PROPERTIES:
+:EXPORT_FILE_NAME: 20220126-highlighting-text
+:EXPORT_DATE:
+:END:
+
+
+I've been experimenting with adding highlights to text in my daily posts. The idea is that it makes scanning easier. I pick out the important parts of each entry and add a =<mark>= HTML tag. Then I style the region like so:
+
+#+begin_src css
+mark {
+  background: rgba(255, 255, 0, 0.3);
+}
+#+end_src
+
+Recently, there's been a {{{mark(change in org that broke my markup)}}} when exporting from ox-hugo. Here's the comment by [[https://github.com/kaushalmodi][kaushalmodi]]:
+
+[[https://github.com/kaushalmodi/ox-hugo/issues/540][Issue #540]]
+#+begin_quote
+This was a recent breaking change that fixed an inconsistency in ox-hugo (compared to ox-html). If we want to export verbatim HTML, it needs to be in @@html:..@@ or in an HTML export block
+#+end_quote
+
+His suggestion to use a macro was excellent, so I did that. At the top of my posts.org file, is this:
+
+=#+macro: mark @@html:<mark>$1</mark>@@=
+
+When I want to =<mark>= some text, I add the macro inline, like so:
+
+=I would like to {{{mark(mark this text)}}} so that it is highlighted=
+
+But who has time to add all that markup by hand? To make it easier, I created the following function:
+
+#+begin_src lisp
+(defun jab/markregion ()
+  "Add a 'mark' macro to the current region (for Hugo)"
+  (interactive)
+  (if (region-active-p)
+      (progn
+        (goto-char (region-end))
+        (insert ")}}}")
+        (goto-char (region-beginning))
+        (insert "{{{mark("))))
+#+end_src
+
+Now, I select a region and run =M-x jab/markregion=. I may create a keybinding for it, too, but for now this is fast and easy.
+
+*** DONE Tuesday, January 25, 2022
+CLOSED: [2022-01-25 Tue 04:21]
+:PROPERTIES:
+:EXPORT_FILE_NAME: 2022-01-25-Tuesday
+:EXPORT_HUGO_SLUG: 2022-01-25
+:EXPORT_DESCRIPTION:
+:EXPORT_DATE:
+:END:
+☁ Overcast +17°F
+
+Installed the [[https://github.com/ibnishak/Timimi][Timimi plugin]] for Firefox again on the ThinkPad. I've not been using [[https://rudimentarylathe.wiki][the wiki]] for daily notes, but I do like having it for, well, a wiki. Since I'm using Firefox on Linux,  {{{mark(Timimi is the simplest option)}}} for saving TiddlyWiki files.
+
+I moved a lot of my synced files on the Mac {{{mark(out of iCloud Files)}}}.
+This was mainly due to wanting them available on Linux, but also because iCloud
+has been flaky lately. I'm always surprised how well [[https://syncthing.net/][Syncthing]] works, and how
+easy it is to install. Previously, I'd configured it once and it ran and ran and
+I'd forget it was there. You know, like Dropbox used to. So far, this time it
+was even easier to set up and has been running without issue.
+
+I'm thinking I'll reserve using [[https://jack.micro.blog][my micro.blog]] for posting images. Mostly.
+
+Pretty happy with [[https://www.orgroam.com/][Org-roam]]. Every day I get closer to calling it and living there for my notes.
+
+*** DONE Monday, January 24, 2022
+CLOSED: [2022-01-24 Mon 06:14]
+:PROPERTIES:
+:EXPORT_FILE_NAME: 2022-01-24-Monday
+:EXPORT_HUGO_SLUG: 2022-01-24
+:EXPORT_DESCRIPTION:
+:EXPORT_DATE:
+:END:
+
+☁️ Overcast +18°F
+
+Alice and I went for our walk at 3:15 am. It's getting ridiculous. I went back to bed when we got home and now it's 6:00 am and that feels much more reasonable. I've been running on five hours sleep a night for a while now and I don't think it's good for me. I'm not 20 years old.
+
+Interesting new Emacs package: [[https://github.com/nobiot/org-remark][nobiot/org-remark: Highlight and annotate any text file with using Org mode]]
+
+I can't believe I /still/ have to look up how to remove a git submodule every time:
+
+#+begin_src sh
+git submodule deinit -f themes/daily-jane
+rm -rf .git/modules/themes/daily-jane/
+git rm -f themes/daily-jane/
+#+end_src
+
+Listening to music on Linux. The opposite of using [[https://roonlabs.com][Roon]]:
+
+[[/img/2022/2022-01-24_09-29.png]]
+
+A week or so ago I removed the analytics (Plausible.io) script from this site and, to my amazement, I don't miss it. I didn't expect that. I've never been obsessed with site views/stats. Curious, but not obsessed. Now I'm not even that curious. However, I do like to keep an eye on overall traffic and things like 404s, so I've re-installed [[https://goaccess.io/][GoAccess]] on the server so I can pop in as needed and review. GoAccess processes the server logs directly, so no need for embedded/tracking scripts.
+
+*** DONE Sunday, January 23, 2022
+CLOSED: [2022-01-23 Sun 06:01]
+:PROPERTIES:
+:EXPORT_FILE_NAME: 2022-01-23-Sunday
+:EXPORT_HUGO_SLUG: 2022-01-23
+:EXPORT_DESCRIPTION:
+:EXPORT_DATE:
+:END:
+
+🌨  Light snow, mist +18°F
+
+I'm having thoughts about my computing environment...Deep Thoughts™. I'm (almost) seriously considing Linux on the desktop and iPad Pro/Mini for mobile. WHAT!? I'll probably get over this in an hour, but right now it's top of mind and feels reasonable. It's before 7:00 am so, no, I've not been drinking. What's going to ruin this is not limitations with Linux, but limitations in iOS.
+
+*** DONE Saturday, January 22, 2022
+CLOSED: [2022-01-22 Sat 04:36]
+:PROPERTIES:
+:EXPORT_FILE_NAME: 2022-01-22-Saturday
+:EXPORT_HUGO_SLUG: 2022-01-22
+:EXPORT_DESCRIPTION:
+:EXPORT_DATE:
+:END:
+
+☀️   Clear +16°F
+
+Didn't I /just/ say I wasn't going to [[https://baty.blog/2022/linux-continued/][do this]]?
+
+[[/img/2022/2022-01-22-SyncThing.png]]
+
+*** DONE Linux, continued :Linux:
+CLOSED: [2022-01-22 Sat 06:08]
+:PROPERTIES:
+:EXPORT_FILE_NAME: 20220122-LinuxContinued
+:EXPORT_HUGO_SLUG: linux-continued
+:EXPORT_DESCRIPTION:
+:EXPORT_DATE:
+:END:
+
+#+attr_html: :class imgRightMargin
+[[/img/small/linux.png]]
+
+Against my better judgement, I spent the first half of yesterday continuing to try [[https://regolith-linux.org][Regolith Linux]]. Honestly, on the big monitor, with a decent mouse and keyboard, I could see a path to Linux full-time when it comes to general computing. This hit home after I'd switched back to my MacBook Pro and after a few minutes thought, "Well, this kind of sucks." I was referring to window management on macOS, and the fact that there isn't any. It's all manual and I noticed that I spend a lot of time micro-manging windows. I immediately missed the Workspaces and i3 setup in Regolith. Didn't expect that! I started to feel that after a couple more days, I would be able to have windows placed right where I want them, but without actually needing to /put/ them there. That would be cool.
+
+And on Linux I have my beloved Emacs and a decent web browser. I have a nice terminal. I have competent file management. I have /control/.
+
+What I don't have is a good way to handle photos. Photo management and editing on Linux is where things start to fall apart. The tools are better than I remember, but they're no match for Capture One, Photo Mechanic, Lightroom, Photoshop, etc. It's not even close, really. I like Darktable and Shotwell and Rawtherapee well enough, and they get the job done, but they're still too janky to live with all the time. In fact, I feel that way about much of Linux; it gets the job done, but there are a lot of rough edges that take the joy out of it. But just imagine if I could sand those smooth.
+
+I woke this morning unable to stop thinking about all this-wondering. I'm writing this while sitting at the ThinkPad plugged into the big screen and learning and swearing, but feeling pretty good. This is currently classified as an "experiment".
+
+*** DONE Friday, January 21, 2022
+CLOSED: [2022-01-21 Fri 06:13]
+:PROPERTIES:
+:EXPORT_FILE_NAME: 2022-01-21-Friday
+:EXPORT_HUGO_SLUG: 2022-01-21
+:EXPORT_DESCRIPTION:
+:EXPORT_DATE:
+:END:
+☁️   Overcast +13°F
+
+It's 4:00 am and we're back from our walk. I think this is a new morning record. Now what?
+
+Thinking maybe this today:
+
+#+caption: An analog pair: Olympia SM3 and Hasselblad 500C/M
+[[/img/2022/20220121-Q1000172.jpg]]
+
+I love how the [[https://us.kef.com/speaker/computer-speakers/lsx-wireless-music-system.html][KEF LSX]] speakers sound, a lot, but they don't work consistently with Roon. This makes me feel less badly about [[https://baty.blog/2022/leaving-roon/][Leaving Roon]]. I'm now either using AirPlay or a stereo mini cable.
+
+I had no idea that [[https://www.youtube.com/watch?v=IDJgwUeW7_k][Cake covered War Pigs]]. Awesome.
+
+*** DONE I should stop installing Linux :Linux:
+CLOSED: [2022-01-20 Thu 04:17]
+:PROPERTIES:
+:EXPORT_FILE_NAME: 20220120-stop-installing-linux
+:EXPORT_HUGO_SLUG: stop-installing-linux
+:EXPORT_DESCRIPTION:
+:EXPORT_DATE:
+:END:
+
+#+attr_html: :class imgRightMargin
+[[/img/small/linux.png]]
+
+Spending half my day yesterday installing [[https://regolith-linux.org][Regolith Linux]] on an old ThinkPad was fun, but useless. I should stop wasting my time like that.
+
+For a time, I thought I'd stick with my Mac on the desktop and use Linux for my portable workstation. Linux is fun to tinker with. There are dozens of variations try. It's got the right philosophy about how things should work and how computing should /be/. I like having it around, but I don't like /using/ it so much.
+
+For years I've used a desktop Mac and a MacBook. Weary of dealing with maintaining two machines and worrying about sync, configuration, etc., I recently consolidated my computers down to one Mac. It's so much better having only one machine. I now realize just how much time I'd spent managing everything. It was /a lot/. Moving to a single-computer setup has been the most productive and satisfying change I've made in years.
+
+And yet there I was, installing Regolith because Paul Ford mentioned it on Twitter.
+
+#+begin_export html
+<blockquote class="quoteback" darkmode="" data-title="Paul Ford on Twitter" data-author="" cite="https://twitter.com/ftrain/status/1483437985798541316">
+I know no one cares but Regolith on Ubuntu + nord theme is a nice way to do a tiling window manager without plowing through a pile of Arch wiki pages where no one will tell you the default modifier key because you should set that yourself.
+<footer><cite> <a href="https://twitter.com/ftrain/status/1483437985798541316">https://twitter.com/ftrain/status/1483437985798541316</a></cite></footer>
+</blockquote><script note="" src="https://cdn.jsdelivr.net/gh/Blogger-Peer-Review/quotebacks@1/quoteback.js"></script>
+#+end_export
+
+That's all it took. I thought, "Hey, that looks neat, I should throw it on the old ThinkPad!" So I did. And Paul was right. It was nice.
+
+I'm infatuated with tiling window managers, and Regolith takes a neat approach to merging [[https://i3wm.org][i3]] and "regular" Ubuntu. I plugged it into my 32" monitor, where a window manager shines. I thought, "I could learn to live like this."
+
+But, after a few hours, all of the little inconsistencies begin to show. I start to miss the little quality-of-life touches that I take for granted on macOS. I once again need to concern myself with sync. And oh, the new MacBook Pro M1 Pro Max is a glorious piece of hardware (and software). Unmatched, as far as I know.
+
+One day I may go all-in on Linux. That's the only way it could work for me. That day is not today, so I need to stop spending too much time thinking it might be.
+
+*** DONE Thursday, January 20, 2022
+CLOSED: [2022-01-20 Thu 04:08]
+:PROPERTIES:
+:EXPORT_FILE_NAME: 2022-01-20-Thursday
+:EXPORT_HUGO_SLUG: 2022-01-20
+:EXPORT_DESCRIPTION:
+:EXPORT_DATE:
+:END:
+⛅️  Partly cloudy +16°F
+
+Good morning. It's 4:03 am and I'm already finished walking with Alice. I don't make coffee until 5:00 am so I've got an hour of nothing to do but chat with all of you. Hi! 👋.
+
+I don't understand the need for "writing prompts". Unless writing is your job, or you're working on a book, if you don't feel like writing, maybe just don't write and stop worrying about it?
+
+Paul Ford's "scratchy mouth feel" describes how I feel about a lot of things:
+
+#+begin_export html
+<blockquote class="quoteback" darkmode="" data-title="Uses This: Paul Ford" data-author="Paul Ford" cite="https://usesthis.com/interviews/paul.ford/">
+Chrome simply started to get a weird, scratchy "mouth feel"; I feel the same way about Chrome as I do about quinoa in a salad.
+<footer>Paul Ford<cite> <a href="https://usesthis.com/interviews/paul.ford/">https://usesthis.com/interviews/paul.ford/</a></cite></footer>
+</blockquote><script note="" src="https://cdn.jsdelivr.net/gh/Blogger-Peer-Review/quotebacks@1/quoteback.js"></script>
+#+end_export
+
+I still can't stop thinking about Linux. Or playing with it, for that matter.
+
+Is it unreasonable to want a life using software that doesn't try to upsell me every three seconds?
+
+*** DONE Wednesday, January 19, 2022
+CLOSED: [2022-01-19 Wed 04:47]
+:PROPERTIES:
+:EXPORT_FILE_NAME: 2022-01-19-Wednesday
+:EXPORT_HUGO_SLUG: 2022-01-19
+:EXPORT_DESCRIPTION:
+:EXPORT_DATE:
+:END:
+
+☁️   Overcast +41°F
+
+Good morning. It's 4:50 am and I'm probably going to install [[https://regolith-linux.org][Regolith]] today on the old ThinkPad. I swore I was done tinkering with Linux but ¯\_(ツ)_/¯.
+
+I've had to remove my plausible.io analytics scripts due to very slow loading.
+
+I'm writing this using Emacs in a fresh Regolith install runnin on my old ThinkPad. About to try a deployment from here as well. If you can read this, I've successfully wasted an entire morning.
+
+*** DONE Leaving Roon? :Apple:Music:
+CLOSED: [2022-01-19 Wed 05:17]
+:PROPERTIES:
+:EXPORT_FILE_NAME: 20220119-leaving-roon
+:EXPORT_HUGO_SLUG: leaving-roon
+:EXPORT_DESCRIPTION:
+:EXPORT_DATE:
+:END:
+
+I've been thinking about killing Roon and moving to Apple Music. But I have a lifetime license to Roon, so that's weird. The trouble is that Roon doesn't work for me unless it's also connected to Qobuz, which costs me $15/month.
+
+Currently, I pay for Qobuz, Spotify, and Apple Music. That's nuts. Qobuz is fine, but it's no longer the only decent Hi-Res option in town. I've never liked Spotify, but I have family that lives there. I have an Apple One family account, so I'm already paying for everyone to have Music.
+
+Apple Music is not a great app and it's not the smartest streaming service, but I get it with the rest of the Apple One subscription, so that's where I'm headed.
+
+I'm just going to have to bite the bullet and wean everyone from Spotify. And I'm going to have to wean myself from the wonders of Roon, for streaming, at least. Roon still works great with my local music library.
+
+So, I'm not actually leaving Roon. I'm leaving Qobuz, but the effect will be similar.
+
+*** DONE Tuesday, January 18, 2022
+CLOSED: [2022-01-18 Tue 05:21]
+:PROPERTIES:
+:EXPORT_FILE_NAME: 2022-01-18-Tuesday
+:EXPORT_HUGO_SLUG: 2022-01-18
+:EXPORT_DESCRIPTION:
+:EXPORT_DATE:
+:END:
+☁️   Overcast +28°F
+
+I'm not even going to mention that this site is once again built using Hugo. You'll just have to figure it out on your own this time.
+
+After spending way too much time trying to get blockquotes with citations to look right, I'm considering just using Quotebacks here. Like this:
+
+#+begin_export html
+<blockquote class="quoteback" darkmode="" data-title="Quotebacks" data-author="Tom Critchlow and Toby Shorin" cite="https://quotebacks.net/#about">
+Quotebacks makes it easy to reference content and create dialogue with other sites by turning snippets of text into elegant, self-contained blockquote components.
+<footer>Tom Critchlow and Toby Shorin<cite> <a href="https://quotebacks.net/#about">https://quotebacks.net/#about</a></cite></footer>
+</blockquote>
+#+end_export
+
+At least I'm using a local copy of quoteback.js so that's one fewer remote dependency I guess.
+
+I've added a [[/changelog/][Changelog]] to track updates to the way this site works or looks.
+
+Found this photo of my parents. Halloween, 1971.
+
+#+caption: Mom and Dad (1971)
+[[/img/2022/20220118-MomDadDressup.jpg]]
+
+I wandered through national news today and was forcefully reminded that the bad guys continue to win. It's taking what little wind I have left out of my sails.
+
+[[https://kevq.uk/comparing-static-site-hosts-best-host-for-a-static-site][Comparing Static Site Hosts; Which Is The Best Host For A Static Site? | Kev Quirk]] demonstrates the disappointing performance I've had using Cloudflare Pages. Right now this site is back to a bunch of files running on a VPS under Caddy.
+
+Nope. Not even considering trying it. No way. [[https://regolith-linux.org/][Regolith 1.6]]
+
+*** DONE Monday, January 17, 2022
+CLOSED: [2022-01-17 Mon 04:34]
+:PROPERTIES:
+:EXPORT_FILE_NAME: 2022-01-17-Monday
+:EXPORT_HUGO_SLUG: 2022-01-17
+:EXPORT_DESCRIPTION: Long-lived tools
+:EXPORT_DATE:
+:END:
+☀️   Clear +19°F
+
+What do I get in return for all the time and thought I put into taking notes? I
+mean, I put a /lot/ of thought into it. What's in it for me? For example, I've been
+meticulously recording my meals since December. I can tell you how many times I
+ate fast food or had pancakes for breakfast. Big whoop! There is almost zero
+lingering value in doing it other than that it's neat. Is "neat" enough to
+justify the effort it took to set up the logging process and the ongoing effort
+of recording every meal? It's fun to set up, but if I'm honest, it's not useful.
+I don't need more excuses to play with my note-taking tools. I should stop
+doing it.
+
+#+begin_quote
+It doesn’t need to replace everything else to win. It just needs to exist.
+
+<figcaption>
+
+<cite>Foo [[https://ploum.net/the-computer-built-to-last-50-years/][The computer built to last 50 years | ploum.net]]</cite>
+
+</figcaption>
+#+end_quote
+
+SL had the same reaction as me when to trying to use an iPad as a mobile computer:
+
+#+begin_quote
+The experience sucked. Replacing a general purpose computer with a jacked-up
+surveillance sensor package is not my idea of solving the problem of mobile
+computing.
+
+<cite>[[http://helpful.cat-v.org/Blog/2019/12/03/0/][How I Switched To Plan 9]]</cite>
+#+end_quote
+
+All wireless things stop working eventually. Usually before their expiration dates.
+
+It's so prevalent that it mostly goes unnoticed, but the entire internet is a
+cacophony of people and companies yelling, "Please engage with me!"
+
+*** DONE Friday, January 14, 2022
+CLOSED: [2022-01-14 Fri 04:14]
+:PROPERTIES:
+:EXPORT_FILE_NAME: 2022-01-14-Friday
+:EXPORT_HUGO_SLUG: 2022-01-14
+:EXPORT_DESCRIPTION:
+:EXPORT_DATE:
+:END:
+☁️ Overcast +32°F
+
+Writing about blogging with Tinderbox, in Tinderbox, over at my [[https://daily.baty.net][Tinderbox-generated blog]]. But also, mentioning it over here, in Org mode, using Emacs to generate a hugo-built blog. I'm fun, right?
+
+*** DONE Charge me less for services and more for software
+CLOSED: [2022-01-14 Fri 04:19]
+:PROPERTIES:
+:EXPORT_FILE_NAME: 20220119-ChargeMeLess
+:EXPORT_HUGO_SLUG: 2022-01-19-charge-me-less
+:EXPORT_DESCRIPTION:
+:EXPORT_DATE:
+:END:
+I would like pricing pressure for software to go up, but for subscriptions to go down. I'll happily pay $250 for a great app, but don't want to pay more than $12/year for a read-it-later service or newsletter or magazine. The number of apps I need is rather low. The number services, news, and entertainment options I need approaches infinity and I just don't have the budget for that.
+
+*** DONE Thursday, January 13, 2022
+CLOSED: [2022-01-13 Thu 04:21]
+:PROPERTIES:
+:EXPORT_FILE_NAME: 2022-01-13-Thursday
+:EXPORT_HUGO_SLUG: 2022-01-13
+:EXPORT_DESCRIPTION:
+:EXPORT_DATE:
+:ID:       23fe4bd4-eed1-4f0a-9462-3b86e64b01c8
+:END:
+
+🌫  Mist +31°F
+
+Logseq is for those who don't know Emacs. Hell, just about /everything/ is for people who don't know Emacs.
+
+I'm afraid to commit to anything because what if I end up wasting my life on it? So instead, I waste my life doing nothing.
+
+Spending a bit of time in the darkroom today. I caught up on my contact sheets so far. There was a roll of Fuji Superia in the Nikon F-100 so I fired off a bunch of flash shots to finish the roll. I'm going to process it in my old C-41 chemistry and hope for the best because I don't want to mix up a fresh batch.
+
+Take that, dark mode nerds!
+
+#+attr_org: :width 600px
+[[attachment:_20220113_181903microbloghitchens.png]]
+
+*** DONE Wednesday, January 12, 2022
+CLOSED: [2022-01-12 Wed 17:23]
+:PROPERTIES:
+:EXPORT_FILE_NAME: 2022-01-12-Wednesday
+:EXPORT_HUGO_SLUG: 2022-01-12
+:EXPORT_DESCRIPTION:
+:EXPORT_DATE:
+:END:
+
+It's hard giving up Emacs for writing and publishing. Correction, it's impossible. I'll probably continue to create a trickle of posts here, simply because I enjoy the environment so much.
+
+What if I used this for personal journaling? I could publish a local website with all my deepest Thoughts and Feelings.
+
+
+> Altogether, America has too much venting and not enough inventing
+>
+> <cite>Derek Thompson, [[https://www.theatlantic.com/ideas/archive/2022/01/scarcity-crisis-college-housing-health-care/621221/][A Simple Plan to Solve All of America’s Problems]]</cite>
+
+
+
+* About
+:PROPERTIES:
+:EXPORT_HUGO_SECTION: /
+:EXPORT_HUGO_BUNDLE: about
+:EXPORT_FILE_NAME: index
+:END:
+
+#+attr_html: :class imgRightMargin
+#+caption: Your host, Jack Baty
+[[./jack-headshot-500.jpg]]
+
+I created this site as a place to capture the things I’m thinking about throughout each day.
+
+There isn’t a specific topic, or trend, or brand, or goal here. It can be pretty mundane.
+
+💌 Reach out via *email*: [[mailto:jack@baty.net][jack@baty.net]]
+
+My primary *blog* is at [[https://baty.net][baty.net]] \\
+The *wiki* is at [[https://wiki.baty.net][wiki.baty.net]]
+
+*Do not expect consistency*.
+
+#+begin_export html
+<br clear="all">
+#+end_export
+
+** Other things
+- [[/index.xml][RSS Feed]]
+- [[/changelog][Changelog]] of changes to this site's structure, behavior, etc.
+
+
+
+* Calendar
+:PROPERTIES:
+:EXPORT_HUGO_SECTION: /
+:EXPORT_FILE_NAME: calendar
+:END:
+
+Jump to any day using the calendar.
+
+* Changelog
+:PROPERTIES:
+:EXPORT_HUGO_SECTION: /
+:EXPORT_FILE_NAME: changelog
+:END:
+
+Changes to this site
+
+- 2022-03-24 RSS feed now only includes type "post"
+- 2022-01-28 Fixed Disqus comments (short name should be "baty")
+- 2022-01-24 Added redirect from /rss to /index.xml. Was seeing a lot of 404s.
+- 2022-01-19 Removed plausible.io due to slow load times
+- 2022-01-18 Call Markdownify on caption attributes in order to hide Figure numbering (See [[https://github.com/kaushalmodi/ox-hugo/issues/535][Issue #535)]]
+- 2022-01-18 Today's post title is prefixed with "Today -"
+- 2022-01-18 Added Changelog page
+- 2022-01-18 Added Quoteback JavaScript
+
+* Footnotes
+* COMMENT Local Variables
+# Local Variables:
+# org-hugo-footer: "\n\n[//]: # \"Exported with love from a post written in Org mode\"\n[//]: # \"- https://github.com/kaushalmodi/ox-hugo\""
+# End:

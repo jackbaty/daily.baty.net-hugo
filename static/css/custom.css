@@ -28,7 +28,7 @@ mark {
 }
 
 blockquote {
-  font-size: 1.00em;
+  font-size: 1.20em;
   margin-bottom: 1em;
   background: #eee;
   padding: 1em;
@@ -38,18 +38,19 @@ blockquote {
 blockquote figcaption {
   text-align: right;
 }
-blockquote cite, blockquote figcaption {
+
+blockquote cite, blockquote figcaption, blockquote footer {
     font-size: 14px;
 
 }
 
-blockquote p:last-of-type a, blockquote p:last-of-type {
-    font-size: 0.9em;
-    text-align: right;
-}
-blockquote p:last-of-type a, blockquote p:last-of-type::before {
-    content: "\2014 ";
-}
+/* blockquote p:last-of-type a, blockquote p:last-of-type { */
+/*     font-size: 0.9em; */
+/*     text-align: right; */
+/* } */
+/* blockquote p:last-of-type a, blockquote p:last-of-type::before { */
+/*     content: "\2014 "; */
+/* } */
 
 /* Hide figure numbers in captions */
 .figure-number {
