@@ -27,6 +27,23 @@
 :DIR:  ~/sites/daily.baty.net/static/img/2023/
 :END:
 ** January 2023
+*** DONE Wednesday, January 11, 2023
+CLOSED: [2023-01-11 Wed 07:23]
+:PROPERTIES:
+:EXPORT_FILE_NAME: 2023-01-11-Wednesday
+:EXPORT_HUGO_SLUG: 2023-01-11
+:END:
+
+There's yet another [[https://micro.blog/jeannie/15790340][thread about Likes on Micro.blog]]. Here's me, in 2017:
+
+@@html:
+{{< blockquote author="Jack Baty" link="https://archive.baty.net/2017/likes-on-social-networks-should-be-private/" >}}
+Opinion: Likes should be visible to only the Like-or and the Like-ee. Liking something is a simple, unobtrusive way to let someone know I appreciate what they wrote. It’s also a way to get a little bump when someone likes what I wrote. No one else need be involved.
+{{< /blockquote >}}
+@@
+
+My opinion on that hasn't changed. Micro.blog should have Likes, but keep them private.
+
 *** DONE Tuesday, January 10, 2023
 CLOSED: [2023-01-10 Tue 06:48]
 :PROPERTIES:
@@ -42,8 +59,7 @@ Imagine my surprise when I noticed that the Jane theme used here includes fancy 
 {{< /blockquote >}}
 @@
 
-
-
+[[https://hazelweakly.me/blog/scaling-mastodon/][Scaling Mastodon: The Compendium | Hazel Weakly]] Good lord, it's no wonder I hated hosting my own instance, and I didn't even need to /worry/ about scaling yet.
 * About
 :PROPERTIES:
 :EXPORT_HUGO_SECTION: /
