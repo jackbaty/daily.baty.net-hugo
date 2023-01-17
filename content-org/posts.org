@@ -27,6 +27,28 @@
 :DIR:  ~/sites/daily.baty.net/static/img/2023/
 :END:
 ** January 2023
+*** DONE Monday, January 16, 2023
+CLOSED: [2023-01-16 Mon 20:06]
+:PROPERTIES:
+:EXPORT_FILE_NAME: 2023-01-16-Monday
+:EXPORT_HUGO_SLUG: 2023-01-16
+:END:
+
+I've been doing this thing where I'm using Evernote again. I know, right? It's almost as if I'm trying to annoy everyone with my retro, proprietary, user-hostile note-taking app. Almost.
+
+*** DONE Friday, January 13, 2023
+CLOSED: [2023-01-13 Fri 07:11]
+:PROPERTIES:
+:EXPORT_FILE_NAME: 2023-01-13-Friday
+:EXPORT_HUGO_SLUG: 2023-01-13
+:END:
+
+@@html:
+{{< blockquote author="Seth Godin" link="" title="The Icarus Deceiption" >}}
+Just because you’re winning a game doesn’t mean it’s a good game.
+{{< /blockquote >}}
+@@
+
 *** DONE Wednesday, January 11, 2023
 CLOSED: [2023-01-11 Wed 07:23]
 :PROPERTIES:
